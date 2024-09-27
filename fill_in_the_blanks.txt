@@ -1,0 +1,600 @@
+Q: The Type of the Dactinomycin is ________.
+A: Small Molecule
+
+Q: The DrugBank Accession Number of the Dactinomycin is ________.
+A: DB00970
+
+Q: The Protein binding of the Dactinomycin is ________.
+A: 5%
+
+Q: The Toxicity of the Dactinomycin is ________.
+A: hepatoxicity
+
+Q: The Type of the Pomalidomide is ________.
+A: Small Molecule
+
+Q: The DrugBank Accession Number of the Pomalidomide is ________.
+A: DB08910
+
+Q: The Protein binding of the Pomalidomide is ________.
+A: 12-44% protein bound. It is not concentration dependent. 
+
+Q: The Toxicity of the Pomalidomide is ________.
+A: Most common adverse reactions (≥30%) included fatigue and asthenia, neutropenia, anemia, constipation, nausea, diarrhea, dyspnea, upper-respiratory tract infections, back pain and pyrexia. 
+
+Q: The Type of the Crizotinib is ________.
+A: Small Molecule
+
+Q: The DrugBank Accession Number of the Crizotinib is ________.
+A: DB08865
+
+Q: The Protein binding of the Crizotinib is ________.
+A: Crizotinib is 91% bound to plasma protein. In vitro studies suggest that this is not affected by drug concentration.4
+
+Q: The Toxicity of the Crizotinib is ________.
+A: The maximum tolerated dose of crizotinib is the same as the recommended dosing regimen (250 mg twice daily). This was defined based on a phase 1 dose-escalation study in patients with advanced solid tumors. The treatment of crizotinib overdoses should consist of symptomatic treatment and other supportive measures. There is no antidote for crizotinib.6 In vitro and in vivo studies have shown that crizotinib is genotoxic, and the Ames test showed that crizotinib was not mutagenic. Carcinogenicity studies with crizotinib have not been performed.4 In female rats, 500 mg/kg/day (approximately 10 times the recommended human dose based on body surface area) of crizotinib for 3 days induced single-cell necrosis of ovarian follicles. In male rats, 50 mg/kg/day of crizotinib (greater than 1.7 times the recommended human dose) for 28 days induced testicular pachytene spermatocyte degeneration.4
+
+Q: The Type of the Atezolizumab is ________.
+A: Biotech
+
+Q: The DrugBank Accession Number of the Atezolizumab is ________.
+A: DB11595
+
+Q: The Protein binding of the Atezolizumab is ________.
+A: Monoclonal antibodies are not expected to bind to proteins in plasma they are not designed to target.
+
+Q: The Toxicity of the Atezolizumab is ________.
+A: Most common adverse reactions (≥ 20% of patients) included: fatigue, decreased appetite, nausea, urinary tract infection, pyrexia, and constipation.Overdose data for atezolizumab is scarce6 but the most common adverse reactions are fatigue, nausea, cough, dyspnea, decreased appetite, alopecia, constipation, diarrhea, peripheral neuropathies, anemia, headache, neutropenia, and vomiting.7
+
+Q: The Type of the Olaratumab is ________.
+A: Biotech
+
+Q: The DrugBank Accession Number of the Olaratumab is ________.
+A: DB06043
+
+Q: The Protein binding of the Olaratumab is ________.
+A: None
+
+Q: The Toxicity of the Olaratumab is ________.
+A: Infusion-related reactions may occur during or after the administration which include bronchospasm, flushing, hypotension, anaphylactic shock, or cardiac arrest. Olaratumab may cause embryo-fetal toxicity based on animal data and its mechanism of action. Other reported adverse effects include neutropenia, leukopenia, anemia, nausea and musculoskeletal pain. 
+
+Q: The Type of the Interferon alfa-2b is ________.
+A: Biotech
+
+Q: The DrugBank Accession Number of the Interferon alfa-2b is ________.
+A: DB00105
+
+Q: The Protein binding of the Interferon alfa-2b is ________.
+A: Not Available
+
+Q: The Toxicity of the Interferon alfa-2b is ________.
+A: There is limited experience with overdosage. Postmarketing surveillance includes reports of patients receiving a single dose as great as 10 times the recommended dose. In general, the primary effects of an overdose are consistent with the effects seen with therapeutic doses of interferon alfa-2b. Hepatic enzyme abnormalities, renal failure, hemorrhage, and myocardial infarction have been reported with single administration overdoses and/or with longer durations of treatment than prescribed. Toxic effects after ingestion of interferon alfa-2b are not expected because interferons are poorly absorbed orally.
+
+Q: The Type of the Pazopanib is ________.
+A: Small Molecule
+
+Q: The DrugBank Accession Number of the Pazopanib is ________.
+A: DB06589
+
+Q: The Protein binding of the Pazopanib is ________.
+A: >99% protein bound, independent of concentrations over a range of 10-100 μg/mL. 
+
+Q: The Toxicity of the Pazopanib is ________.
+A: Not Available
+
+Q: The Type of the Bexarotene is ________.
+A: Small Molecule
+
+Q: The DrugBank Accession Number of the Bexarotene is ________.
+A: DB00307
+
+Q: The Protein binding of the Bexarotene is ________.
+A: >99%
+
+Q: The Toxicity of the Bexarotene is ________.
+A: Not Available
+
+Q: The Type of the Lurbinectedin is ________.
+A: Small Molecule
+
+Q: The DrugBank Accession Number of the Lurbinectedin is ________.
+A: DB12674
+
+Q: The Protein binding of the Lurbinectedin is ________.
+A: Lurbinectedin is highly protein-bound in plasma (~99%) to both serum albumin and α-1-acid glycoprotein.7
+
+Q: The Toxicity of the Lurbinectedin is ________.
+A: Data regarding overdosage with lurbinectedin are not available. Symptoms of overdose are likely to be consistent with lurbinectedin's adverse effect profile.7
+
+Q: The Type of the Tazemetostat is ________.
+A: Small Molecule
+
+Q: The DrugBank Accession Number of the Tazemetostat is ________.
+A: DB12887
+
+Q: The Protein binding of the Tazemetostat is ________.
+A: Tazemetostat is 88% protein bound in plasma.6
+
+Q: The Toxicity of the Tazemetostat is ________.
+A: Data regarding the presentation and management of tazemetostat overdoses are not readily available.6 The most common adverse reactions associated with tazemetostat are pain, fatigue, nausea, decreased appetite, vomiting, and constipation.6
+
+Q: The Type of the Interferon alfa-2a is ________.
+A: Biotech
+
+Q: The DrugBank Accession Number of the Interferon alfa-2a is ________.
+A: DB00034
+
+Q: The Protein binding of the Interferon alfa-2a is ________.
+A: Not Available
+
+Q: The Toxicity of the Interferon alfa-2a is ________.
+A: Interferon alfa-2 may cause serious adverse effects such as anemia; autoimmune diseases, including vasculitis, arthritis, hemolytic anemia, and erythematosus syndrome; cardiotoxicity; hepatotoxicity; hyperthyroidism or hypothyroidism; transient ischemic attacks; leukopenia; neurotoxicity; peripheral neuropathy; and thrombocytopenia. Some lesser side effects that may not need medical attention include blurred vision, change in taste or metallic taste, cold sores or stomatitis, diarrhea, dizziness, dry mouth, dry skin or itching, flu-like syndrome, increased sweating, leg cramps, loss of appetite, nausea or vomiting, skin rash, unusual tiredness, weight loss, and partial loss of hair.
+
+Q: The Type of the Vincristine is ________.
+A: Small Molecule
+
+Q: The DrugBank Accession Number of the Vincristine is ________.
+A: DB00541
+
+Q: The Protein binding of the Vincristine is ________.
+A: ~75%
+
+Q: The Toxicity of the Vincristine is ________.
+A: IVN-RAT LD50 1300 mg/kg; IPR-MUS LD50 5.2 mg/kg. Marqibo® must only be administered IV because it is fatal if administered by other routes. Marqibo® also has different dosing than vincristine sulphate injection, so attention is needed to prevent overdoses. The most clinically significant adverse effect of vincristine is neurotoxicity. 
+
+Q: The Type of the Sirolimus is ________.
+A: Small Molecule
+
+Q: The DrugBank Accession Number of the Sirolimus is ________.
+A: DB00877
+
+Q: The Protein binding of the Sirolimus is ________.
+A: Sirolimus is 92% bound to human plasma proteins, mainly serum albumin (97%), α1-acid glycoprotein, and lipoproteins.8
+
+Q: The Toxicity of the Sirolimus is ________.
+A: Oral LD50 of sirolimus is 800 mg/kg in rats and 2500 mg/kg in mouse.12Sirolimus is a narrow therapeutic index drug.5 Although there are reports of overdose with sirolimus, there is limited information on overdose in the clinical setting. Symptoms of overdose are consistent with the adverse effects of sirolimus. General supportive measures are recommended in the event of an overdose. Because sirolimus has low aqueous solubility and high erythrocyte and plasma protein binding, it is not expected to be dialyzable to any significant extent.8
+
+Q: The Type of the Alitretinoin is ________.
+A: Small Molecule
+
+Q: The DrugBank Accession Number of the Alitretinoin is ________.
+A: DB00523
+
+Q: The Protein binding of the Alitretinoin is ________.
+A: Not Available
+
+Q: The Toxicity of the Alitretinoin is ________.
+A: Not Available
+
+Q: The Type of the Interferon alfacon-1 is ________.
+A: Biotech
+
+Q: The DrugBank Accession Number of the Interferon alfacon-1 is ________.
+A: DB00069
+
+Q: The Protein binding of the Interferon alfacon-1 is ________.
+A: Not Available
+
+Q: The Toxicity of the Interferon alfacon-1 is ________.
+A: Reproductive toxicity studies in pregnant rhesus monkeys and golden Syrian hamsters demonstrated an increase in fetal loss in hamsters treated with Interferon alfacon-1 at doses of > 150 mcg/kg/day, and in rhesus monkeys at doses of 3 and 10 mcg/kg/day. The Interferon alfacon-1 toxicity profile described is consistent with the known toxicity profile of other alpha interferons.
+
+Q: The Type of the Vinblastine is ________.
+A: Small Molecule
+
+Q: The DrugBank Accession Number of the Vinblastine is ________.
+A: DB00570
+
+Q: The Protein binding of the Vinblastine is ________.
+A: 98-99%
+
+Q: The Toxicity of the Vinblastine is ________.
+A: Oral, mouse: LD50 = 423 mg/kg; Oral, rat: LD50 = 305 mg/kg.
+
+Q: The Type of the Trabectedin is ________.
+A: Small Molecule
+
+Q: The DrugBank Accession Number of the Trabectedin is ________.
+A: DB05109
+
+Q: The Protein binding of the Trabectedin is ________.
+A: 94 to 98%
+
+Q: The Toxicity of the Trabectedin is ________.
+A: Not Available
+
+Q: The Type of the Tasonermin is ________.
+A: Biotech
+
+Q: The DrugBank Accession Number of the Tasonermin is ________.
+A: DB11626
+
+Q: The Protein binding of the Tasonermin is ________.
+A: No data is available on tasonermin binding to plasma proteins.
+
+Q: The Toxicity of the Tasonermin is ________.
+A: In addition to its intended cytotoxic effects, tasonermin produces secondary adverse effects. Studies in mice, rats, dogs, monkeys, and rabbits observed hematological changes including anemia, increased hematocrit, and changes in leukocyte and platelet counts dependent on species and treatment duration Label.Tasonermin also produces decreases in blood pressure. Increases in heart rate and reductions in cardiac contractility have been noted in some studies.Increased liver enzymes suggest altered liver function as a result of tasonermin administration. Changes in kidney function have also been observed including increased water and sodium excretion as well as increased serum urea and creatinine.The only study to determine a no observable adverse effect level found the value to be 0.1 μg/kg in monkeys during a 7-day course of tasonermin.
+
+Q: The Type of the Paclitaxel is ________.
+A: Small Molecule
+
+Q: The DrugBank Accession Number of the Paclitaxel is ________.
+A: DB01229
+
+Q: The Protein binding of the Paclitaxel is ________.
+A: 89%-98% bound to plasma protein. The presence of cimetidine, ranitidine, dexamethasone, or diphenhydramine did not affect protein binding of paclitaxel.
+
+Q: The Toxicity of the Paclitaxel is ________.
+A: Rat (ipr) LD50=32530 µg/kg. Symptoms of overdose include bone marrow suppression, peripheral neurotoxicity, and mucositis. Overdoses in pediatric patients may be associated with acute ethanol toxicity.
+
+Q: The Type of the Tibolone is ________.
+A: Small Molecule
+
+Q: The DrugBank Accession Number of the Tibolone is ________.
+A: DB09070
+
+Q: The Protein binding of the Tibolone is ________.
+A: Tibolone is 96% bound to plasma proteins, most likely albumin.16
+
+Q: The Toxicity of the Tibolone is ________.
+A: >2000 mg/kg MSDSThe Million Women Study (MWS), which had a prospective observational design, studied the use of hormone replacement therapy. The results indicated that the increase in the incidence of breast cancer with estrogen and progestogen (compared to estrogen alone) was greater than the reduction in occurrence of endometrial cancer associated with adding progestogen to estrogen therapy. The MWS also reported a marked increase in the incidence of breast cancer with tibolone and with implanted and transdermal estrogen-only preparations 6.Tibolone treatment in rodent studies showed an increased association with the development of a range of tumors in long-term oral carcinogenicity studies. These tumors included pituitary adenomas, mammary carcinomas and fibroadenomas, hepatic adenomas, uterine carcinoma, stromal polyps and stromal sarcoma, and carcinomas of the urinary bladder and testes. Tibolone failed to show any evidence of genotoxicity in studies for gene mutations, chromosomal damage as well as DNA damage 9.Other adverse effects these include dizziness, headache, nausea, abdominal pain, rashes, pruritus, weight gain, edema, and migraine 16.
+
+Q: The Type of the Palbociclib is ________.
+A: Small Molecule
+
+Q: The DrugBank Accession Number of the Palbociclib is ________.
+A: DB09073
+
+Q: The Protein binding of the Palbociclib is ________.
+A: Binding of palbociclib to human plasma proteins in vitro accounts for approximately 85% of the administered dose.12
+
+Q: The Toxicity of the Palbociclib is ________.
+A: The reported oral Ld50 is of 100 mg/kg.MSDS In cases of overdosage, only supportive measures are considered.LabelPalbociclib was showed to present clastogenic activities in in vitro and in vivo assays. As well, it has been reported to produce fetal harm due to its mechanism of action.3 Lastly, it was shown to increase the incidence of microglial cell tumors in the central nervous system at high doses.Label
+
+Q: The Type of the Vesnarinone is ________.
+A: Small Molecule
+
+Q: The DrugBank Accession Number of the Vesnarinone is ________.
+A: DB12082
+
+Q: The Protein binding of the Vesnarinone is ________.
+A: Not Available
+
+Q: The Toxicity of the Vesnarinone is ________.
+A: Not Available
+
+Q: The Type of the TNP-470 is ________.
+A: Small Molecule
+
+Q: The DrugBank Accession Number of the TNP-470 is ________.
+A: DB08633
+
+Q: The Protein binding of the TNP-470 is ________.
+A: Not Available
+
+Q: The Toxicity of the TNP-470 is ________.
+A: Not Available
+
+Q: The Type of the Binetrakin is ________.
+A: Biotech
+
+Q: The DrugBank Accession Number of the Binetrakin is ________.
+A: DB12182
+
+Q: The Protein binding of the Binetrakin is ________.
+A: Not Available
+
+Q: The Toxicity of the Binetrakin is ________.
+A: Not Available
+
+Q: The Type of the Incyclinide is ________.
+A: Small Molecule
+
+Q: The DrugBank Accession Number of the Incyclinide is ________.
+A: DB11647
+
+Q: The Protein binding of the Incyclinide is ________.
+A: Not Available
+
+Q: The Toxicity of the Incyclinide is ________.
+A: Not Available
+
+Q: The Type of the Bifenthrin is ________.
+A: Small Molecule
+
+Q: The DrugBank Accession Number of the Bifenthrin is ________.
+A: DB15056
+
+Q: The Protein binding of the Bifenthrin is ________.
+A: Not Available
+
+Q: The Toxicity of the Bifenthrin is ________.
+A: Not Available
+
+Q: The Type of the Conatumumab is ________.
+A: Biotech
+
+Q: The DrugBank Accession Number of the Conatumumab is ________.
+A: DB11646
+
+Q: The Protein binding of the Conatumumab is ________.
+A: Not Available
+
+Q: The Toxicity of the Conatumumab is ________.
+A: Not Available
+
+Q: The Type of the Tozuleristide is ________.
+A: Biotech
+
+Q: The DrugBank Accession Number of the Tozuleristide is ________.
+A: DB15375
+
+Q: The Protein binding of the Tozuleristide is ________.
+A: Not Available
+
+Q: The Toxicity of the Tozuleristide is ________.
+A: Not Available
+
+Q: The Type of the Selurampanel is ________.
+A: Small Molecule
+
+Q: The DrugBank Accession Number of the Selurampanel is ________.
+A: DB12367
+
+Q: The Protein binding of the Selurampanel is ________.
+A: Not Available
+
+Q: The Toxicity of the Selurampanel is ________.
+A: Not Available
+
+Q: The Type of the Robatumumab is ________.
+A: Biotech
+
+Q: The DrugBank Accession Number of the Robatumumab is ________.
+A: DB12976
+
+Q: The Protein binding of the Robatumumab is ________.
+A: Not Available
+
+Q: The Toxicity of the Robatumumab is ________.
+A: Not Available
+
+Q: The Type of the Ontuxizumab is ________.
+A: Biotech
+
+Q: The DrugBank Accession Number of the Ontuxizumab is ________.
+A: DB16270
+
+Q: The Protein binding of the Ontuxizumab is ________.
+A: Not Available
+
+Q: The Toxicity of the Ontuxizumab is ________.
+A: Not Available
+
+Q: The Type of the Racotumomab is ________.
+A: Biotech
+
+Q: The DrugBank Accession Number of the Racotumomab is ________.
+A: DB13045
+
+Q: The Protein binding of the Racotumomab is ________.
+A: Not Available
+
+Q: The Toxicity of the Racotumomab is ________.
+A: Not Available
+
+Q: The Type of the RG-4733 is ________.
+A: Small Molecule
+
+Q: The DrugBank Accession Number of the RG-4733 is ________.
+A: DB11870
+
+Q: The Protein binding of the RG-4733 is ________.
+A: Not Available
+
+Q: The Toxicity of the RG-4733 is ________.
+A: Not Available
+
+Q: The Type of the Valspodar is ________.
+A: Small Molecule
+
+Q: The DrugBank Accession Number of the Valspodar is ________.
+A: DB11869
+
+Q: The Protein binding of the Valspodar is ________.
+A: Not Available
+
+Q: The Toxicity of the Valspodar is ________.
+A: Not Available
+
+Q: The Type of the Cilengitide is ________.
+A: Small Molecule
+
+Q: The DrugBank Accession Number of the Cilengitide is ________.
+A: DB11890
+
+Q: The Protein binding of the Cilengitide is ________.
+A: Not Available
+
+Q: The Toxicity of the Cilengitide is ________.
+A: Not Available
+
+Q: The Type of the Pegamotecan is ________.
+A: Small Molecule
+
+Q: The DrugBank Accession Number of the Pegamotecan is ________.
+A: DB12842
+
+Q: The Protein binding of the Pegamotecan is ________.
+A: Not Available
+
+Q: The Toxicity of the Pegamotecan is ________.
+A: Not Available
+
+Q: The Type of the Nanoparticle Epirubicin is ________.
+A: Small Molecule
+
+Q: The DrugBank Accession Number of the Nanoparticle Epirubicin is ________.
+A: DB16248
+
+Q: The Protein binding of the Nanoparticle Epirubicin is ________.
+A: Not Available
+
+Q: The Toxicity of the Nanoparticle Epirubicin is ________.
+A: Not Available
+
+Q: The Type of the Exatecan is ________.
+A: Small Molecule
+
+Q: The DrugBank Accession Number of the Exatecan is ________.
+A: DB12185
+
+Q: The Protein binding of the Exatecan is ________.
+A: Not Available
+
+Q: The Toxicity of the Exatecan is ________.
+A: Not Available
+
+Q: The Type of the Soblidotin is ________.
+A: Small Molecule
+
+Q: The DrugBank Accession Number of the Soblidotin is ________.
+A: DB12677
+
+Q: The Protein binding of the Soblidotin is ________.
+A: Not Available
+
+Q: The Toxicity of the Soblidotin is ________.
+A: Not Available
+
+Q: The Type of the Dolastatin 10 is ________.
+A: Small Molecule
+
+Q: The DrugBank Accession Number of the Dolastatin 10 is ________.
+A: DB12730
+
+Q: The Protein binding of the Dolastatin 10 is ________.
+A: Not Available
+
+Q: The Toxicity of the Dolastatin 10 is ________.
+A: Not Available
+
+Q: The Type of the Camsirubicin is ________.
+A: Small Molecule
+
+Q: The DrugBank Accession Number of the Camsirubicin is ________.
+A: DB13103
+
+Q: The Protein binding of the Camsirubicin is ________.
+A: Not Available
+
+Q: The Toxicity of the Camsirubicin is ________.
+A: Not Available
+
+Q: The Type of the Trofosfamide is ________.
+A: Small Molecule
+
+Q: The DrugBank Accession Number of the Trofosfamide is ________.
+A: DB12902
+
+Q: The Protein binding of the Trofosfamide is ________.
+A: Not Available
+
+Q: The Toxicity of the Trofosfamide is ________.
+A: Not Available
+
+Q: The Type of the Figitumumab is ________.
+A: Biotech
+
+Q: The DrugBank Accession Number of the Figitumumab is ________.
+A: DB11685
+
+Q: The Protein binding of the Figitumumab is ________.
+A: Not Available
+
+Q: The Toxicity of the Figitumumab is ________.
+A: Not Available
+
+Q: The Type of the Antineoplaston A10 is ________.
+A: Small Molecule
+
+Q: The DrugBank Accession Number of the Antineoplaston A10 is ________.
+A: DB11702
+
+Q: The Protein binding of the Antineoplaston A10 is ________.
+A: Not Available
+
+Q: The Toxicity of the Antineoplaston A10 is ________.
+A: Not Available
+
+Q: The Type of the Ombrabulin is ________.
+A: Small Molecule
+
+Q: The DrugBank Accession Number of the Ombrabulin is ________.
+A: DB12882
+
+Q: The Protein binding of the Ombrabulin is ________.
+A: Not Available
+
+Q: The Toxicity of the Ombrabulin is ________.
+A: Not Available
+
+Q: The Type of the Zalypsis is ________.
+A: Small Molecule
+
+Q: The DrugBank Accession Number of the Zalypsis is ________.
+A: DB12454
+
+Q: The Protein binding of the Zalypsis is ________.
+A: Not Available
+
+Q: The Toxicity of the Zalypsis is ________.
+A: Not Available
+
+Q: The Type of the Ro 24-7429 is ________.
+A: Small Molecule
+
+Q: The DrugBank Accession Number of the Ro 24-7429 is ________.
+A: DB16062
+
+Q: The Protein binding of the Ro 24-7429 is ________.
+A: Not Available
+
+Q: The Toxicity of the Ro 24-7429 is ________.
+A: Not Available
+
+Q: The Type of the Disaccharide tripeptide glycerol dipalmitoyl is ________.
+A: Small Molecule
+
+Q: The DrugBank Accession Number of the Disaccharide tripeptide glycerol dipalmitoyl is ________.
+A: DB15423
+
+Q: The Protein binding of the Disaccharide tripeptide glycerol dipalmitoyl is ________.
+A: Not Available
+
+Q: The Toxicity of the Disaccharide tripeptide glycerol dipalmitoyl is ________.
+A: Not Available
+
+Q: The Type of the Palifosfamide is ________.
+A: Small Molecule
+
+Q: The DrugBank Accession Number of the Palifosfamide is ________.
+A: DB05668
+
+Q: The Protein binding of the Palifosfamide is ________.
+A: Not Available
+
+Q: The Toxicity of the Palifosfamide is ________.
+A: Not Available
+
+Q: The Type of the Ridaforolimus is ________.
+A: Small Molecule
+
+Q: The DrugBank Accession Number of the Ridaforolimus is ________.
+A: DB06233
+
+Q: The Protein binding of the Ridaforolimus is ________.
+A: Not Available
+
+Q: The Toxicity of the Ridaforolimus is ________.
+A: Not Available
+
