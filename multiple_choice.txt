@@ -1,0 +1,1414 @@
+Q: What is the Brand Names of Dactinomycin?
+A. Cosmegen
+B. HMDB0015105
+C. Lundbeck Inc.Merck & Co.
+D. Alpha-amino acid ester / Alpha-amino acid or derivatives / Amine / Amino acid or derivatives / Aromatic heteropolycyclic compound / Azacycle / Benzenoid / Carbonyl group / Carboxamide group / Carboxylic acid derivative / Carboxylic acid ester / Cyclic depsipeptide / Cyclic ketone / Dicarboxylic acid or derivatives / Heteroaromatic compound / Hydrocarbon derivative / Lactam / Lactone / Macrolactam / Macrolide lactam / N-acyl-alpha amino acid or derivatives / Organic nitrogen compound / Organic oxide / Organic oxygen compound / Organoheterocyclic compound / Organonitrogen compound / Organooxygen compound / Organopnictogen compound / Oxacycle / Phenoxazine / Primary amine / Pyrrolidine / Secondary carboxylic acid amide / Tertiary carboxylic acid amide / Vinylogous amide show 25 more
+Correct Answer: Cosmegen
+
+Q: What is the DrugBank Accession Number of Dactinomycin?
+A. Drug product information from 10+ global regionsOur datasets provide approved product information including:dosage, form, labeller, route of administration, and marketing period.Access now  Access drug product information from over 10 global regions.Access now
+B. Dactinomycin
+C. Average: 1255.417 Monoisotopic: 1254.628474764 
+D. DB00970
+Correct Answer: DB00970
+
+Q: What is the Groups of Dactinomycin?
+A. Approved, Investigational
+B. DB00970
+C. Not Available
+D. Dactinomycin is an actinomycin used to treat a wide variety of cancers.
+Correct Answer: Approved, Investigational
+
+Q: What is the Weight of Dactinomycin?
+A. Human Metabolome DatabaseHMDB0015105KEGG DrugD00214KEGG CompoundC06770PubChem Compound457193PubChem Substance46509192ChemSpider10482167BindingDB43866RxNav3100ChEBI27666ChEMBLCHEMBL1554Therapeutic Targets DatabaseDNC000380PharmGKBPA151917012RxListRxList Drug PageDrugs.comDrugs.com Drug PageWikipediaDactinomycin
+B. Macrolide lactams / Phenoxazines / Macrolactams / Alpha amino acid esters / N-acyl-alpha amino acids and derivatives / Benzenoids / Dicarboxylic acids and derivatives / Pyrrolidines / Heteroaromatic compounds / Tertiary carboxylic acid amides / Vinylogous amides / Secondary carboxylic acid amides / Lactones / Lactams / Cyclic ketones / Carboxylic acid esters / Oxacyclic compounds / Azacyclic compounds / Organopnictogen compounds / Organic oxides / Primary amines / Hydrocarbon derivatives show 12 more
+C. A compound composed of a two cyclic peptides attached to a phenoxazine that is derived from streptomyces parvullus. It binds to DNA and inhibits RNA synthesis (transcription), with chain elongation more sensitive than initiation, termination, or release. As a result of impaired mRNA production, protein synthesis also declines after dactinomycin therapy. (From AMA Drug Evaluations Annual, 1993, p2015)
+D. Average: 1255.417 Monoisotopic: 1254.628474764 
+Correct Answer: Average: 1255.417 Monoisotopic: 1254.628474764 
+
+Q: What is the Drug Categories of Dactinomycin?
+A. ActinomycinActinomycinesAmino Acids, Peptides, and ProteinsAnti-Infective AgentsAntibiotics, AntineoplasticAntineoplastic AgentsAntineoplastic and Immunomodulating AgentsBCRP/ABCG2 SubstratesCytotoxic Antibiotics and Related SubstancesEnzyme InhibitorsHeterocyclic Compounds, Fused-RingImmunosuppressive AgentsMyelosuppressive AgentsNarrow Therapeutic Index DrugsNucleic Acid Synthesis InhibitorsP-glycoprotein inhibitorsP-glycoprotein substratesP-glycoprotein substrates with a Narrow Therapeutic IndexPeptidesPeptides, CyclicProtein Synthesis Inhibitors
+B. No interactions found.
+C. PropertyValueSourcemelting point (°C)241.5-243 °CNot Availablewater solubilitySoluble at 10 °CNot AvailablelogP1.6Not Available
+D. Humans and other mammals
+Correct Answer: ActinomycinActinomycinesAmino Acids, Peptides, and ProteinsAnti-Infective AgentsAntibiotics, AntineoplasticAntineoplastic AgentsAntineoplastic and Immunomodulating AgentsBCRP/ABCG2 SubstratesCytotoxic Antibiotics and Related SubstancesEnzyme InhibitorsHeterocyclic Compounds, Fused-RingImmunosuppressive AgentsMyelosuppressive AgentsNarrow Therapeutic Index DrugsNucleic Acid Synthesis InhibitorsP-glycoprotein inhibitorsP-glycoprotein substratesP-glycoprotein substrates with a Narrow Therapeutic IndexPeptidesPeptides, CyclicProtein Synthesis Inhibitors
+
+Q: What is the Brand Names of Pomalidomide?
+A. PropertyValueProbabilityHuman Intestinal Absorption+0.9653Blood Brain Barrier+0.8304Caco-2 permeable-0.6419P-glycoprotein substrateSubstrate0.5264P-glycoprotein inhibitor INon-inhibitor0.5983P-glycoprotein inhibitor IINon-inhibitor0.9147Renal organic cation transporterNon-inhibitor0.847CYP450 2C9 substrateNon-substrate0.844CYP450 2D6 substrateNon-substrate0.8882CYP450 3A4 substrateSubstrate0.5079CYP450 1A2 substrateNon-inhibitor0.8863CYP450 2C9 inhibitorNon-inhibitor0.8428CYP450 2D6 inhibitorNon-inhibitor0.9002CYP450 2C19 inhibitorNon-inhibitor0.8513CYP450 3A4 inhibitorNon-inhibitor0.7289CYP450 inhibitory promiscuityLow CYP Inhibitory Promiscuity0.8686Ames testNon AMES toxic0.7979CarcinogenicityNon-carcinogens0.9081BiodegradationNot ready biodegradable0.9858Rat acute toxicity2.5862 LD50, mol/kg Not applicablehERG inhibition (predictor I)Weak inhibitor0.9885hERG inhibition (predictor II)Non-inhibitor0.7765  ADMET data is predicted using admetSAR, a free tool for evaluating chemical ADMET properties. (23092397) 
+B. Isoindolines
+C. Imnovid, Pomalyst
+D. Not Available
+Correct Answer: Imnovid, Pomalyst
+
+Q: What is the DrugBank Accession Number of Pomalidomide?
+A. Drugs.com Drug Page
+B. DB08910
+C. 175427148
+D. 19171-19-8
+Correct Answer: DB08910
+
+Q: What is the Groups of Pomalidomide?
+A. Not Available
+B. Solid
+C. PropertyValueProbabilityHuman Intestinal Absorption+0.9653Blood Brain Barrier+0.8304Caco-2 permeable-0.6419P-glycoprotein substrateSubstrate0.5264P-glycoprotein inhibitor INon-inhibitor0.5983P-glycoprotein inhibitor IINon-inhibitor0.9147Renal organic cation transporterNon-inhibitor0.847CYP450 2C9 substrateNon-substrate0.844CYP450 2D6 substrateNon-substrate0.8882CYP450 3A4 substrateSubstrate0.5079CYP450 1A2 substrateNon-inhibitor0.8863CYP450 2C9 inhibitorNon-inhibitor0.8428CYP450 2D6 inhibitorNon-inhibitor0.9002CYP450 2C19 inhibitorNon-inhibitor0.8513CYP450 3A4 inhibitorNon-inhibitor0.7289CYP450 inhibitory promiscuityLow CYP Inhibitory Promiscuity0.8686Ames testNon AMES toxic0.7979CarcinogenicityNon-carcinogens0.9081BiodegradationNot ready biodegradable0.9858Rat acute toxicity2.5862 LD50, mol/kg Not applicablehERG inhibition (predictor I)Weak inhibitor0.9885hERG inhibition (predictor II)Non-inhibitor0.7765  ADMET data is predicted using admetSAR, a free tool for evaluating chemical ADMET properties. (23092397) 
+D. Approved
+Correct Answer: Approved
+
+Q: What is the Weight of Pomalidomide?
+A. InChI=1S/C13H11N3O4/c14-7-3-1-2-6-10(7)13(20)16(12(6)19)8-4-5-9(17)15-11(8)18/h1-3,8H,4-5,14H2,(H,15,17,18)
+B. Average: 273.2441 Monoisotopic: 273.074955855 
+C. 19171-19-8
+D. 4-amino-2-(2,6-dioxopiperidin-3-yl)-2,3-dihydro-1H-isoindole-1,3-dione
+Correct Answer: Average: 273.2441 Monoisotopic: 273.074955855 
+
+Q: What is the Drug Categories of Pomalidomide?
+A. C13H11N3O4
+B. Acids, CarbocyclicAngiogenesis InhibitorsAngiogenesis Modulating AgentsAntineoplastic AgentsAntineoplastic and Immunomodulating AgentsCancer immunotherapyCentral Nervous System DepressantsCytochrome P-450 CYP1A2 SubstratesCytochrome P-450 CYP1A2 Substrates with a Narrow Therapeutic IndexCytochrome P-450 CYP3A SubstratesCytochrome P-450 CYP3A4 SubstratesCytochrome P-450 CYP3A4 Substrates with a Narrow Therapeutic IndexCytochrome P-450 SubstratesDrugs that are Mainly Renally ExcretedGrowth InhibitorsGrowth SubstancesHeterocyclic Compounds, Fused-RingImidesImmunologic FactorsImmunosuppressive AgentsImmunotherapyIsoindolesMyelosuppressive AgentsNarrow Therapeutic Index DrugsP-glycoprotein substratesP-glycoprotein substrates with a Narrow Therapeutic IndexPhthalic AcidsPhthalimidesPiperidinesPiperidonesThalidomide AnalogTumor Necrosis Factor Blockers
+C. RxList Drug Page
+D. Total body clearance = 7-10 L/hour 
+Correct Answer: Acids, CarbocyclicAngiogenesis InhibitorsAngiogenesis Modulating AgentsAntineoplastic AgentsAntineoplastic and Immunomodulating AgentsCancer immunotherapyCentral Nervous System DepressantsCytochrome P-450 CYP1A2 SubstratesCytochrome P-450 CYP1A2 Substrates with a Narrow Therapeutic IndexCytochrome P-450 CYP3A SubstratesCytochrome P-450 CYP3A4 SubstratesCytochrome P-450 CYP3A4 Substrates with a Narrow Therapeutic IndexCytochrome P-450 SubstratesDrugs that are Mainly Renally ExcretedGrowth InhibitorsGrowth SubstancesHeterocyclic Compounds, Fused-RingImidesImmunologic FactorsImmunosuppressive AgentsImmunotherapyIsoindolesMyelosuppressive AgentsNarrow Therapeutic Index DrugsP-glycoprotein substratesP-glycoprotein substrates with a Narrow Therapeutic IndexPhthalic AcidsPhthalimidesPiperidinesPiperidonesThalidomide AnalogTumor Necrosis Factor Blockers
+
+Q: What is the Brand Names of Crizotinib?
+A. Pyrazolylpyridines
+B. Xalkori
+C. DescriptionThis compound belongs to the class of organic compounds known as pyrazolylpyridines. These are compounds containing a pyrazolylpyridine skeleton, which consists of a pyrazole linked (not fused) to a pyridine by a bond.KingdomOrganic compoundsSuper ClassOrganoheterocyclic compoundsClassPyridines and derivativesSub ClassPyrazolylpyridinesDirect ParentPyrazolylpyridinesAlternative ParentsDichlorobenzenes / Alkyl aryl ethers / Aminopyridines and derivatives / Fluorobenzenes / Piperidines / Aryl chlorides / Aryl fluorides / Imidolactams / Pyrazoles / Heteroaromatic compounds / Azacyclic compounds / Dialkylamines / Primary amines / Organochlorides / Organofluorides / Organopnictogen compounds / Hydrocarbon derivatives show 7 moreSubstituents1,3-dichlorobenzene / 3-pyrazolylpyridine / Alkyl aryl ether / Amine / Aminopyridine / Aromatic heteromonocyclic compound / Aryl chloride / Aryl fluoride / Aryl halide / Azacycle / Azole / Benzenoid / Chlorobenzene / Ether / Fluorobenzene / Halobenzene / Heteroaromatic compound / Hydrocarbon derivative / Imidolactam / Monocyclic benzene moiety / Organic nitrogen compound / Organic oxygen compound / Organochloride / Organofluoride / Organohalogen compound / Organonitrogen compound / Organooxygen compound / Organopnictogen compound / Piperidine / Primary amine / Pyrazole / Secondary aliphatic amine / Secondary amine show 23 moreMolecular FrameworkAromatic heteromonocyclic compoundsExternal Descriptors3-[1-(2,6-dichloro-3-fluorophenyl)ethoxy]-5-[1-(piperidin-4-yl)pyrazol-4-yl]pyridin-2-amine (CHEBI:64310) 
+D. FormRouteStrengthCapsuleOralCapsuleOral200 mg/1CapsuleOral250 mg/1Capsule, coatedOral200 mgCapsule, coatedOral250 mgCapsuleOral200 mgCapsuleOral250 mg
+Correct Answer: Xalkori
+
+Q: What is the DrugBank Accession Number of Crizotinib?
+A. DB08865
+B. DescriptionThis compound belongs to the class of organic compounds known as pyrazolylpyridines. These are compounds containing a pyrazolylpyridine skeleton, which consists of a pyrazole linked (not fused) to a pyridine by a bond.KingdomOrganic compoundsSuper ClassOrganoheterocyclic compoundsClassPyridines and derivativesSub ClassPyrazolylpyridinesDirect ParentPyrazolylpyridinesAlternative ParentsDichlorobenzenes / Alkyl aryl ethers / Aminopyridines and derivatives / Fluorobenzenes / Piperidines / Aryl chlorides / Aryl fluorides / Imidolactams / Pyrazoles / Heteroaromatic compounds / Azacyclic compounds / Dialkylamines / Primary amines / Organochlorides / Organofluorides / Organopnictogen compounds / Hydrocarbon derivatives show 7 moreSubstituents1,3-dichlorobenzene / 3-pyrazolylpyridine / Alkyl aryl ether / Amine / Aminopyridine / Aromatic heteromonocyclic compound / Aryl chloride / Aryl fluoride / Aryl halide / Azacycle / Azole / Benzenoid / Chlorobenzene / Ether / Fluorobenzene / Halobenzene / Heteroaromatic compound / Hydrocarbon derivative / Imidolactam / Monocyclic benzene moiety / Organic nitrogen compound / Organic oxygen compound / Organochloride / Organofluoride / Organohalogen compound / Organonitrogen compound / Organooxygen compound / Organopnictogen compound / Piperidine / Primary amine / Pyrazole / Secondary aliphatic amine / Secondary amine show 23 moreMolecular FrameworkAromatic heteromonocyclic compoundsExternal Descriptors3-[1-(2,6-dichloro-3-fluorophenyl)ethoxy]-5-[1-(piperidin-4-yl)pyrazol-4-yl]pyridin-2-amine (CHEBI:64310) 
+C. L01ED01 — CrizotinibL01ED — Anaplastic lymphoma kinase (ALK) inhibitorsL01E — PROTEIN KINASE INHIBITORSL01 — ANTINEOPLASTIC AGENTSL — ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS
+D. Pyrazolylpyridines
+Correct Answer: DB08865
+
+Q: What is the Groups of Crizotinib?
+A. 64310
+B. Approved, Investigational
+C. Crizotinib is a kinase inhibitor indicated for the treatment of patients with metastatic non-small cell lung cancer (NSCLC) whose tumors are anaplastic lymphoma kinase (ALK) or ROS1-positive as detected by an FDA-approved test.4 Crizotinib is also indicated for the treatment of relapsed or refractory, systemic anaplastic large cell lymphoma (ALCL) that is ALK-positive in pediatric patients 1 year of age and older and young adults. The safety and efficacy of crizotinib have not been established in older adults with relapsed or refractory, systemic ALK-positive ALCL.4 Additionally, crizotinib is indicated for the treatment of adult and pediatric patients 1 year of age and older with unresectable, recurrent, or refractory inflammatory myofibroblastic tumor (IMT) that is ALK-positive.4Reduce drug development failure ratesBuild, train, & validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, & validate predictive machine-learning models with structured datasets.See how
+D. Crizotinib is 91% bound to plasma protein. In vitro studies suggest that this is not affected by drug concentration.4
+Correct Answer: Approved, Investigational
+
+Q: What is the Weight of Crizotinib?
+A. Average: 450.337 Monoisotopic: 449.11854397 
+B. Avoid grapefruit products. Grapefruit inhibits CYP3A4 metabolism, which may increase the serum levels of crizotinib.Avoid St. John's Wort. This herb induces CYP3A4 metabolism, which may reduce serum levels of crizotinib.Take with or without food. High-fat food decreases drug absorption, but not to a clinically significant extent.
+C. Crizotinib
+D. (R)-crizotinibCrizotinibCrizotinibum
+Correct Answer: Average: 450.337 Monoisotopic: 449.11854397 
+
+Q: What is the Drug Categories of Crizotinib?
+A. Not Available
+B. PhaseStatusPurposeConditionsCount4Active Not RecruitingTreatmentALK or ROS1-positive NSCLC14RecruitingTreatmentAnaplastic Large Cell Lymphoma / IMT / Non-Small Cell Lung Cancer (NSCLC)14Unknown StatusTreatmentALK-Positive Anaplastic Large Cell Lymphoma14WithdrawnTreatmentSystemic Anaplastic Large Cell Lymphoma13Active Not RecruitingTreatmentNeoplasm13Active Not RecruitingTreatmentNon-Small Cell Lung Cancer (NSCLC)23Active Not RecruitingTreatmentNon-small Cell Lung Carcinoma (Adenocarcinoma)13CompletedTreatmentAdvanced Malignant Neoplasm / Carcinoma / Lung Cancers / Non-Small Cell Lung Cancer (NSCLC)13CompletedTreatmentNon-Small Cell Lung Cancer (NSCLC)13CompletedTreatmentNon-small Cell Lung Carcinoma (Adenocarcinoma)1
+C. AminopyridinesAnaplastic lymphoma kinase (ALK) inhibitorsAntineoplastic AgentsAntineoplastic and Immunomodulating AgentsBradycardia-Causing AgentsCytochrome P-450 CYP2B6 InhibitorsCytochrome P-450 CYP2B6 Inhibitors (strength unknown)Cytochrome P-450 CYP3A InhibitorsCytochrome P-450 CYP3A SubstratesCytochrome P-450 CYP3A4 InhibitorsCytochrome P-450 CYP3A4 Inhibitors (moderate)Cytochrome P-450 CYP3A4 Inhibitors (strength unknown)Cytochrome P-450 CYP3A4 SubstratesCytochrome P-450 CYP3A4 Substrates with a Narrow Therapeutic IndexCytochrome P-450 CYP3A5 InhibitorsCytochrome P-450 CYP3A5 Inhibitors (strength unknown)Cytochrome P-450 CYP3A5 SubstratesCytochrome P-450 CYP3A5 Substrates with a Narrow Therapeutic IndexCytochrome P-450 Enzyme InhibitorsCytochrome P-450 SubstratesEnzyme InhibitorsKinase InhibitorModerate Risk QTc-Prolonging AgentsNarrow Therapeutic Index DrugsOCT2 InhibitorsOrganic Cation Transporter 1 InhibitorsP-glycoprotein inhibitorsP-glycoprotein substratesP-glycoprotein substrates with a Narrow Therapeutic IndexPiperidinesProtein Kinase InhibitorsPyridinesQTc Prolonging AgentsReceptor Tyrosine Kinase InhibitorsTyrosine Kinase Inhibitors
+D. PA165946122
+Correct Answer: AminopyridinesAnaplastic lymphoma kinase (ALK) inhibitorsAntineoplastic AgentsAntineoplastic and Immunomodulating AgentsBradycardia-Causing AgentsCytochrome P-450 CYP2B6 InhibitorsCytochrome P-450 CYP2B6 Inhibitors (strength unknown)Cytochrome P-450 CYP3A InhibitorsCytochrome P-450 CYP3A SubstratesCytochrome P-450 CYP3A4 InhibitorsCytochrome P-450 CYP3A4 Inhibitors (moderate)Cytochrome P-450 CYP3A4 Inhibitors (strength unknown)Cytochrome P-450 CYP3A4 SubstratesCytochrome P-450 CYP3A4 Substrates with a Narrow Therapeutic IndexCytochrome P-450 CYP3A5 InhibitorsCytochrome P-450 CYP3A5 Inhibitors (strength unknown)Cytochrome P-450 CYP3A5 SubstratesCytochrome P-450 CYP3A5 Substrates with a Narrow Therapeutic IndexCytochrome P-450 Enzyme InhibitorsCytochrome P-450 SubstratesEnzyme InhibitorsKinase InhibitorModerate Risk QTc-Prolonging AgentsNarrow Therapeutic Index DrugsOCT2 InhibitorsOrganic Cation Transporter 1 InhibitorsP-glycoprotein inhibitorsP-glycoprotein substratesP-glycoprotein substrates with a Narrow Therapeutic IndexPiperidinesProtein Kinase InhibitorsPyridinesQTc Prolonging AgentsReceptor Tyrosine Kinase InhibitorsTyrosine Kinase Inhibitors
+
+Q: What is the Brand Names of Atezolizumab?
+A. DB11595
+B. Tecentriq
+C. Not Available
+D. Protein Based TherapiesMonoclonal antibody (mAb)
+Correct Answer: Tecentriq
+
+Q: What is the DrugBank Accession Number of Atezolizumab?
+A. PhaseStatusPurposeConditionsCount4Active Not RecruitingTreatmentCancer14CompletedTreatmentNon-small Cell Lung Carcinoma (Adenocarcinoma)14Not Yet RecruitingTreatmentHepatocellular Carcinoma / Liver Cancer14Not Yet RecruitingTreatmentUnresectable Hepatocellular Carcinoma (HCC)14RecruitingDiagnosticMalignant Lung Neoplasm14RecruitingTreatmentCancer13Active Not RecruitingOtherInvasive Breast Cancer13Active Not RecruitingTreatmentBreast Cancer13Active Not RecruitingTreatmentCarcinoma of the Cervix, Stage IVB13Active Not RecruitingTreatmentCastration Resistant Prostatic Neoplasms1
+B. Drugs.com Drug Page
+C. DescriptionNot AvailableKingdomOrganic CompoundsSuper ClassOrganic AcidsClassCarboxylic Acids and DerivativesSub ClassAmino Acids, Peptides, and AnaloguesDirect ParentPeptidesAlternative ParentsNot AvailableSubstituentsNot AvailableMolecular FrameworkNot AvailableExternal DescriptorsNot Available
+D. DB11595
+Correct Answer: DB11595
+
+Q: What is the Groups of Atezolizumab?
+A. Improve decision support & research outcomesWith structured adverse effects data, including: blackbox warnings, adverse reactions, warning & precautions, & incidence rates.Learn more  Improve decision support & research outcomes with our structured adverse effects data.Learn more
+B. Carboxylic Acids and Derivatives
+C. Approved, Investigational
+D. Atezolizumab has approved indications for the following conditions:11Non-Small Cell Lung Cancer (NSCLC)as adjuvant treatment following resection and platinum-based chemotherapy for adult patients with Stage II to IIIA NSCLC whose tumours have PD-L1 expression on ≥ 1% of tumour cells, as determined by an FDA-approved test.for the first-line treatment of adult patients with metastatic NSCLC whose tumours have high PD-L1 expression (PD-L1 stained ≥ 50% of tumour cells [TC ≥ 50%] or PD-L1 stained tumour-infiltrating immune cells [IC] covering ≥ 10% of the tumour area [IC ≥ 10%]), as determined by an FDAapproved test, with no EGFR or ALK genomic tumour aberrations.in combination with bevacizumab, paclitaxel, and carboplatin, for the first-line treatment of adult patients with metastatic non-squamous NSCLC with no EGFR or ALK genomic tumour aberrations.in combination with paclitaxel protein-bound and carboplatin for the firstline treatment of adult patients with metastatic non-squamous NSCLC with no EGFR or ALK genomic tumor aberrations.for the treatment of adult patients with metastatic NSCLC who have disease progression during or following platinum-containing chemotherapy. Patients with EGFR or ALK genomic tumour aberrations should have disease progression on FDA-approved therapy for NSCLC harbouring these aberrations prior to receiving atezolizumab.Small Cell Lung Cancer (SCLC)in combination with carboplatin and etoposide, for the first-line treatment of adult patients with extensive-stage small cell lung cancer (ES-SCLC).Hepatocellular Carcinoma (HCC)in combination with bevacizumab for the treatment of patients with unresectable or metastatic HCC who have not received prior systemic therapy.Melanomain combination with cobimetinib and vemurafenib for the treatment of patients with BRAF V600 mutation-positive unresectable or metastatic melanoma.Alveolar Soft Part Sarcoma (ASPS)for the treatment of adult and pediatric patients 2 years of age and older with unresectable or metastatic ASPS.Reduce drug development failure ratesBuild, train, & validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, & validate predictive machine-learning models with structured datasets.See how
+Correct Answer: Approved, Investigational
+
+Q: What is the Drug Categories of Atezolizumab?
+A. The clearance of atezolizumab is 0.200L/day.1,3
+B. Atezolizumab has approved indications for the following conditions:11Non-Small Cell Lung Cancer (NSCLC)as adjuvant treatment following resection and platinum-based chemotherapy for adult patients with Stage II to IIIA NSCLC whose tumours have PD-L1 expression on ≥ 1% of tumour cells, as determined by an FDA-approved test.for the first-line treatment of adult patients with metastatic NSCLC whose tumours have high PD-L1 expression (PD-L1 stained ≥ 50% of tumour cells [TC ≥ 50%] or PD-L1 stained tumour-infiltrating immune cells [IC] covering ≥ 10% of the tumour area [IC ≥ 10%]), as determined by an FDAapproved test, with no EGFR or ALK genomic tumour aberrations.in combination with bevacizumab, paclitaxel, and carboplatin, for the first-line treatment of adult patients with metastatic non-squamous NSCLC with no EGFR or ALK genomic tumour aberrations.in combination with paclitaxel protein-bound and carboplatin for the firstline treatment of adult patients with metastatic non-squamous NSCLC with no EGFR or ALK genomic tumor aberrations.for the treatment of adult patients with metastatic NSCLC who have disease progression during or following platinum-containing chemotherapy. Patients with EGFR or ALK genomic tumour aberrations should have disease progression on FDA-approved therapy for NSCLC harbouring these aberrations prior to receiving atezolizumab.Small Cell Lung Cancer (SCLC)in combination with carboplatin and etoposide, for the first-line treatment of adult patients with extensive-stage small cell lung cancer (ES-SCLC).Hepatocellular Carcinoma (HCC)in combination with bevacizumab for the treatment of patients with unresectable or metastatic HCC who have not received prior systemic therapy.Melanomain combination with cobimetinib and vemurafenib for the treatment of patients with BRAF V600 mutation-positive unresectable or metastatic melanoma.Alveolar Soft Part Sarcoma (ASPS)for the treatment of adult and pediatric patients 2 years of age and older with unresectable or metastatic ASPS.Reduce drug development failure ratesBuild, train, & validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, & validate predictive machine-learning models with structured datasets.See how
+C. KEGG DrugD10773PubChem Substance347911207RxNav1792776RxListRxList Drug PageDrugs.comDrugs.com Drug PageWikipediaAtezolizumab
+D. Amino Acids, Peptides, and ProteinsAntibodiesAntibodies, MonoclonalAntibodies, Monoclonal, HumanizedAntineoplastic AgentsAntineoplastic and Immunomodulating AgentsBlood ProteinsCancer immunotherapyGlobulinsImmune Checkpoint InhibitorsImmunoglobulinsImmunoproteinsImmunotherapyMONOCLONAL ANTIBODIES AND ANTIBODY DRUG CONJUGATESNarrow Therapeutic Index DrugsPD-1/PDL-1 (Programmed cell death protein 1/death ligand 1) inhibitorsProgrammed Death Receptor-1 Blocking AntibodyProgrammed Death Receptor-1-directed Antibody InteractionsProteinsSerum Globulins
+Correct Answer: Amino Acids, Peptides, and ProteinsAntibodiesAntibodies, MonoclonalAntibodies, Monoclonal, HumanizedAntineoplastic AgentsAntineoplastic and Immunomodulating AgentsBlood ProteinsCancer immunotherapyGlobulinsImmune Checkpoint InhibitorsImmunoglobulinsImmunoproteinsImmunotherapyMONOCLONAL ANTIBODIES AND ANTIBODY DRUG CONJUGATESNarrow Therapeutic Index DrugsPD-1/PDL-1 (Programmed cell death protein 1/death ligand 1) inhibitorsProgrammed Death Receptor-1 Blocking AntibodyProgrammed Death Receptor-1-directed Antibody InteractionsProteinsSerum Globulins
+
+Q: What is the Brand Names of Olaratumab?
+A. Not Available
+B. Humans and other mammals
+C. D09939
+D. Lartruvo
+Correct Answer: Lartruvo
+
+Q: What is the DrugBank Accession Number of Olaratumab?
+A. Improve decision support & research outcomesWith structured adverse effects data, including: blackbox warnings, adverse reactions, warning & precautions, & incidence rates.Learn more  Improve decision support & research outcomes with our structured adverse effects data.Learn more
+B. DB06043
+C. 1024603-93-7
+D. Olaratumab is a platelet-derived growth factor receptor alpha blocking antibody used with doxorubicin to treat patients with certain types of soft tissue sarcoma (STS).
+Correct Answer: DB06043
+
+Q: What is the Groups of Olaratumab?
+A. Avoid life-threatening adverse drug eventsImprove clinical decision support with information on contraindications & blackbox warnings, population restrictions, harmful risks, & more.Learn more  Avoid life-threatening adverse drug events & improve clinical decision support.Learn more
+B. Humans and other mammals
+C. NameDosageStrengthRouteLabellerMarketing StartMarketing EndRegionImageLartruvoInjection, solution, concentrate10 mg/mlIntravenousEli Lilly Nederland B.V.2020-12-162019-09-02EULartruvoInjection, solution10 mg/1mLIntravenousEli Lilly and Company2016-10-19Not applicableUSLartruvoInjection, solution, concentrate10 mg/mlIntravenousEli Lilly Nederland B.V.2020-12-162019-09-02EULartruvoSolution190 mg / 19 mLIntravenousEli Lilly & Co. Ltd.2020-06-092020-09-25CanadaLartruvoInjection, solution10 mg/1mLIntravenousEli Lilly and Company2016-10-19Not applicableUSLartruvoInjection, solution, concentrate10 mg/mlIntravenousEli Lilly Nederland B.V.2020-12-162019-09-02EULartruvoSolution500 mg / 50 mLIntravenousEli Lilly & Co. Ltd.2017-12-222020-06-19Canada
+D. Approved, Investigational
+Correct Answer: Approved, Investigational
+
+Q: What is the Drug Categories of Olaratumab?
+A. 154000.0 Da (147200 Da without glycan mass/154600 Da with glycan mass)
+B. Amino Acids, Peptides, and ProteinsAntibodiesAntibodies, MonoclonalAntineoplastic AgentsAntineoplastic and Immunomodulating AgentsBlood ProteinsCancer immunotherapyGlobulinsImmunoglobulinsImmunoproteinsImmunotherapyMONOCLONAL ANTIBODIES AND ANTIBODY DRUG CONJUGATESProteinsSerum Globulins
+C. TT6HN20MVF
+D. Not Available
+Correct Answer: Amino Acids, Peptides, and ProteinsAntibodiesAntibodies, MonoclonalAntineoplastic AgentsAntineoplastic and Immunomodulating AgentsBlood ProteinsCancer immunotherapyGlobulinsImmunoglobulinsImmunoproteinsImmunotherapyMONOCLONAL ANTIBODIES AND ANTIBODY DRUG CONJUGATESProteinsSerum Globulins
+
+Q: What is the Brand Names of Interferon alfa-2b?
+A. The elimination half-life following both intramuscular and subcutaneous injections was approximately 2 to 3 hours. The elimination half-life was approximately 2 hours following intravenous injection.
+B. Not Available
+C. Intron A
+D. Not Available
+Correct Answer: Intron A
+
+Q: What is the DrugBank Accession Number of Interferon alfa-2b?
+A. Organic Compounds
+B. DB00105
+C. >DB00105 sequenceCDLPQTHSLGSRRTLMLLAQMRRISLFSCLKDRHDFGFPQEEFGNQFQKAETIPVLHEMIQQIFNLFSTKDSSAAWDETLLDKFYTELYQQLNDLEACVIQGVGVTETPLMNEDSILAVRKYFQRITLYLKEKKYSPCAWEVVRAEIMRSFSLSTNLQESLRSKEDownload FASTA Format
+D. Unit descriptionCostUnitIntron-A 10000000 unit/0.2ml Kit (each Box Contains One 6 Dose 1.5ml Pen)1110.84USD boxIntron a 10 million unit pen1068.12USD penIntron-A 5000000 unit/0.2ml Kit Box683.34USD boxIntron a 5 million unit/ml pen657.06USD penIntron a 3 million unit/ml pen394.21USD pen  DrugBank does not sell nor buy drugs. Pricing information is supplied for informational purposes only. 
+Correct Answer: DB00105
+
+Q: What is the Groups of Interferon alfa-2b?
+A. Approved
+B. 19271.0 Da
+C. Interferon alfa-2b is a form of recombinant human interferon used to treat hepatitis B and C infection, genital warts, hairy cell leukemia, follicular lymphoma, malignant melanoma, and AIDs-related Kaposi's sarcoma.
+D. There is limited experience with overdosage. Postmarketing surveillance includes reports of patients receiving a single dose as great as 10 times the recommended dose. In general, the primary effects of an overdose are consistent with the effects seen with therapeutic doses of interferon alfa-2b. Hepatic enzyme abnormalities, renal failure, hemorrhage, and myocardial infarction have been reported with single administration overdoses and/or with longer durations of treatment than prescribed. Toxic effects after ingestion of interferon alfa-2b are not expected because interferons are poorly absorbed orally.
+Correct Answer: Approved
+
+Q: What is the Drug Categories of Interferon alfa-2b?
+A. Locteron
+B. >DB00105 sequenceCDLPQTHSLGSRRTLMLLAQMRRISLFSCLKDRHDFGFPQEEFGNQFQKAETIPVLHEMIQQIFNLFSTKDSSAAWDETLLDKFYTELYQQLNDLEACVIQGVGVTETPLMNEDSILAVRKYFQRITLYLKEKKYSPCAWEVVRAEIMRSFSLSTNLQESLRSKEDownload FASTA Format
+C. Humans and other mammals
+D. Adjuvants, ImmunologicAlfa InterferonsAmino Acids, Peptides, and ProteinsAnti-Infective AgentsAntineoplastic AgentsAntineoplastic and Immunomodulating AgentsAntiviral AgentsBiological FactorsCancer immunotherapyCytochrome P-450 CYP1A2 InhibitorsCytochrome P-450 CYP1A2 Inhibitors (strength unknown)Cytochrome P-450 Enzyme InhibitorsCytokinesDrugs causing inadvertant photosensitivityHepatotoxic AgentsImmunosuppressive AgentsImmunotherapyIntercellular Signaling Peptides and ProteinsInterferon alphaInterferon Type IInterferon-alphaInterferonsMyelosuppressive AgentsNarrow Therapeutic Index DrugsPeptidesPhotosensitizing AgentsProteins
+Correct Answer: Adjuvants, ImmunologicAlfa InterferonsAmino Acids, Peptides, and ProteinsAnti-Infective AgentsAntineoplastic AgentsAntineoplastic and Immunomodulating AgentsAntiviral AgentsBiological FactorsCancer immunotherapyCytochrome P-450 CYP1A2 InhibitorsCytochrome P-450 CYP1A2 Inhibitors (strength unknown)Cytochrome P-450 Enzyme InhibitorsCytokinesDrugs causing inadvertant photosensitivityHepatotoxic AgentsImmunosuppressive AgentsImmunotherapyIntercellular Signaling Peptides and ProteinsInterferon alphaInterferon Type IInterferon-alphaInterferonsMyelosuppressive AgentsNarrow Therapeutic Index DrugsPeptidesPhotosensitizing AgentsProteins
+
+Q: What is the Brand Names of Pazopanib?
+A. Not Available
+B. RxList Drug Page
+C. Pazopanib is an antineoplastic agent used in the treatment of advanced renal cell cancer and advanced soft tissue sarcoma in patients with prior chemotherapy.
+D. Votrient
+Correct Answer: Votrient
+
+Q: What is the DrugBank Accession Number of Pazopanib?
+A. Organic compounds
+B. Solid
+C. PhaseStatusPurposeConditionsCount4CompletedOtherMetastatic Renal Cell Carcinoma ( mRCC)14CompletedTreatmentCancer14CompletedTreatmentLocally Advanced and/or Metastatic Renal Cell Carcinoma / Metastatic Clear Cell Renal Cell Carcinoma (ccRCC) / Renal Cell Carcinoma14TerminatedBasic ScienceMetastatic Clear Cell Renal Cell Carcinoma (ccRCC)14TerminatedTreatmentAdult Soft Tissue Sarcoma13Active Not RecruitingTreatmentClear Cell Renal Cell Carcinoma / Stage IV Renal Cell Cancer AJCC V713Active Not RecruitingTreatmentRenal Cell Carcinoma13CompletedTreatmentAdvanced Angiosarcoma13CompletedTreatmentCancer / Renal Cell Carcinoma13CompletedTreatmentMetastatic, Locally Advanced, or Unresectable Soft Tissue Sarcoma1
+D. DB06589
+Correct Answer: DB06589
+
+Q: What is the Groups of Pazopanib?
+A. Pazopanib is a second-generation multitargeted tyrosine kinase inhibitor against vascular endothelial growth factor receptor-1, -2, and -3, platelet-derived growth factor receptor-alpha, platelet-derived growth factor receptor-beta, and c-kit. These receptor targets are part of the angiogenesis pathway that facilitates the formation of tumour blood vessel for tumour survival and growth. TargetActionsOrganismAVascular endothelial growth factor receptor 1inhibitorHumansAVascular endothelial growth factor receptor 2inhibitorHumansAVascular endothelial growth factor receptor 3Not AvailableHumansAPlatelet-derived growth factor receptor alphainhibitorHumansAPlatelet-derived growth factor receptor betainhibitorHumansAMast/stem cell growth factor receptor KitinhibitorHumansUFibroblast growth factor receptor 3inhibitorHumansUTyrosine-protein kinase ITK/TSKinhibitorHumansUFibroblast growth factor 1inhibitorHumansUSH2B adapter protein 3inhibitorHumans
+B. Not Available
+C. L01EX03 — PazopanibL01EX — Other protein kinase inhibitorsL01E — PROTEIN KINASE INHIBITORSL01 — ANTINEOPLASTIC AGENTSL — ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS
+D. Approved
+Correct Answer: Approved
+
+Q: What is the Weight of Pazopanib?
+A. Average: 437.518 Monoisotopic: 437.163393705 
+B. Drugs.com Drug Page
+C. NameDosageStrengthRouteLabellerMarketing StartMarketing EndRegionImagePMS-pazopanibTablet200 mgOralPharmascience Inc2022-08-31Not applicableCanadaSandoz PazopanibTablet200 mgOralSandoz Canada IncorporatedNot applicableNot applicableCanada
+D. KEGG DrugD05380PubChem Compound10113978PubChem Substance175427074ChemSpider8289501BindingDB26474RxNav714438ChEBI71219ChEMBLCHEMBL477772ZINCZINC000011617039RxListRxList Drug PageDrugs.comDrugs.com Drug PageWikipediaPazopanib
+Correct Answer: Average: 437.518 Monoisotopic: 437.163393705 
+
+Q: What is the Drug Categories of Pazopanib?
+A. Average: 437.518 Monoisotopic: 437.163393705 
+B. AmidesAngiogenesis InhibitorsAntineoplastic AgentsAntineoplastic and Immunomodulating AgentsBCRP/ABCG2 SubstratesCytochrome P-450 CYP1A2 SubstratesCytochrome P-450 CYP1A2 Substrates with a Narrow Therapeutic IndexCytochrome P-450 CYP2C8 InhibitorsCytochrome P-450 CYP2C8 Inhibitors (weak)Cytochrome P-450 CYP2C8 SubstratesCytochrome P-450 CYP2C8 Substrates with a Narrow Therapeutic IndexCytochrome P-450 CYP2D6 InhibitorsCytochrome P-450 CYP2D6 Inhibitors (weak)Cytochrome P-450 CYP2D6 SubstratesCytochrome P-450 CYP3A InhibitorsCytochrome P-450 CYP3A SubstratesCytochrome P-450 CYP3A4 InhibitorsCytochrome P-450 CYP3A4 Inhibitors (weak)Cytochrome P-450 CYP3A4 SubstratesCytochrome P-450 CYP3A4 Substrates with a Narrow Therapeutic IndexCytochrome P-450 Enzyme InhibitorsCytochrome P-450 SubstratesHepatotoxic AgentsHeterocyclic Compounds, Fused-RingImmunosuppressive AgentsKinase InhibitorModerate Risk QTc-Prolonging AgentsNarrow Therapeutic Index DrugsOATP1B1/SLCO1B1 InhibitorsP-glycoprotein substratesP-glycoprotein substrates with a Narrow Therapeutic IndexProtein Kinase InhibitorsPyrazolesQTc Prolonging AgentsReceptors, Vascular Endothelial Growth Factor, antagonists & inhibitorsSulfonesSulfur CompoundsTyrosine Kinase InhibitorsUGT1A1 Inhibitors
+C. Aromatic heteropolycyclic compounds
+D. Patent NumberPediatric ExtensionApprovedExpires (estimated)RegionUS7262203No2007-08-282021-12-19USUS8114885No2012-02-142021-12-19USUS7105530No2006-09-122023-10-19US
+Correct Answer: AmidesAngiogenesis InhibitorsAntineoplastic AgentsAntineoplastic and Immunomodulating AgentsBCRP/ABCG2 SubstratesCytochrome P-450 CYP1A2 SubstratesCytochrome P-450 CYP1A2 Substrates with a Narrow Therapeutic IndexCytochrome P-450 CYP2C8 InhibitorsCytochrome P-450 CYP2C8 Inhibitors (weak)Cytochrome P-450 CYP2C8 SubstratesCytochrome P-450 CYP2C8 Substrates with a Narrow Therapeutic IndexCytochrome P-450 CYP2D6 InhibitorsCytochrome P-450 CYP2D6 Inhibitors (weak)Cytochrome P-450 CYP2D6 SubstratesCytochrome P-450 CYP3A InhibitorsCytochrome P-450 CYP3A SubstratesCytochrome P-450 CYP3A4 InhibitorsCytochrome P-450 CYP3A4 Inhibitors (weak)Cytochrome P-450 CYP3A4 SubstratesCytochrome P-450 CYP3A4 Substrates with a Narrow Therapeutic IndexCytochrome P-450 Enzyme InhibitorsCytochrome P-450 SubstratesHepatotoxic AgentsHeterocyclic Compounds, Fused-RingImmunosuppressive AgentsKinase InhibitorModerate Risk QTc-Prolonging AgentsNarrow Therapeutic Index DrugsOATP1B1/SLCO1B1 InhibitorsP-glycoprotein substratesP-glycoprotein substrates with a Narrow Therapeutic IndexProtein Kinase InhibitorsPyrazolesQTc Prolonging AgentsReceptors, Vascular Endothelial Growth Factor, antagonists & inhibitorsSulfonesSulfur CompoundsTyrosine Kinase InhibitorsUGT1A1 Inhibitors
+
+Q: What is the Brand Names of Bexarotene?
+A. NameDosageStrengthRouteLabellerMarketing StartMarketing EndRegionImageBexaroteneCapsule, liquid filled75 mg/1OralMylan Institutional Inc.2016-04-152020-01-31USBexaroteneCapsule75 mg/1OralUpsher Smith Laboratories2018-07-25Not applicableUSBexaroteneCapsule, liquid filled75 mg/1OralActavis Pharma, Inc.2021-11-11Not applicableUSBexaroteneCapsule, liquid filled75 mg/1OralOceanside Pharmaceuticals2015-12-17Not applicableUSBexaroteneCapsule75 mg/1OralAmneal Pharmaceuticals NY LLC2018-09-04Not applicableUSBexaroteneGel1 g/100gTopicalOceanside Pharmaceuticals2000-06-28Not applicableUSBexaroteneCapsule, liquid filled75 mg/1OralANI Pharmaceuticals, Inc.2018-05-10Not applicableUSBexaroteneCapsule, liquid filled75 mg/1OralMylan Pharmaceuticals Inc.2015-07-09Not applicableUSBexaroteneCapsule, liquid filled75 mg/1OralHikma Pharmaceuticals USA Inc.2020-11-11Not applicableUSBexaroteneGel10 mg/1gTopicalAmneal Pharmaceuticals NY LLC2022-05-04Not applicableUS
+B. PA164752250
+C. Organic compounds
+D. Targretin
+Correct Answer: Targretin
+
+Q: What is the DrugBank Accession Number of Bexarotene?
+A. DB00307
+B. Catalent Pharma SolutionsContract PharmEisai Inc.
+C. DescriptionThis compound belongs to the class of organic compounds known as retinoids. These are oxygenated derivatives of 3,7-dimethyl-1-(2,6,6-trimethylcyclohex-1-enyl)nona-1,3,5,7-tetraene and derivatives thereof.KingdomOrganic compoundsSuper ClassLipids and lipid-like moleculesClassPrenol lipidsSub ClassRetinoidsDirect ParentRetinoidsAlternative ParentsSesquiterpenoids / Tetralins / Benzoic acids / Styrenes / Benzoyl derivatives / Monocarboxylic acids and derivatives / Carboxylic acids / Organooxygen compounds / Organic oxides / Hydrocarbon derivativesSubstituentsAromatic homopolycyclic compound / Benzenoid / Benzoic acid / Benzoic acid or derivatives / Benzoyl / Bexarotene / Bisabolane sesquiterpenoid / Carboxylic acid / Carboxylic acid derivative / Hydrocarbon derivativeMolecular FrameworkAromatic homopolycyclic compoundsExternal Descriptorsretinoid, naphthalenes, benzoic acids (CHEBI:50859) 
+D. Organic compounds
+Correct Answer: DB00307
+
+Q: What is the Groups of Bexarotene?
+A. Approved, Investigational
+B. 50859
+C. Lipids and lipid-like molecules
+D. Humans and other mammals
+Correct Answer: Approved, Investigational
+
+Q: What is the Weight of Bexarotene?
+A. Download (40.2 KB) 
+B. Bexarotene
+C. Average: 348.4779 Monoisotopic: 348.20893014 
+D. ZINC000001539579
+Correct Answer: Average: 348.4779 Monoisotopic: 348.20893014 
+
+Q: What is the Drug Categories of Bexarotene?
+A. Antineoplastic AgentsAntineoplastic and Immunomodulating AgentsCompounds used in a research, industrial, or household settingCyclohexanesCytochrome P-450 CYP2C8 InhibitorsCytochrome P-450 CYP2C8 Inhibitors (moderate)Cytochrome P-450 CYP2C9 SubstratesCytochrome P-450 CYP3A InducersCytochrome P-450 CYP3A SubstratesCytochrome P-450 CYP3A4 InducersCytochrome P-450 CYP3A4 Inducers (moderate)Cytochrome P-450 CYP3A4 SubstratesCytochrome P-450 Enzyme InducersCytochrome P-450 Enzyme InhibitorsCytochrome P-450 SubstratesImmunosuppressive AgentsMyelosuppressive AgentsNaphthalenesRetinoidsRetinoids for cancer treatmentTetrahydronaphthalenes
+B. 74139
+C. retinoid, naphthalenes, benzoic acids (CHEBI:50859) 
+D. 50032675
+Correct Answer: Antineoplastic AgentsAntineoplastic and Immunomodulating AgentsCompounds used in a research, industrial, or household settingCyclohexanesCytochrome P-450 CYP2C8 InhibitorsCytochrome P-450 CYP2C8 Inhibitors (moderate)Cytochrome P-450 CYP2C9 SubstratesCytochrome P-450 CYP3A InducersCytochrome P-450 CYP3A SubstratesCytochrome P-450 CYP3A4 InducersCytochrome P-450 CYP3A4 Inducers (moderate)Cytochrome P-450 CYP3A4 SubstratesCytochrome P-450 Enzyme InducersCytochrome P-450 Enzyme InhibitorsCytochrome P-450 SubstratesImmunosuppressive AgentsMyelosuppressive AgentsNaphthalenesRetinoidsRetinoids for cancer treatmentTetrahydronaphthalenes
+
+Q: What is the Brand Names of Lurbinectedin?
+A. Harmala alkaloids
+B. 497871-47-3
+C. Zepzelca
+D. Zepsyre
+Correct Answer: Zepzelca
+
+Q: What is the DrugBank Accession Number of Lurbinectedin?
+A. The terminal half-life of lurbinectedin is 51 hours.7
+B. 347828878
+C. Kauffmann-Guerrero D, Huber RM: Orphan Drugs in Development for the Treatment of Small-Cell Lung Cancer: Emerging Data on Lurbinectedin. Lung Cancer (Auckl). 2020 Mar 2;11:27-31. doi: 10.2147/LCTT.S239223. eCollection 2020. [Article] Altares R, Marquez Del Pino FM, Benedit G, Guillen MJ, Cuevas C, Perez de la Cruz MA, Aviles P: Development of a new method for the quantitation of metabolites in the absence of chemically synthetized authentic standards. J Pharm Biomed Anal. 2019 May 30;169:70-74. doi: 10.1016/j.jpba.2019.01.027. Epub 2019 Feb 21. [Article] Gourd E: Lurbinectedin for BRCA-mutated advanced breast cancer. Lancet Oncol. 2018 Nov;19(11):e582. doi: 10.1016/S1470-2045(18)30737-X. Epub 2018 Sep 27. [Article] Metaxas Y, Fruh M, Eboulet EI, Grosso F, Pless M, Zucali PA, Ceresoli GL, Mark M, Schneider M, Maconi A, Perrino M, Biaggi-Rudolf C, Froesch P, Schmid S, Waibel C, Appenzeller C, Rauch D, von Moos R: Lurbinectedin as second- or third-line palliative therapy in malignant pleural mesothelioma: an international, multi-centre, single-arm, phase II trial (SAKK 17/16). Ann Oncol. 2020 Apr;31(4):495-500. doi: 10.1016/j.annonc.2019.12.009. Epub 2020 Jan 16. [Article] Risnik D, Colado A, Podaza E, Almejun MB, Elias EE, Bezares RF, Fernandez-Grecco H, Seija N, Oppezzo P, Borge M, Gamberale R, Giordano M: Immunoregulatory effects of Lurbinectedin in chronic lymphocytic leukemia. Cancer Immunol Immunother. 2020 May;69(5):813-824. doi: 10.1007/s00262-020-02513-y. Epub 2020 Feb 13. [Article] Jimenez PC, Wilke DV, Branco PC, Bauermeister A, Rezende-Teixeira P, Gaudencio SP, Costa-Lotufo LV: Enriching cancer pharmacology with drugs of marine origin. Br J Pharmacol. 2020 Jan;177(1):3-27. doi: 10.1111/bph.14876. Epub 2019 Dec 23. [Article] FDA Approved Drug Products: Zepzelca (lurbinectedin) for intravenous injection [Link] FDA Drug Approvals and Databases: FDA grants accelerated approval to lurbinectedin for metastatic small cell lung cancer [Link] 
+D. DB12674
+Correct Answer: DB12674
+
+Q: What is the Groups of Lurbinectedin?
+A. (1R,2R,3R,11S,12S,14R,26R)-5,12-dihydroxy-6,6'-dimethoxy-7,21,30-trimethyl-27-oxo-2',3',4',9'-tetrahydro-17,19,28-trioxa-24-thia-13,30-diazaspiro[heptacyclo[12.9.6.1^{3,11}.0^{2,13}.0^{4,9}.0^{15,23}.0^{16,20}]triacontane-26,1'-pyrido[3,4-b]indole]-4,6,8,15,20,22-hexaen-22-yl acetate
+B. Approved, Investigational
+C. The steady-state volume of distribution of lurbinectedin is 504 L.7
+D. Not Available
+Correct Answer: Approved, Investigational
+
+Q: What is the Weight of Lurbinectedin?
+A. Average: 784.88 Monoisotopic: 784.277814807 
+B. Harmala alkaloids
+C. C41H44N4O10S
+D. Improve decision support & research outcomesWith structured adverse effects data, including: blackbox warnings, adverse reactions, warning & precautions, & incidence rates.Learn more  Improve decision support & research outcomes with our structured adverse effects data.Learn more
+Correct Answer: Average: 784.88 Monoisotopic: 784.277814807 
+
+Q: What is the Drug Categories of Lurbinectedin?
+A. Improve decision support & research outcomesWith structured adverse effects data, including: blackbox warnings, adverse reactions, warning & precautions, & incidence rates.Learn more  Improve decision support & research outcomes with our structured adverse effects data.Learn more
+B. Lurbinectedin
+C. Not Available
+D. Alkylating DrugsAntineoplastic AgentsAntineoplastic and Immunomodulating AgentsCytochrome P-450 CYP3A SubstratesCytochrome P-450 CYP3A4 SubstratesCytochrome P-450 SubstratesHeterocyclic Compounds, Fused-RingIndole AlkaloidsIndolesOATP1B1/SLCO1B1 InhibitorsOATP1B3 inhibitorsOCT1 inhibitorsP-glycoprotein inhibitorsP-glycoprotein substratesPyridines
+Correct Answer: Alkylating DrugsAntineoplastic AgentsAntineoplastic and Immunomodulating AgentsCytochrome P-450 CYP3A SubstratesCytochrome P-450 CYP3A4 SubstratesCytochrome P-450 SubstratesHeterocyclic Compounds, Fused-RingIndole AlkaloidsIndolesOATP1B1/SLCO1B1 InhibitorsOATP1B3 inhibitorsOCT1 inhibitorsP-glycoprotein inhibitorsP-glycoprotein substratesPyridines
+
+Q: What is the Brand Names of Tazemetostat?
+A. Tazverik
+B. Tazemetostat is a methyltransferase inhibitor that prevents hyper-trimethylation of histones and inhibits cancer cell de-differentiation.6 The duration of action is long as it is given twice daily.6 Patients should be counselled regarding the risk of secondary malignancies and embryo-fetal toxicity.6
+C. C34H44N4O4
+D. Not Available
+Correct Answer: Tazverik
+
+Q: What is the DrugBank Accession Number of Tazemetostat?
+A. 1403254-99-8
+B. DB12887
+C. Aromatic heteromonocyclic compounds
+D. Humans
+Correct Answer: DB12887
+
+Q: What is the Groups of Tazemetostat?
+A. Not Available
+B. Biphenyls and derivatives
+C. Approved, Investigational
+D. Q40W93WPE1
+Correct Answer: Approved, Investigational
+
+Q: What is the Weight of Tazemetostat?
+A. PropertyValueSourcelogP2.82ChemSpider
+B. Tazemetostat is indicated to treat adult and pediatric patients 16 years and older with metastatic or locally advanced epithelioid sarcoma that is not eligible for complete resection.6 It is also indicated to treat adult patients with relapsed or refractory follicular lymphoma whose tumors are positive for an IZH2 mutation and who have received at least 2 prior systemic therapies.6 Additionally, it is indicated in adult patients with relapsed or refractory follicular lymphoma who have no satisfactory alternative treatment options.6Reduce drug development failure ratesBuild, train, & validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, & validate predictive machine-learning models with structured datasets.See how
+C. Tazemetostat is metabolized by CYP3A4 to an inactive desethyl metabolite and one other inactive metabolite not described.4,6Hover over products below to view reaction partnersTazemetostatTazemetostat Desethyl Metabolite (EPZ-6930)
+D. Average: 572.75 Monoisotopic: 572.336255913 
+Correct Answer: Average: 572.75 Monoisotopic: 572.336255913 
+
+Q: What is the Drug Categories of Tazemetostat?
+A. AmidesAntineoplastic AgentsAntineoplastic and Immunomodulating AgentsBCRP/ABCG2 SubstratesBenzene DerivativesBenzoatesCytochrome P-450 CYP3A SubstratesCytochrome P-450 CYP3A4 SubstratesCytochrome P-450 CYP3A4 Substrates (strength unknown)Cytochrome P-450 SubstratesMATE 1 InhibitorsMATE 2 InhibitorsMATE 2-K InhibitorsMATE inhibitorsMethyltransferase InhibitorMethyltransferase InhibitorsOxazinesP-glycoprotein substratesPyridines
+B. Tazverik
+C. 1403254-99-8
+D. Improve decision support & research outcomesWith structured adverse effects data, including: blackbox warnings, adverse reactions, warning & precautions, & incidence rates.Learn more  Improve decision support & research outcomes with our structured adverse effects data.Learn more
+Correct Answer: AmidesAntineoplastic AgentsAntineoplastic and Immunomodulating AgentsBCRP/ABCG2 SubstratesBenzene DerivativesBenzoatesCytochrome P-450 CYP3A SubstratesCytochrome P-450 CYP3A4 SubstratesCytochrome P-450 CYP3A4 Substrates (strength unknown)Cytochrome P-450 SubstratesMATE 1 InhibitorsMATE 2 InhibitorsMATE 2-K InhibitorsMATE inhibitorsMethyltransferase InhibitorMethyltransferase InhibitorsOxazinesP-glycoprotein substratesPyridines
+
+Q: What is the DrugBank Accession Number of Interferon alfa-2a?
+A. DB00034
+B. This information should not be interpreted without the help of a healthcare provider. If you believe you are experiencing an interaction, contact a healthcare provider immediately. The absence of an interaction does not necessarily mean no interactions exist. ApprovedVet approvedNutraceuticalIllicitWithdrawnInvestigationalExperimentalAll DrugsDrugInteractionIntegrate drug-drug interactions in your softwareAbataceptThe risk or severity of adverse effects can be increased when Interferon alfa-2a is combined with Abatacept.AbciximabThe risk or severity of bleeding can be increased when Abciximab is combined with Interferon alfa-2a.AcenocoumarolThe metabolism of Acenocoumarol can be decreased when combined with Interferon alfa-2a.AcetaminophenThe metabolism of Acetaminophen can be decreased when combined with Interferon alfa-2a.Acetylsalicylic acidThe risk or severity of bleeding can be increased when Acetylsalicylic acid is combined with Interferon alfa-2a.AcyclovirThe metabolism of Acyclovir can be decreased when combined with Interferon alfa-2a.AdalimumabThe risk or severity of adverse effects can be increased when Interferon alfa-2a is combined with Adalimumab.Adenovirus type 7 vaccine liveThe risk or severity of infection can be increased when Adenovirus type 7 vaccine live is combined with Interferon alfa-2a.AgomelatineThe metabolism of Agomelatine can be decreased when combined with Interferon alfa-2a.AlbendazoleThe metabolism of Albendazole can be decreased when combined with Interferon alfa-2a.Identify potential medication risksEasily compare up to 40 drugs with our drug interaction checker.Get severity rating, description, and management advice. Learn more   
+C. IlacaBak: Interferon alfa 2a ATC Sınıflaması [Link] 
+D. Interferon a (human leukocyte protein moiety reduced). A type I interferon consisting of 165 amino acid residues with lysine in position 23. This protein is produced by recombinant DNA technology and resembles interferon secreted by leukocytes. It is used extensively as an antiviral or antineoplastic agent. An oral form is being developed by Amarillo Biosciences.
+Correct Answer: DB00034
+
+Q: What is the Groups of Interferon alfa-2a?
+A. Approved, Investigational
+B. RO 22-8181RO-22-8181RO-228181
+C. Chronic Hepatitis C Virus (HCV) InfectionChronic Myelogenous Leukemia (CML)Cutaneous T-Cell Lymphoma (CTCL)Hairy Cell Leukemia (HCL)Hepatitis B Chronic InfectionKaposi's SarcomaMyelomaNon-Hodgkin's Lymphoma (NHL)Thrombocytosis
+D. Absorption is high (greater than 80%) when administered intramuscularly or subcutaneously.
+Correct Answer: Approved, Investigational
+
+Q: What is the Drug Categories of Interferon alfa-2a?
+A. Download (204 KB) 
+B. 5879
+C. Interferon alfa-2a is a form of recombinant human interferon used to stimulate the innate antiviral response in the treatment of hepatitis B and C viruses.
+D. Adjuvants, ImmunologicAlfa InterferonsAmino Acids, Peptides, and ProteinsAnti-Infective AgentsAntineoplastic AgentsAntineoplastic and Immunomodulating AgentsAntiviral AgentsBiological FactorsCancer immunotherapyCytochrome P-450 CYP1A2 InhibitorsCytochrome P-450 CYP1A2 Inhibitors (strength unknown)Cytochrome P-450 Enzyme InhibitorsCytokinesImmunosuppressive AgentsImmunotherapyIntercellular Signaling Peptides and ProteinsInterferon alphaInterferon Type IInterferon-alphaInterferonsMyelosuppressive AgentsPeptidesProteins
+Correct Answer: Adjuvants, ImmunologicAlfa InterferonsAmino Acids, Peptides, and ProteinsAnti-Infective AgentsAntineoplastic AgentsAntineoplastic and Immunomodulating AgentsAntiviral AgentsBiological FactorsCancer immunotherapyCytochrome P-450 CYP1A2 InhibitorsCytochrome P-450 CYP1A2 Inhibitors (strength unknown)Cytochrome P-450 Enzyme InhibitorsCytokinesImmunosuppressive AgentsImmunotherapyIntercellular Signaling Peptides and ProteinsInterferon alphaInterferon Type IInterferon-alphaInterferonsMyelosuppressive AgentsPeptidesProteins
+
+Q: What is the Brand Names of Vincristine?
+A. DAP000114
+B. Marqibo, Vincasar
+C. D08679
+D. NameIngredientsDosageRouteLabellerMarketing StartMarketing EndRegionImageMEODEX®Vincristine (3 mg) + Dexamethasone (1 mg)SuspensionOphthalmicLABORATORIOS OTICOFF2007-12-14Not applicableColombia
+Correct Answer: Marqibo, Vincasar
+
+Q: What is the DrugBank Accession Number of Vincristine?
+A. DB00541
+B. 7a69
+C. Humans and other mammals
+D. Average: 824.972 Monoisotopic: 824.399644019 
+Correct Answer: DB00541
+
+Q: What is the Groups of Vincristine?
+A. Acute Lymphocytic LeukaemiaChoriocarcinomaChronic Lymphocytic LeukemiaEwing's SarcomaGestational Trophoblastic NeoplasiaHepatoblastomasHodgkin's LymphomaImmune Thrombocytopenia (ITP)Kaposi's SarcomaMultiple Myeloma (MM)Neuroblastoma (NB)Non-Hodgkin's Lymphoma (NHL)Ovarian germ cell tumourPheochromocytomaRelapsed Acute Lymphoblastic Leukemia (ALL)RetinoblastomaRhabdomyosarcomasSmall Cell Lung Cancer (SCLC)Wilms' tumorAdvanced Thymoma
+B. 5978
+C. Approved, Investigational
+D. [H][C@@]12N3CC[C@@]11C4=C(C=C(OC)C(=C4)[C@]4(C[C@H]5C[N@](C[C@](O)(CC)C5)CCC5=C4NC4=CC=CC=C54)C(=O)OC)N(C=O)[C@@]1([H])[C@](O)([C@H](OC(C)=O)[C@]2(CC)C=CC3)C(=O)OC
+Correct Answer: Approved, Investigational
+
+Q: What is the Weight of Vincristine?
+A. This information should not be interpreted without the help of a healthcare provider. If you believe you are experiencing an interaction, contact a healthcare provider immediately. The absence of an interaction does not necessarily mean no interactions exist. ApprovedVet approvedNutraceuticalIllicitWithdrawnInvestigationalExperimentalAll DrugsDrugInteractionIntegrate drug-drug interactions in your softwareAbametapirThe serum concentration of Vincristine can be increased when it is combined with Abametapir.AbataceptThe metabolism of Vincristine can be increased when combined with Abatacept.AbemaciclibAbemaciclib may decrease the excretion rate of Vincristine which could result in a higher serum level.AbrocitinibThe serum concentration of Vincristine can be increased when it is combined with Abrocitinib.AcalabrutinibThe metabolism of Vincristine can be decreased when combined with Acalabrutinib.AcetaminophenThe metabolism of Vincristine can be increased when combined with Acetaminophen.AcetazolamideThe metabolism of Vincristine can be decreased when combined with Acetazolamide.AcetophenazineVincristine may increase the neurotoxic activities of Acetophenazine.AcetyldigitoxinAcetyldigitoxin may decrease the cardiotoxic activities of Vincristine.AcipimoxThe risk or severity of myopathy, rhabdomyolysis, and myoglobinuria can be increased when Vincristine is combined with Acipimox.Identify potential medication risksEasily compare up to 40 drugs with our drug interaction checker.Get severity rating, description, and management advice. Learn more   
+B. L 37231NSC 67574
+C. APP PharmaceuticalsHospira Inc.Mission PharmacalPharmacia Inc.Sicor PharmaceuticalsTeva Pharmaceutical Industries Ltd.
+D. Average: 824.972 Monoisotopic: 824.399644019 
+Correct Answer: Average: 824.972 Monoisotopic: 824.399644019 
+
+Q: What is the Drug Categories of Vincristine?
+A. 38872
+B. Agents Causing Muscle ToxicityAlkaloidsAntimitotic AgentsAntineoplastic AgentsAntineoplastic Agents, PhytogenicAntineoplastic and Immunomodulating AgentsBCRP/ABCG2 SubstratesBSEP/ABCB11 SubstratesBSEP/ABCB11 Substrates with a Narrow Therapeutic IndexCardiotoxic antineoplastic agentsCytochrome P-450 CYP3A SubstratesCytochrome P-450 CYP3A4 SubstratesCytochrome P-450 CYP3A4 Substrates with a Narrow Therapeutic IndexCytochrome P-450 CYP3A5 SubstratesCytochrome P-450 CYP3A5 Substrates with a Narrow Therapeutic IndexCytochrome P-450 CYP3A7 SubstratesCytochrome P-450 CYP3A7 Substrates with a Narrow Therapeutic IndexCytochrome P-450 SubstratesHeterocyclic Compounds, Fused-RingImmunosuppressive AgentsIndole AlkaloidsIndolesIndolizidinesIndolizinesMitosis ModulatorsNarrow Therapeutic Index DrugsNeurotoxic agentsOATP1B1/SLCO1B1 InhibitorsOATP1B3 inhibitorsP-glycoprotein inducersP-glycoprotein inhibitorsP-glycoprotein substratesP-glycoprotein substrates with a Narrow Therapeutic IndexSecologanin Tryptamine AlkaloidsTubulin ModulatorsVinca Alkaloids
+C. Vinca alkaloids
+D. PropertyValueSourceWater Solubility0.03 mg/mLALOGPSlogP3.36ALOGPSlogP3.13ChemaxonlogS-4.4ALOGPSpKa (Strongest Acidic)10.85ChemaxonpKa (Strongest Basic)8.66ChemaxonPhysiological Charge2ChemaxonHydrogen Acceptor Count9ChemaxonHydrogen Donor Count3ChemaxonPolar Surface Area171.17 Å2ChemaxonRotatable Bond Count10ChemaxonRefractivity221.48 m3·mol-1ChemaxonPolarizability88.32 Å3ChemaxonNumber of Rings9ChemaxonBioavailability1ChemaxonRule of FiveNoChemaxonGhose FilterNoChemaxonVeber's RuleNoChemaxonMDDR-like RuleYesChemaxon
+Correct Answer: Agents Causing Muscle ToxicityAlkaloidsAntimitotic AgentsAntineoplastic AgentsAntineoplastic Agents, PhytogenicAntineoplastic and Immunomodulating AgentsBCRP/ABCG2 SubstratesBSEP/ABCB11 SubstratesBSEP/ABCB11 Substrates with a Narrow Therapeutic IndexCardiotoxic antineoplastic agentsCytochrome P-450 CYP3A SubstratesCytochrome P-450 CYP3A4 SubstratesCytochrome P-450 CYP3A4 Substrates with a Narrow Therapeutic IndexCytochrome P-450 CYP3A5 SubstratesCytochrome P-450 CYP3A5 Substrates with a Narrow Therapeutic IndexCytochrome P-450 CYP3A7 SubstratesCytochrome P-450 CYP3A7 Substrates with a Narrow Therapeutic IndexCytochrome P-450 SubstratesHeterocyclic Compounds, Fused-RingImmunosuppressive AgentsIndole AlkaloidsIndolesIndolizidinesIndolizinesMitosis ModulatorsNarrow Therapeutic Index DrugsNeurotoxic agentsOATP1B1/SLCO1B1 InhibitorsOATP1B3 inhibitorsP-glycoprotein inducersP-glycoprotein inhibitorsP-glycoprotein substratesP-glycoprotein substrates with a Narrow Therapeutic IndexSecologanin Tryptamine AlkaloidsTubulin ModulatorsVinca Alkaloids
+
+Q: What is the Brand Names of Sirolimus?
+A. NameDosageStrengthRouteLabellerMarketing StartMarketing EndRegionImageFyarroInjection, powder, lyophilized, for suspension5 mg/1mLIntravenousAadi Bioscience2021-11-22Not applicableUSHyftorGel2.0 mg/1gTopicalNOBELPHARMA AMERICA, LLC2022-03-23Not applicableUSRapamuneTablet, coated2 mgOralPfizer Europe Ma Eeig2016-09-07Not applicableEURapamuneTablet5 mgOralPfizer Canada UlcNot applicableNot applicableCanadaRapamuneSolution1 mg/mlOralPfizer Europe Ma Eeig2016-09-07Not applicableEURapamuneSolution1.0 mg / mLOralPfizer Canada Ulc2001-05-15Not applicableCanadaRapamuneSolution1 mg/1mLOralWyeth Pharmaceuticals Llc, a Subsidiary of Pfizer Inc.1999-09-01Not applicableUSRapamuneTablet, sugar coated0.5 mg/1OralWyeth Pharmaceuticals Llc, a Subsidiary of Pfizer Inc.2010-03-01Not applicableUSRapamuneTablet, coated0.5 mgOralPfizer Europe Ma Eeig2016-09-07Not applicableEURapamuneTablet, sugar coated1 mg/1OralCardinal Health2001-07-012011-08-31US
+B. QFJCIRLUMZQUOT-HPLJOQBZSA-N
+C. Fyarro, Hyftor, Rapamune
+D. NameDosageStrengthRouteLabellerMarketing StartMarketing EndRegionImageGd-sirolimusTablet5 mgOralGenmed A Division Of Pfizer Canada UlcNot applicableNot applicableCanadaGd-sirolimusSolution1.0 mg / mLOralGenmed A Division Of Pfizer Canada UlcNot applicableNot applicableCanadaGd-sirolimusTablet2 mgOralGenmed A Division Of Pfizer Canada UlcNot applicableNot applicableCanadaGd-sirolimusTablet1.0 mgOralGenmed A Division Of Pfizer Canada UlcNot applicableNot applicableCanadaSirolimusTablet2 mg/1OralDr. Reddy's Laboratories Limited2014-10-27Not applicableUSSirolimusTablet, film coated1 mg/1OralNorthStar Rx LLC2021-10-18Not applicableUSSirolimusTablet, sugar coated0.5 mg/1OralGreenstone LLC2014-01-07Not applicableUSSirolimusSolution1 mg/1mLOralGreenstone LLC2019-07-22Not applicableUSSirolimusTablet, film coated0.5 mg/1OralZydus Lifesciences Limited2014-01-15Not applicableUSSirolimusTablet2 mg/1OralAscend Laboratories, LLC2021-03-13Not applicableUS
+Correct Answer: Fyarro, Hyftor, Rapamune
+
+Q: What is the DrugBank Accession Number of Sirolimus?
+A. Cardinal HealthHangzhou Zhongmei Huadong Pharmaceutical Co. Ltd.Lake Erie Medical and Surgical SupplyPatheon Inc.Poli Industria Chimica SPAWyeth Pharmaceuticals
+B. DB00877
+C. Drugs.com Drug Page
+D. This information should not be interpreted without the help of a healthcare provider. If you believe you are experiencing an interaction, contact a healthcare provider immediately. The absence of an interaction does not necessarily mean no interactions exist. ApprovedVet approvedNutraceuticalIllicitWithdrawnInvestigationalExperimentalAll DrugsDrugInteractionIntegrate drug-drug interactions in your softwareAbametapirThe serum concentration of Sirolimus can be increased when it is combined with Abametapir.AbataceptThe metabolism of Sirolimus can be increased when combined with Abatacept.AbciximabThe risk or severity of bleeding can be increased when Abciximab is combined with Sirolimus.AbemaciclibThe serum concentration of Abemaciclib can be increased when it is combined with Sirolimus.AbrocitinibThe serum concentration of Sirolimus can be increased when it is combined with Abrocitinib.AcalabrutinibThe metabolism of Sirolimus can be decreased when combined with Acalabrutinib.AcarboseThe therapeutic efficacy of Acarbose can be decreased when used in combination with Sirolimus.AcenocoumarolThe therapeutic efficacy of Acenocoumarol can be increased when used in combination with Sirolimus.AcetaminophenThe metabolism of Sirolimus can be increased when combined with Acetaminophen.AcetazolamideThe metabolism of Sirolimus can be decreased when combined with Acetazolamide.Identify potential medication risksEasily compare up to 40 drugs with our drug interaction checker.Get severity rating, description, and management advice. Learn more   
+Correct Answer: DB00877
+
+Q: What is the Groups of Sirolimus?
+A. Drugs.com Drug Page
+B. Approved, Investigational
+C. 36609
+D. Solid
+Correct Answer: Approved, Investigational
+
+Q: What is the Weight of Sirolimus?
+A. Not Available
+B. CHEMBL413
+C. Average: 914.187 Monoisotopic: 913.555141608 
+D. Avoid life-threatening adverse drug eventsImprove clinical decision support with information on contraindications & blackbox warnings, population restrictions, harmful risks, & more.Learn more  Avoid life-threatening adverse drug events & improve clinical decision support.Learn more
+Correct Answer: Average: 914.187 Monoisotopic: 913.555141608 
+
+Q: What is the Drug Categories of Sirolimus?
+A. Agents causing angioedemaAnti-Bacterial AgentsAnti-Infective AgentsAntibiotics, AntineoplasticAntifungal AgentsAntineoplastic and Immunomodulating AgentsCytochrome P-450 CYP3A SubstratesCytochrome P-450 CYP3A4 SubstratesCytochrome P-450 CYP3A4 Substrates with a Narrow Therapeutic IndexCytochrome P-450 CYP3A5 SubstratesCytochrome P-450 CYP3A5 Substrates with a Narrow Therapeutic IndexCytochrome P-450 CYP3A7 SubstratesCytochrome P-450 CYP3A7 Substrates with a Narrow Therapeutic IndexCytochrome P-450 SubstratesDecreased Immunologic ActivityHyperglycemia-Associated AgentsImmunologic FactorsImmunosuppressive AgentsImmunotherapyKinase InhibitorLactonesMacrolidesmTOR Inhibitor ImmunosuppressantmTOR InhibitorsMyelosuppressive AgentsNarrow Therapeutic Index DrugsOATP1B1/SLCO1B1 InhibitorsOphthalmologicalsP-glycoprotein inducersP-glycoprotein inhibitorsP-glycoprotein substratesP-glycoprotein substrates with a Narrow Therapeutic IndexPolyketidesProtein Kinase InhibitorsSelective ImmunosuppressantsSensory OrgansSirolimus and Prodrugs
+B. Not Available
+C. DescriptionThis compound belongs to the class of organic compounds known as macrolide lactams. These are cyclic polyketides containing both a cyclic amide and a cyclic ester group.KingdomOrganic compoundsSuper ClassPhenylpropanoids and polyketidesClassMacrolide lactamsSub ClassNot AvailableDirect ParentMacrolide lactamsAlternative ParentsAlpha amino acid esters / Macrolides and analogues / Cyclohexanols / Piperidines / Oxanes / Tertiary carboxylic acid amides / Carboxylic acid esters / Cyclic alcohols and derivatives / Cyclic ketones / Hemiacetals / Lactams / Lactones / Azacyclic compounds / Dialkyl ethers / Oxacyclic compounds / Monocarboxylic acids and derivatives / Hydrocarbon derivatives / Organopnictogen compounds / Organonitrogen compounds / Organic oxides show 10 moreSubstituentsAlcohol / Aliphatic heteropolycyclic compound / Alpha-amino acid ester / Alpha-amino acid or derivatives / Azacycle / Carbonyl group / Carboxamide group / Carboxylic acid derivative / Carboxylic acid ester / Cyclic alcohol / Cyclic ketone / Cyclohexanol / Dialkyl ether / Ether / Hemiacetal / Hydrocarbon derivative / Ketone / Lactam / Lactone / Macrolide / Macrolide lactam / Monocarboxylic acid or derivatives / Organic nitrogen compound / Organic oxide / Organic oxygen compound / Organoheterocyclic compound / Organonitrogen compound / Organooxygen compound / Organopnictogen compound / Oxacycle / Oxane / Piperidine / Secondary alcohol / Tertiary carboxylic acid amide show 24 moreMolecular FrameworkAliphatic heteropolycyclic compoundsExternal Descriptorscyclic ketone, antibiotic antifungal drug, organic heterotricyclic compound, secondary alcohol, ether, lactam, macrolide, cyclic acetal (CHEBI:9168)  / Plyenes (C07909) 
+D. [H][C@@]1(C[C@@H](C)[C@]2([H])CC(=O)[C@H](C)\C=C(C)\[C@@H](O)[C@@H](OC)C(=O)[C@H](C)C[C@H](C)\C=C\C=C\C=C(C)\[C@H](C[C@]3([H])CC[C@@H](C)[C@@](O)(O3)C(=O)C(=O)N3CCCC[C@@]3([H])C(=O)O2)OC)CC[C@@H](O)[C@@H](C1)OC
+Correct Answer: Agents causing angioedemaAnti-Bacterial AgentsAnti-Infective AgentsAntibiotics, AntineoplasticAntifungal AgentsAntineoplastic and Immunomodulating AgentsCytochrome P-450 CYP3A SubstratesCytochrome P-450 CYP3A4 SubstratesCytochrome P-450 CYP3A4 Substrates with a Narrow Therapeutic IndexCytochrome P-450 CYP3A5 SubstratesCytochrome P-450 CYP3A5 Substrates with a Narrow Therapeutic IndexCytochrome P-450 CYP3A7 SubstratesCytochrome P-450 CYP3A7 Substrates with a Narrow Therapeutic IndexCytochrome P-450 SubstratesDecreased Immunologic ActivityHyperglycemia-Associated AgentsImmunologic FactorsImmunosuppressive AgentsImmunotherapyKinase InhibitorLactonesMacrolidesmTOR Inhibitor ImmunosuppressantmTOR InhibitorsMyelosuppressive AgentsNarrow Therapeutic Index DrugsOATP1B1/SLCO1B1 InhibitorsOphthalmologicalsP-glycoprotein inducersP-glycoprotein inhibitorsP-glycoprotein substratesP-glycoprotein substrates with a Narrow Therapeutic IndexPolyketidesProtein Kinase InhibitorsSelective ImmunosuppressantsSensory OrgansSirolimus and Prodrugs
+
+Q: What is the Brand Names of Alitretinoin?
+A. Not Available
+B. Panretin, Toctino
+C. 46507356
+D. Approved, Investigational
+Correct Answer: Panretin, Toctino
+
+Q: What is the DrugBank Accession Number of Alitretinoin?
+A. PA164746900
+B. Retinoids
+C. DB00523
+D. Not Available
+Correct Answer: DB00523
+
+Q: What is the Groups of Alitretinoin?
+A. PhaseStatusPurposeConditionsCount4TerminatedTreatmentAtopic Dermatitis13CompletedNot AvailableHand Dermatosis13CompletedTreatmentAtopic Dermatitis23CompletedTreatmentHand Dermatosis23RecruitingTreatmentChronic Hand Eczema (CHE)13Unknown StatusTreatmentHand Eczema22CompletedTreatmentHuman Immunodeficiency Virus (HIV) Infections / Kaposi's Sarcoma12CompletedTreatmentPsoriasis (PsO)12TerminatedTreatmentCutaneous Lupus Erythematosus (CLE)12Unknown StatusTreatmentLichen Planus (LP)1
+B. Approved, Investigational
+C. AGN 192013AGN-192013ALRT-1057ALRT1057BAL-4079BAL4079CCRIS 7098LG100057LGD1057NSC-659772
+D. Not Available
+Correct Answer: Approved, Investigational
+
+Q: What is the Weight of Alitretinoin?
+A. 1epb / 1fby / 1fm6 / 1fm9 / 1k74 / 1tyr / 1xdk / 1xiu / 1xls / 2nnh …  show 14 more
+B. Basilea Pharmaceuticals Corp.Contract PharmEisai Inc.Ortho-McNeil-Janssen Pharmaceuticals Inc.
+C. Average: 300.4351 Monoisotopic: 300.20893014 
+D. L01XF02 — AlitretinoinL01XF — Retinoids for cancer treatmentL01X — OTHER ANTINEOPLASTIC AGENTSL01 — ANTINEOPLASTIC AGENTSL — ANTINEOPLASTIC AND IMMUNOMODULATING AGENTSD11AH04 — AlitretinoinD11AH — Agents for dermatitis, excluding corticosteroidsD11A — OTHER DERMATOLOGICAL PREPARATIONSD11 — OTHER DERMATOLOGICAL PREPARATIONSD — DERMATOLOGICALS
+Correct Answer: Average: 300.4351 Monoisotopic: 300.20893014 
+
+Q: What is the Drug Categories of Alitretinoin?
+A. InChI=1S/C20H28O2/c1-15(8-6-9-16(2)14-19(21)22)11-12-18-17(3)10-7-13-20(18,4)5/h6,8-9,11-12,14H,7,10,13H2,1-5H3,(H,21,22)/b9-6+,12-11+,15-8-,16-14+
+B. Drugs.com Drug Page
+C. Chronic Eczema of the handCutaneous lesionsRefractory Eczema of the handSevere Eczema of the hand
+D. Agents for Dermatitis, Excluding CorticosteroidsAlkenesAntineoplastic AgentsAntineoplastic and Immunomodulating AgentsBiological FactorsCarotenoidsCyclohexanesCyclohexenesCycloparaffinsDermatologicalsDiterpenesHydrocarbons, AcyclicMisc. Skin and Mucous Membrane AgentsP-glycoprotein substratesPigments, BiologicalPolyenesRetinoidsRetinoids for cancer treatmentTerpenesVitamin AVitaminsVitamins (Fat Soluble)
+Correct Answer: Agents for Dermatitis, Excluding CorticosteroidsAlkenesAntineoplastic AgentsAntineoplastic and Immunomodulating AgentsBiological FactorsCarotenoidsCyclohexanesCyclohexenesCycloparaffinsDermatologicalsDiterpenesHydrocarbons, AcyclicMisc. Skin and Mucous Membrane AgentsP-glycoprotein substratesPigments, BiologicalPolyenesRetinoidsRetinoids for cancer treatmentTerpenesVitamin AVitaminsVitamins (Fat Soluble)
+
+Q: What is the DrugBank Accession Number of Interferon alfacon-1?
+A. Organic Acids
+B. DB00069
+C. Blatt LM, Davis JM, Klein SB, Taylor MW: The biologic activity and molecular characterization of a novel synthetic interferon-alpha species, consensus interferon. J Interferon Cytokine Res. 1996 Jul;16(7):489-99. [Article] Link [Link] 
+D. This information should not be interpreted without the help of a healthcare provider. If you believe you are experiencing an interaction, contact a healthcare provider immediately. The absence of an interaction does not necessarily mean no interactions exist. ApprovedVet approvedNutraceuticalIllicitWithdrawnInvestigationalExperimentalAll DrugsDrugInteractionIntegrate drug-drug interactions in your softwareAbataceptThe risk or severity of adverse effects can be increased when Interferon alfacon-1 is combined with Abatacept.AbciximabThe risk or severity of bleeding can be increased when Abciximab is combined with Interferon alfacon-1.AcenocoumarolThe metabolism of Acenocoumarol can be decreased when combined with Interferon alfacon-1.AcetaminophenThe metabolism of Acetaminophen can be decreased when combined with Interferon alfacon-1.Acetylsalicylic acidThe risk or severity of bleeding can be increased when Acetylsalicylic acid is combined with Interferon alfacon-1.AcyclovirThe metabolism of Acyclovir can be decreased when combined with Interferon alfacon-1.AdalimumabThe risk or severity of adverse effects can be increased when Adalimumab is combined with Interferon alfacon-1.Adenovirus type 7 vaccine liveThe risk or severity of infection can be increased when Adenovirus type 7 vaccine live is combined with Interferon alfacon-1.AgomelatineThe metabolism of Agomelatine can be decreased when combined with Interferon alfacon-1.AlbendazoleThe metabolism of Albendazole can be decreased when combined with Interferon alfacon-1.Identify potential medication risksEasily compare up to 40 drugs with our drug interaction checker.Get severity rating, description, and management advice. Learn more   
+Correct Answer: DB00069
+
+Q: What is the Groups of Interferon alfacon-1?
+A. Amgen Inc.InterMune Inc.Three Rivers Pharmaceuticals LLCValeant Ltd.
+B. Approved, Investigational
+C. Not Available
+D. DescriptionNot AvailableKingdomOrganic CompoundsSuper ClassOrganic AcidsClassCarboxylic Acids and DerivativesSub ClassAmino Acids, Peptides, and AnaloguesDirect ParentPeptidesAlternative ParentsNot AvailableSubstituentsNot AvailableMolecular FrameworkNot AvailableExternal DescriptorsNot Available
+Correct Answer: Approved, Investigational
+
+Q: What is the Drug Categories of Interferon alfacon-1?
+A. Not Available
+B. 59744
+C. Adjuvants, ImmunologicAlfa InterferonsAmino Acids, Peptides, and ProteinsAnti-Infective AgentsAntineoplastic and Immunomodulating AgentsAntiviral AgentsBiological FactorsCytochrome P-450 CYP1A2 InhibitorsCytochrome P-450 CYP1A2 Inhibitors (strength unknown)Cytochrome P-450 Enzyme InhibitorsCytokinesImmunosuppressive AgentsIntercellular Signaling Peptides and ProteinsInterferon alphaInterferon Type IInterferonsMyelosuppressive AgentsPeptidesProteins
+D. Liquid
+Correct Answer: Adjuvants, ImmunologicAlfa InterferonsAmino Acids, Peptides, and ProteinsAnti-Infective AgentsAntineoplastic and Immunomodulating AgentsAntiviral AgentsBiological FactorsCytochrome P-450 CYP1A2 InhibitorsCytochrome P-450 CYP1A2 Inhibitors (strength unknown)Cytochrome P-450 Enzyme InhibitorsCytokinesImmunosuppressive AgentsIntercellular Signaling Peptides and ProteinsInterferon alphaInterferon Type IInterferonsMyelosuppressive AgentsPeptidesProteins
+
+Q: What is the DrugBank Accession Number of Vinblastine?
+A. DB00570
+B. Download (73.5 KB) 
+C. PropertyValueSourcemelting point (°C)267 °CNot Availablewater solubilityNegligibleNot AvailablelogP3.70SANGSTER (1994)
+D. InChI=1S/C46H58N4O9/c1-8-42(54)23-28-24-45(40(52)57-6,36-30(15-19-49(25-28)26-42)29-13-10-11-14-33(29)47-36)32-21-31-34(22-35(32)56-5)48(4)38-44(31)17-20-50-18-12-16-43(9-2,37(44)50)39(59-27(3)51)46(38,55)41(53)58-7/h10-14,16,21-22,28,37-39,47,54-55H,8-9,15,17-20,23-26H2,1-7H3/t28-,37-,38+,39+,42-,43+,44+,45-,46-/m0/s1
+Correct Answer: DB00570
+
+Q: What is the Groups of Vinblastine?
+A. Vinca alkaloids
+B. Antitumor alkaloid isolated from Vinca rosea. (Merck, 11th ed.)
+C. Approved
+D. NameDosageStrengthRouteLabellerMarketing StartMarketing EndRegionImageVinblastine SulfateInjection, powder, lyophilized, for solution10 mg/10mLIntravenousBedford Pharmaceuticals1996-05-012013-04-30USVinblastine SulfateInjection1 mg/1mLIntravenousFresenius Kabi USA, LLC2000-07-12Not applicableUS
+Correct Answer: Approved
+
+Q: What is the Weight of Vinblastine?
+A. Not Available
+B. Average: 810.9741 Monoisotopic: 810.420379474 
+C. Alkaloids and derivatives
+D. Vinca alkaloids
+Correct Answer: Average: 810.9741 Monoisotopic: 810.420379474 
+
+Q: What is the Drug Categories of Vinblastine?
+A. Vinblastine is a vinca alkaloid used to treat breast cancer, testicular cancer, neuroblastoma, Hodgkin's and non-Hodgkins lymphoma, mycosis fungoides, histiocytosis, and Kaposi's sarcoma.
+B. AlkaloidsAntimitotic AgentsAntineoplastic AgentsAntineoplastic Agents, PhytogenicAntineoplastic and Immunomodulating AgentsBSEP/ABCB11 InhibitorsBSEP/ABCB11 SubstratesBSEP/ABCB11 Substrates with a Narrow Therapeutic IndexCardiotoxic antineoplastic agentsCytochrome P-450 CYP2D6 InhibitorsCytochrome P-450 CYP2D6 Inhibitors (weak)Cytochrome P-450 CYP3A InducersCytochrome P-450 CYP3A InhibitorsCytochrome P-450 CYP3A SubstratesCytochrome P-450 CYP3A4 InducersCytochrome P-450 CYP3A4 Inducers (strength unknown)Cytochrome P-450 CYP3A4 InhibitorsCytochrome P-450 CYP3A4 Inhibitors (strength unknown)Cytochrome P-450 CYP3A4 SubstratesCytochrome P-450 CYP3A4 Substrates with a Narrow Therapeutic IndexCytochrome P-450 Enzyme InducersCytochrome P-450 Enzyme InhibitorsCytochrome P-450 SubstratesHeterocyclic Compounds, Fused-RingImmunosuppressive AgentsIndole AlkaloidsIndolesIndolizidinesIndolizinesMitosis ModulatorsMyelosuppressive AgentsNarrow Therapeutic Index DrugsOATP1B1/SLCO1B1 InhibitorsP-glycoprotein inducersP-glycoprotein inhibitorsP-glycoprotein substratesP-glycoprotein substrates with a Narrow Therapeutic IndexSecologanin Tryptamine AlkaloidsTubulin ModulatorsVinca Alkaloids
+C. Vinblastine
+D. IngredientUNIICASInChI KeyVinblastine sulfateN00W22YO2B143-67-9KDQAABAKXDWYSZ-PNYVAJAMSA-N
+Correct Answer: AlkaloidsAntimitotic AgentsAntineoplastic AgentsAntineoplastic Agents, PhytogenicAntineoplastic and Immunomodulating AgentsBSEP/ABCB11 InhibitorsBSEP/ABCB11 SubstratesBSEP/ABCB11 Substrates with a Narrow Therapeutic IndexCardiotoxic antineoplastic agentsCytochrome P-450 CYP2D6 InhibitorsCytochrome P-450 CYP2D6 Inhibitors (weak)Cytochrome P-450 CYP3A InducersCytochrome P-450 CYP3A InhibitorsCytochrome P-450 CYP3A SubstratesCytochrome P-450 CYP3A4 InducersCytochrome P-450 CYP3A4 Inducers (strength unknown)Cytochrome P-450 CYP3A4 InhibitorsCytochrome P-450 CYP3A4 Inhibitors (strength unknown)Cytochrome P-450 CYP3A4 SubstratesCytochrome P-450 CYP3A4 Substrates with a Narrow Therapeutic IndexCytochrome P-450 Enzyme InducersCytochrome P-450 Enzyme InhibitorsCytochrome P-450 SubstratesHeterocyclic Compounds, Fused-RingImmunosuppressive AgentsIndole AlkaloidsIndolesIndolizidinesIndolizinesMitosis ModulatorsMyelosuppressive AgentsNarrow Therapeutic Index DrugsOATP1B1/SLCO1B1 InhibitorsP-glycoprotein inducersP-glycoprotein inhibitorsP-glycoprotein substratesP-glycoprotein substrates with a Narrow Therapeutic IndexSecologanin Tryptamine AlkaloidsTubulin ModulatorsVinca Alkaloids
+
+Q: What is the Brand Names of Trabectedin?
+A. Patent NumberPediatric ExtensionApprovedExpires (estimated)RegionCA2428160No2009-10-132021-11-06CanadaCA2373794No2005-10-112020-05-15CanadaUS8895557Yes2014-11-252028-07-07US
+B. Yondelis
+C. This compound belongs to the class of organic compounds known as benzazocines. These are organic compounds containing the benzazocine ring system, which consists of a benzene ring bound to an azocine ring.
+D. Indicated for treatment of advanced soft tissue sarcoma in patients refractory to or unsuitable to receive anthracycline or ifosfamide chemotherapy in Europe, Russia and South Korea. Approved for orphan drug status by the U.S. FDA for treatment of soft tissue sarcomas and ovarian cancer. Investigated for use/treatment in cancer/tumors (unspecified), gastric cancer, ovarian cancer, pediatric indications, sarcoma, and solid tumors.Reduce drug development failure ratesBuild, train, & validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, & validate predictive machine-learning models with structured datasets.See how
+Correct Answer: Yondelis
+
+Q: What is the DrugBank Accession Number of Trabectedin?
+A. DB05108
+B. Avoid life-threatening adverse drug eventsImprove clinical decision support with information on contraindications & blackbox warnings, population restrictions, harmful risks, & more.Learn more  Avoid life-threatening adverse drug events & improve clinical decision support.Learn more
+C. Aromatic heteropolycyclic compounds
+D. DB05109
+Correct Answer: DB05109
+
+Q: What is the Groups of Trabectedin?
+A. Approved, Investigational
+B. Tetrahydroisoquinolines / Alpha amino acids and derivatives / Benzodioxoles / Anisoles / 1-hydroxy-2-unsubstituted benzenoids / 1-hydroxy-4-unsubstituted benzenoids / Alkyl aryl ethers / N-methylpiperazines / Aralkylamines / Dicarboxylic acids and derivatives / Trialkylamines / Lactones / Hemiaminals / Carboxylic acid esters / Polyols / Oxacyclic compounds / Acetals / Dialkylthioethers / Dialkylamines / Azacyclic compounds / Organopnictogen compounds / Organic oxides / Hydrocarbon derivatives / Carbonyl compounds show 14 more
+C. Not Available
+D. 114899-77-3
+Correct Answer: Approved, Investigational
+
+Q: What is the Weight of Trabectedin?
+A. Average: 761.837 Monoisotopic: 761.261829923 
+B. Two of the rings in the drug's structure allows it to covalently bind to the minor groove of DNA. The third ring protrudes from the DNA which lets it interact with nearby nuclear proteins. This has the additive effect of blocking cell division at the G2 phase.
+C. Download (824 KB) 
+D. Administered intravenously. 
+Correct Answer: Average: 761.837 Monoisotopic: 761.261829923 
+
+Q: What is the Drug Categories of Trabectedin?
+A. Agents Causing Muscle ToxicityAlkylating ActivityAlkylating DrugsAntineoplastic AgentsAntineoplastic Agents, AlkylatingAntineoplastic and Immunomodulating AgentsCytochrome P-450 CYP2C19 SubstratesCytochrome P-450 CYP2C19 Substrates with a Narrow Therapeutic IndexCytochrome P-450 CYP2C9 SubstratesCytochrome P-450 CYP2C9 Substrates with a Narrow Therapeutic IndexCytochrome P-450 CYP2D6 SubstratesCytochrome P-450 CYP2D6 Substrates with a Narrow Therapeutic IndexCytochrome P-450 CYP2E1 SubstratesCytochrome P-450 CYP2E1 Substrates with a Narrow Therapeutic IndexCytochrome P-450 CYP3A SubstratesCytochrome P-450 CYP3A4 SubstratesCytochrome P-450 CYP3A4 Substrates with a Narrow Therapeutic IndexCytochrome P-450 SubstratesDioxolesHeterocyclic Compounds, Fused-RingImmunosuppressive AgentsIsoquinolinesMyelosuppressive AgentsNarrow Therapeutic Index DrugsNoxaeTetrahydroisoquinolinesToxic Actions
+B. Drug product information from 10+ global regionsOur datasets provide approved product information including:dosage, form, labeller, route of administration, and marketing period.Access now  Access drug product information from over 10 global regions.Access now
+C. Trabectedin
+D. Not Available
+Correct Answer: Agents Causing Muscle ToxicityAlkylating ActivityAlkylating DrugsAntineoplastic AgentsAntineoplastic Agents, AlkylatingAntineoplastic and Immunomodulating AgentsCytochrome P-450 CYP2C19 SubstratesCytochrome P-450 CYP2C19 Substrates with a Narrow Therapeutic IndexCytochrome P-450 CYP2C9 SubstratesCytochrome P-450 CYP2C9 Substrates with a Narrow Therapeutic IndexCytochrome P-450 CYP2D6 SubstratesCytochrome P-450 CYP2D6 Substrates with a Narrow Therapeutic IndexCytochrome P-450 CYP2E1 SubstratesCytochrome P-450 CYP2E1 Substrates with a Narrow Therapeutic IndexCytochrome P-450 CYP3A SubstratesCytochrome P-450 CYP3A4 SubstratesCytochrome P-450 CYP3A4 Substrates with a Narrow Therapeutic IndexCytochrome P-450 SubstratesDioxolesHeterocyclic Compounds, Fused-RingImmunosuppressive AgentsIsoquinolinesMyelosuppressive AgentsNarrow Therapeutic Index DrugsNoxaeTetrahydroisoquinolinesToxic Actions
+
+Q: What is the Brand Names of Tasonermin?
+A. No absorption data is available. No enteral route formulation exists for tasonermin.
+B. 
+C. RxNav283746WikipediaTumor_necrosis_factor
+D. Beromun
+Correct Answer: Beromun
+
+Q: What is the DrugBank Accession Number of Tasonermin?
+A. NameDosageStrengthRouteLabellerMarketing StartMarketing EndRegionImageBeromunInjection, powder, for solution1 mg/5mlBelpharma S.A.2016-09-07Not applicableEU
+B. Download (31.8 KB) 
+C. Tasonermin is recombinant soluble form tumor necrosis factor α produced via Escherichia coli cell culture. It was approved for use by the European Medicines Agency in April of 1999 for use as an adjunt to surgery for the subsequent removal of the tumor and in palliative care for irresectable soft tissue sarcoma of the limbs as the product Beromun. It is administered with Melphalan via mild hyperthermic isolated limb perfusion.
+D. DB11626
+Correct Answer: DB11626
+
+Q: What is the Groups of Tasonermin?
+A. Approved
+B. Organic Compounds
+C. 17724.0 Da
+D. Avoid life-threatening adverse drug eventsImprove clinical decision support with information on contraindications & blackbox warnings, population restrictions, harmful risks, & more.Learn more  Avoid life-threatening adverse drug events & improve clinical decision support.Learn more
+Correct Answer: Approved
+
+Q: What is the Drug Categories of Tasonermin?
+A. Improve decision support & research outcomesWith structured adverse effects data, including: blackbox warnings, adverse reactions, warning & precautions, & incidence rates.Learn more  Improve decision support & research outcomes with our structured adverse effects data.Learn more
+B. Collins T, Read MA, Neish AS, Whitley MZ, Thanos D, Maniatis T: Transcriptional regulation of endothelial cell adhesion molecules: NF-kappa B and cytokine-inducible enhancers. FASEB J. 1995 Jul;9(10):899-909. [Article] Wajant H, Pfizenmaier K, Scheurich P: Tumor necrosis factor signaling. Cell Death Differ. 2003 Jan;10(1):45-65. doi: 10.1038/sj.cdd.4401189. [Article] Zhang H, Park Y, Wu J, Chen Xp, Lee S, Yang J, Dellsperger KC, Zhang C: Role of TNF-alpha in vascular dysfunction. Clin Sci (Lond). 2009 Feb;116(3):219-30. doi: 10.1042/CS20080196. [Article] Pate M, Damarla V, Chi DS, Negi S, Krishnaswamy G: Endothelial cell biology: role in the inflammatory response. Adv Clin Chem. 2010;52:109-30. [Article] Brunton LL, Hilal-Dandan R, Knollmann BC. eds (2018). Goodman & Gilman's: The Pharmacological Basis of Therapeutics (13th ed.). McGraw-Hill Education. [ISBN:978-1-25-958473-2] EMA: Tasonermin Scientific Discussion [Link] EMA Summary of Product Characteristics: Beromun (tasonermin) powder for solution for infusion [Link] 
+C. In addition to its intended cytotoxic effects, tasonermin produces secondary adverse effects. Studies in mice, rats, dogs, monkeys, and rabbits observed hematological changes including anemia, increased hematocrit, and changes in leukocyte and platelet counts dependent on species and treatment duration Label.Tasonermin also produces decreases in blood pressure. Increases in heart rate and reductions in cardiac contractility have been noted in some studies.Increased liver enzymes suggest altered liver function as a result of tasonermin administration. Changes in kidney function have also been observed including increased water and sodium excretion as well as increased serum urea and creatinine.The only study to determine a no observable adverse effect level found the value to be 0.1 μg/kg in monkeys during a 7-day course of tasonermin.
+D. Adjuvants, ImmunologicAntineoplastic and Immunomodulating Agents
+Correct Answer: Adjuvants, ImmunologicAntineoplastic and Immunomodulating Agents
+
+Q: What is the Brand Names of Paclitaxel?
+A. Abraxane, Taxol
+B. RCINICONZNJXQF-MZXODVADSA-N
+C. PhaseStatusPurposeConditionsCount4Active Not RecruitingTreatmentOvarian Cancer14Active Not RecruitingTreatmentSafety and Efficacy14Active Not RecruitingTreatmentSquamous Cell Carcinoma of the Head and Neck (SCCHN)14CompletedNot AvailableCancer14CompletedDiagnosticBreast Cancer14CompletedHealth Services ResearchBreast Cancer14CompletedTreatmentAdenocarcinomas of the Pancreas14CompletedTreatmentAdenocarcinomas / Carcinoma / Carcinoma, Large Cell / Neoplasms, Lung / Non-Small Cell Lung Cancer (NSCLC) / Squamous Cell Carcinoma (SCC)14CompletedTreatmentBreast Cancer34CompletedTreatmentCarcinoma, Large Cell / Neuroendocrine Tumors1
+D. C47H51NO14
+Correct Answer: Abraxane, Taxol
+
+Q: What is the DrugBank Accession Number of Paclitaxel?
+A. Paclitaxel is a taxoid chemotherapeutic agent used as first-line and subsequent therapy for the treatment of advanced carcinoma of the ovary, and other various cancers including breast and lung cancer.
+B. DB01229
+C. When a 24 hour infusion of 135 mg/m^2 is given to ovarian cancer patients, the elimination half=life is 52.7 hours. 
+D. Drugs.com Drug Page
+Correct Answer: DB01229
+
+Q: What is the Groups of Paclitaxel?
+A. Approved, Vet approved
+B. Average: 853.9061 Monoisotopic: 853.330955345 
+C. 50001839
+D. 89%-98% bound to plasma protein. The presence of cimetidine, ranitidine, dexamethasone, or diphenhydramine did not affect protein binding of paclitaxel.
+Correct Answer: Approved, Vet approved
+
+Q: What is the Weight of Paclitaxel?
+A. PropertyValueProbabilityHuman Intestinal Absorption+0.914Blood Brain Barrier-0.9748Caco-2 permeable-0.8957P-glycoprotein substrateSubstrate0.8345P-glycoprotein inhibitor IInhibitor0.5509P-glycoprotein inhibitor IINon-inhibitor0.7309Renal organic cation transporterNon-inhibitor0.9349CYP450 2C9 substrateNon-substrate0.837CYP450 2D6 substrateNon-substrate0.9116CYP450 3A4 substrateSubstrate0.7278CYP450 1A2 substrateNon-inhibitor0.9045CYP450 2C9 inhibitorNon-inhibitor0.9071CYP450 2D6 inhibitorNon-inhibitor0.9231CYP450 2C19 inhibitorNon-inhibitor0.9025CYP450 3A4 inhibitorNon-inhibitor0.8309CYP450 inhibitory promiscuityLow CYP Inhibitory Promiscuity0.8937Ames testNon AMES toxic0.9132CarcinogenicityNon-carcinogens0.9158BiodegradationNot ready biodegradable0.9491Rat acute toxicity2.4391 LD50, mol/kg Not applicablehERG inhibition (predictor I)Weak inhibitor0.9978hERG inhibition (predictor II)Non-inhibitor0.7982  ADMET data is predicted using admetSAR, a free tool for evaluating chemical ADMET properties. (23092397) 
+B. Average: 853.9061 Monoisotopic: 853.330955345 
+C. Not Available
+D. PathwayCategoryPaclitaxel Action PathwayDrug action
+Correct Answer: Average: 853.9061 Monoisotopic: 853.330955345 
+
+Q: What is the Drug Categories of Paclitaxel?
+A. Download (74 KB) 
+B. Paclitaxel
+C. Agents Causing Muscle ToxicityAlbuminsAmino Acids, Peptides, and ProteinsAntimitotic AgentsAntineoplastic AgentsAntineoplastic Agents, PhytogenicAntineoplastic and Immunomodulating AgentsBSEP/ABCB11 InhibitorsBSEP/ABCB11 SubstratesBSEP/ABCB11 Substrates with a Narrow Therapeutic IndexCardiotoxic antineoplastic agentsCyclodecanesCycloparaffinsCytochrome P-450 CYP2C8 SubstratesCytochrome P-450 CYP2C8 Substrates with a Narrow Therapeutic IndexCytochrome P-450 CYP3A InducersCytochrome P-450 CYP3A SubstratesCytochrome P-450 CYP3A4 InducersCytochrome P-450 CYP3A4 Inducers (strength unknown)Cytochrome P-450 CYP3A4 SubstratesCytochrome P-450 CYP3A4 Substrates with a Narrow Therapeutic IndexCytochrome P-450 CYP3A5 SubstratesCytochrome P-450 CYP3A5 Substrates with a Narrow Therapeutic IndexCytochrome P-450 CYP3A7 SubstratesCytochrome P-450 CYP3A7 Substrates with a Narrow Therapeutic IndexCytochrome P-450 Enzyme InducersCytochrome P-450 SubstratesDiterpenesHypotensive AgentsImmunosuppressive AgentsMicrotubule InhibitionMicrotubule InhibitorsMitosis ModulatorsMyelosuppressive AgentsNarrow Therapeutic Index DrugsNeurotoxic agentsOATP1B3 substratesP-glycoprotein inhibitorsP-glycoprotein substratesP-glycoprotein substrates with a Narrow Therapeutic IndexProteinsTaxane DerivativesTaxoidsTerpenesTubulin Modulators
+D. Hepatic. In vitro studies with human liver microsomes and tissue slices showed that paclitaxel was metabolized primarily to 6a-hydrox-ypaclitaxel by the cytochrome P450 isozyme CYP2C8; and to two minor metabolites, 3’-p-hydroxypaclitaxel and 6a, 3’-p-dihydroxypaclitaxel, by CYP3A4.Hover over products below to view reaction partnersPaclitaxel6α, 3'-p-dihydroxypaclitaxel6α-hydroxypaclitaxel3′-p-hydroxypaclitaxel
+Correct Answer: Agents Causing Muscle ToxicityAlbuminsAmino Acids, Peptides, and ProteinsAntimitotic AgentsAntineoplastic AgentsAntineoplastic Agents, PhytogenicAntineoplastic and Immunomodulating AgentsBSEP/ABCB11 InhibitorsBSEP/ABCB11 SubstratesBSEP/ABCB11 Substrates with a Narrow Therapeutic IndexCardiotoxic antineoplastic agentsCyclodecanesCycloparaffinsCytochrome P-450 CYP2C8 SubstratesCytochrome P-450 CYP2C8 Substrates with a Narrow Therapeutic IndexCytochrome P-450 CYP3A InducersCytochrome P-450 CYP3A SubstratesCytochrome P-450 CYP3A4 InducersCytochrome P-450 CYP3A4 Inducers (strength unknown)Cytochrome P-450 CYP3A4 SubstratesCytochrome P-450 CYP3A4 Substrates with a Narrow Therapeutic IndexCytochrome P-450 CYP3A5 SubstratesCytochrome P-450 CYP3A5 Substrates with a Narrow Therapeutic IndexCytochrome P-450 CYP3A7 SubstratesCytochrome P-450 CYP3A7 Substrates with a Narrow Therapeutic IndexCytochrome P-450 Enzyme InducersCytochrome P-450 SubstratesDiterpenesHypotensive AgentsImmunosuppressive AgentsMicrotubule InhibitionMicrotubule InhibitorsMitosis ModulatorsMyelosuppressive AgentsNarrow Therapeutic Index DrugsNeurotoxic agentsOATP1B3 substratesP-glycoprotein inhibitorsP-glycoprotein substratesP-glycoprotein substrates with a Narrow Therapeutic IndexProteinsTaxane DerivativesTaxoidsTerpenesTubulin Modulators
+
+Q: What is the DrugBank Accession Number of Tibolone?
+A. DB09077
+B. 347827821
+C. C21H28O2
+D. DB09070
+Correct Answer: DB09070
+
+Q: What is the Groups of Tibolone?
+A. G03CX01 — TiboloneG03CX — Other estrogensG03C — ESTROGENSG03 — SEX HORMONES AND MODULATORS OF THE GENITAL SYSTEMG — GENITO URINARY SYSTEM AND SEX HORMONES
+B. 38260
+C. Approved, Investigational
+D. Avoid St. John's Wort. St. John's Wort induces CYP3A4, increasing the metabolism of estrogens and progesterone and therefore reducing the efficacy of tibolone.Take with or without food.
+Correct Answer: Approved, Investigational
+
+Q: What is the Weight of Tibolone?
+A. Improve decision support & research outcomesWith structured adverse effects data, including: blackbox warnings, adverse reactions, warning & precautions, & incidence rates.Learn more  Improve decision support & research outcomes with our structured adverse effects data.Learn more
+B. G03CX01 — TiboloneG03CX — Other estrogensG03C — ESTROGENSG03 — SEX HORMONES AND MODULATORS OF THE GENITAL SYSTEMG — GENITO URINARY SYSTEM AND SEX HORMONES
+C. FormRouteStrengthTabletOralTablet, film coatedOral2.5 mgTabletOral2.5 mg
+D. Average: 312.453 Monoisotopic: 312.208930142 
+Correct Answer: Average: 312.453 Monoisotopic: 312.208930142 
+
+Q: What is the Drug Categories of Tibolone?
+A. Anabolic AgentsAntineoplastic Agents, HormonalCardiovascular AgentsEstrogen Receptor ModulatorsEstrogensEstrogens, Antiestrogens, and Estrogen Agonist-AntagonistsFused-Ring CompoundsGenito Urinary System and Sex HormonesHormone AntagonistsHormonesHormones, Hormone Substitutes, and Hormone AntagonistsNorpregnanesNorsteroidsSex Hormones and Modulators of the Genital SystemSteroids
+B. WZDGZWOAQTVYBX-XOINTXKNSA-N
+C. 38260
+D. Aliphatic homopolycyclic compounds
+Correct Answer: Anabolic AgentsAntineoplastic Agents, HormonalCardiovascular AgentsEstrogen Receptor ModulatorsEstrogensEstrogens, Antiestrogens, and Estrogen Agonist-AntagonistsFused-Ring CompoundsGenito Urinary System and Sex HormonesHormone AntagonistsHormonesHormones, Hormone Substitutes, and Hormone AntagonistsNorpregnanesNorsteroidsSex Hormones and Modulators of the Genital SystemSteroids
+
+Q: What is the Brand Names of Palbociclib?
+A. 1601374
+B. Ibrance
+C. DB09073
+D. Small Molecule
+Correct Answer: Ibrance
+
+Q: What is the DrugBank Accession Number of Palbociclib?
+A. Download (694 KB) 
+B. LQQ
+C. DB09073
+D. 85993
+Correct Answer: DB09073
+
+Q: What is the Groups of Palbociclib?
+A. Approved, Investigational
+B. The reported oral Ld50 is of 100 mg/kg.MSDS In cases of overdosage, only supportive measures are considered.LabelPalbociclib was showed to present clastogenic activities in in vitro and in vivo assays. As well, it has been reported to produce fetal harm due to its mechanism of action.3 Lastly, it was shown to increase the incidence of microglial cell tumors in the central nervous system at high doses.Label
+C. PropertyValueSourceWater Solubility0.0174 mg/mLALOGPSlogP2.12ALOGPSlogP2.77ChemaxonlogS-4.4ALOGPSpKa (Strongest Acidic)11.34ChemaxonpKa (Strongest Basic)8.86ChemaxonPhysiological Charge1ChemaxonHydrogen Acceptor Count8ChemaxonHydrogen Donor Count2ChemaxonPolar Surface Area103.35 Å2ChemaxonRotatable Bond Count5ChemaxonRefractivity127.47 m3·mol-1ChemaxonPolarizability49.69 Å3ChemaxonNumber of Rings5ChemaxonBioavailability1ChemaxonRule of FiveYesChemaxonGhose FilterYesChemaxonVeber's RuleNoChemaxonMDDR-like RuleNoChemaxon
+D. Palbociclib is an endocrine-based chemotherapeutic agent used in combination with other antineoplastic agents to treat HER2-negative and HR-positive advanced or metastatic breast cancer.
+Correct Answer: Approved, Investigational
+
+Q: What is the Weight of Palbociclib?
+A. KEGG DrugD10372PubChem Compound5330286PubChem Substance310265004ChemSpider4487437BindingDB6309RxNav1601374ChEBI85993ChEMBLCHEMBL189963ZINCZINC000003938686PharmGKBPA166153469PDBe LigandLQQRxListRxList Drug PageDrugs.comDrugs.com Drug PageWikipediaPalbociclib
+B. Average: 447.5328 Monoisotopic: 447.238273207 
+C. This information should not be interpreted without the help of a healthcare provider. If you believe you are experiencing an interaction, contact a healthcare provider immediately. The absence of an interaction does not necessarily mean no interactions exist. ApprovedVet approvedNutraceuticalIllicitWithdrawnInvestigationalExperimentalAll DrugsDrugInteractionIntegrate drug-drug interactions in your softwareAbametapirThe serum concentration of Palbociclib can be increased when it is combined with Abametapir.AbataceptThe metabolism of Palbociclib can be increased when combined with Abatacept.AbciximabThe risk or severity of bleeding can be increased when Abciximab is combined with Palbociclib.AbemaciclibThe serum concentration of Abemaciclib can be increased when it is combined with Palbociclib.AcalabrutinibThe metabolism of Acalabrutinib can be decreased when combined with Palbociclib.AcenocoumarolThe serum concentration of Acenocoumarol can be increased when it is combined with Palbociclib.AcetaminophenThe metabolism of Palbociclib can be increased when combined with Acetaminophen.AcetazolamideThe metabolism of Palbociclib can be decreased when combined with Acetazolamide.AcetylcholineThe risk or severity of adverse effects can be increased when Palbociclib is combined with Acetylcholine.Acetylsalicylic acidThe risk or severity of bleeding can be increased when Acetylsalicylic acid is combined with Palbociclib.Identify potential medication risksEasily compare up to 40 drugs with our drug interaction checker.Get severity rating, description, and management advice. Learn more   
+D. Aromatic heteropolycyclic compounds
+Correct Answer: Average: 447.5328 Monoisotopic: 447.238273207 
+
+Q: What is the Drug Categories of Palbociclib?
+A. Palbociclib
+B. Organic compounds
+C. Palbociclib presents a linear pharmacokinetic profile and its peak plasma concentration was observed 6-12 hours after oral administration. The oral bioavailability is reported to be of 46% with a steady-state reached after 8 days and a median accumulation ratio of 2.4.3The absorption of palbociclib is significantly reduced under fasting conditions and hence, food intake is recommended when this drug is administered.3
+D. Antineoplastic AgentsAntineoplastic and Immunomodulating AgentsBCRP/ABCG2 InhibitorsBCRP/ABCG2 SubstratesCyclin-dependent kinase (CDK) inhibitorsCyclin-Dependent Kinases, antagonists & inhibitorsCytochrome P-450 CYP3A InhibitorsCytochrome P-450 CYP3A SubstratesCytochrome P-450 CYP3A4 InhibitorsCytochrome P-450 CYP3A4 Inhibitors (weak)Cytochrome P-450 CYP3A4 SubstratesCytochrome P-450 CYP3A4 Substrates with a Narrow Therapeutic IndexCytochrome P-450 Enzyme InhibitorsCytochrome P-450 SubstratesEnzyme InhibitorsImmunosuppressive AgentsKinase InhibitorMyelosuppressive AgentsNarrow Therapeutic Index DrugsOCT1 inhibitorsP-glycoprotein inhibitorsP-glycoprotein substratesP-glycoprotein substrates with a Narrow Therapeutic IndexProtein Kinase Inhibitors
+Correct Answer: Antineoplastic AgentsAntineoplastic and Immunomodulating AgentsBCRP/ABCG2 InhibitorsBCRP/ABCG2 SubstratesCyclin-dependent kinase (CDK) inhibitorsCyclin-Dependent Kinases, antagonists & inhibitorsCytochrome P-450 CYP3A InhibitorsCytochrome P-450 CYP3A SubstratesCytochrome P-450 CYP3A4 InhibitorsCytochrome P-450 CYP3A4 Inhibitors (weak)Cytochrome P-450 CYP3A4 SubstratesCytochrome P-450 CYP3A4 Substrates with a Narrow Therapeutic IndexCytochrome P-450 Enzyme InhibitorsCytochrome P-450 SubstratesEnzyme InhibitorsImmunosuppressive AgentsKinase InhibitorMyelosuppressive AgentsNarrow Therapeutic Index DrugsOCT1 inhibitorsP-glycoprotein inhibitorsP-glycoprotein substratesP-glycoprotein substrates with a Narrow Therapeutic IndexProtein Kinase Inhibitors
+
+Q: What is the DrugBank Accession Number of Vesnarinone?
+A. Human Metabolome DatabaseHMDB0042059PubChem Compound5663PubChem Substance347828388ChemSpider5461BindingDB50016980ChEBI31237ChEMBLCHEMBL17423ZINCZINC000003781942WikipediaVesnarinone
+B. This compound belongs to the class of organic compounds known as n-arylpiperazines. These are organic compounds containing a piperazine ring where the nitrogen ring atom carries an aryl group.
+C. Not Available
+D. DB12082
+Correct Answer: DB12082
+
+Q: What is the Groups of Vesnarinone?
+A. Investigational
+B. Adjuvants, ImmunologicAnti-Infective AgentsAntineoplastic AgentsCardiotonic AgentsCardiovascular AgentsCompounds used in a research, industrial, or household settingEnzyme InhibitorsHeterocyclic Compounds, Fused-RingImmunologic FactorsPhosphodiesterase InhibitorsProtective Agents
+C. 347828388
+D. Piperazines
+Correct Answer: Investigational
+
+Q: What is the Weight of Vesnarinone?
+A. Alkyl aryl ether / Amine / Amino acid or derivatives / Aminoquinoline / Anisole / Aromatic heteropolycyclic compound / Azacycle / Benzamide / Benzenoid / Benzoic acid or derivatives / Benzoyl / Carbonyl group / Carboxamide group / Carboxylic acid derivative / Dialkylarylamine / Dimethoxybenzene / Ether / Hydrocarbon derivative / Lactam / Methoxybenzene / Monocyclic benzene moiety / N-arylpiperazine / O-dimethoxybenzene / Organic nitrogen compound / Organic oxide / Organic oxygen compound / Organonitrogen compound / Organooxygen compound / Organopnictogen compound / Phenol ether / Phenoxy compound / Quinolone / Secondary carboxylic acid amide / Tertiary aliphatic/aromatic amine / Tertiary amine / Tertiary carboxylic acid amide / Tetrahydroquinoline / Tetrahydroquinolone show 28 more
+B. Average: 395.4516 Monoisotopic: 395.184506303 
+C. 347828388
+D. 31237
+Correct Answer: Average: 395.4516 Monoisotopic: 395.184506303 
+
+Q: What is the Drug Categories of Vesnarinone?
+A. Not Available
+B. Adjuvants, ImmunologicAnti-Infective AgentsAntineoplastic AgentsCardiotonic AgentsCardiovascular AgentsCompounds used in a research, industrial, or household settingEnzyme InhibitorsHeterocyclic Compounds, Fused-RingImmunologic FactorsPhosphodiesterase InhibitorsProtective Agents
+C. InChI=1S/C22H25N3O4/c1-28-19-7-3-16(14-20(19)29-2)22(27)25-11-9-24(10-12-25)17-5-6-18-15(13-17)4-8-21(26)23-18/h3,5-7,13-14H,4,8-12H2,1-2H3,(H,23,26)
+D. Investigational
+Correct Answer: Adjuvants, ImmunologicAnti-Infective AgentsAntineoplastic AgentsCardiotonic AgentsCardiovascular AgentsCompounds used in a research, industrial, or household settingEnzyme InhibitorsHeterocyclic Compounds, Fused-RingImmunologic FactorsPhosphodiesterase InhibitorsProtective Agents
+
+Q: What is the DrugBank Accession Number of TNP-470?
+A. DB08633
+B. Not Available
+C. Not Available
+D. Organic compounds
+Correct Answer: DB08633
+
+Q: What is the Groups of TNP-470?
+A. Investigational
+B. Not Available
+C. 17446
+D. Not Available
+Correct Answer: Investigational
+
+Q: What is the Weight of TNP-470?
+A. Average: 401.882 Monoisotopic: 401.16051534 
+B. Investigational
+C. Not Available
+D. PropertyValueProbabilityHuman Intestinal Absorption+0.9886Blood Brain Barrier+0.7707Caco-2 permeable-0.5611P-glycoprotein substrateSubstrate0.647P-glycoprotein inhibitor IInhibitor0.7156P-glycoprotein inhibitor IIInhibitor0.5513Renal organic cation transporterNon-inhibitor0.8603CYP450 2C9 substrateNon-substrate0.8027CYP450 2D6 substrateNon-substrate0.8334CYP450 3A4 substrateSubstrate0.7758CYP450 1A2 substrateNon-inhibitor0.6951CYP450 2C9 inhibitorNon-inhibitor0.7222CYP450 2D6 inhibitorNon-inhibitor0.8919CYP450 2C19 inhibitorNon-inhibitor0.6379CYP450 3A4 inhibitorNon-inhibitor0.5666CYP450 inhibitory promiscuityLow CYP Inhibitory Promiscuity0.7177Ames testAMES toxic0.5347CarcinogenicityNon-carcinogens0.828BiodegradationNot ready biodegradable0.9852Rat acute toxicity2.8117 LD50, mol/kg Not applicablehERG inhibition (predictor I)Weak inhibitor0.9776hERG inhibition (predictor II)Non-inhibitor0.8006  ADMET data is predicted using admetSAR, a free tool for evaluating chemical ADMET properties. (23092397) 
+Correct Answer: Average: 401.882 Monoisotopic: 401.16051534 
+
+Q: What is the Drug Categories of TNP-470?
+A. DB08633
+B. InChI=1S/C19H28ClNO6/c1-11(2)5-6-13-18(3,27-13)16-15(24-4)12(7-8-19(16)10-25-19)26-17(23)21-14(22)9-20/h5,12-13,15-16H,6-10H2,1-4H3,(H,21,22,23)/t12-,13-,15-,16-,18+,19+/m1/s1
+C. 328427
+D. Angiogenesis InhibitorsAngiogenesis Modulating AgentsAntibiotics, AntineoplasticAntineoplastic AgentsCyclohexanesCycloparaffinsGrowth InhibitorsGrowth SubstancesSesquiterpenesTerpenes
+Correct Answer: Angiogenesis InhibitorsAngiogenesis Modulating AgentsAntibiotics, AntineoplasticAntineoplastic AgentsCyclohexanesCycloparaffinsGrowth InhibitorsGrowth SubstancesSesquiterpenesTerpenes
+
+Q: What is the DrugBank Accession Number of Binetrakin?
+A. 347911295
+B. Not Available
+C. DB12182
+D. Not Available
+Correct Answer: DB12182
+
+Q: What is the Groups of Binetrakin?
+A. Investigational
+B. Protein Based TherapiesOther protein based therapies
+C. Not Available
+D. DB12182
+Correct Answer: Investigational
+
+Q: What is the Drug Categories of Binetrakin?
+A. 347911295
+B. Not Available
+C. Not Available
+D. Adjuvants, ImmunologicAmino Acids, Peptides, and ProteinsAntineoplastic AgentsAntirheumatic AgentsBiological FactorsCytokinesImmunologic FactorsIntercellular Signaling Peptides and ProteinsInterleukin-4, antagonists & inhibitorsInterleukinsPeptidesProteins
+Correct Answer: Adjuvants, ImmunologicAmino Acids, Peptides, and ProteinsAntineoplastic AgentsAntirheumatic AgentsBiological FactorsCytokinesImmunologic FactorsIntercellular Signaling Peptides and ProteinsInterleukin-4, antagonists & inhibitorsInterleukinsPeptidesProteins
+
+Q: What is the DrugBank Accession Number of Incyclinide?
+A. Not Available
+B. DB11647
+C. Naphthacenes / Anthracenecarboxylic acids and derivatives / Tetralins / Aryl ketones / Cyclohexenones / 1-hydroxy-4-unsubstituted benzenoids / 1-hydroxy-2-unsubstituted benzenoids / Vinylogous acids / Tertiary alcohols / Primary carboxylic acid amides / Polyols / Enols / Organonitrogen compounds / Organic oxides / Hydrocarbon derivatives show 5 more
+D. Incyclinide
+Correct Answer: DB11647
+
+Q: What is the Groups of Incyclinide?
+A. Not Available
+B. Investigational
+C. Not Available
+D. Aromatic homopolycyclic compounds
+Correct Answer: Investigational
+
+Q: What is the Weight of Incyclinide?
+A. Incyclinide
+B. Average: 371.345 Monoisotopic: 371.100501891 
+C. Not Available
+D. Not Available
+Correct Answer: Average: 371.345 Monoisotopic: 371.100501891 
+
+Q: What is the Drug Categories of Incyclinide?
+A. Improve decision support & research outcomesWith structured adverse effects data, including: blackbox warnings, adverse reactions, warning & precautions, & incidence rates.Learn more  Improve decision support & research outcomes with our structured adverse effects data.Learn more
+B. Naphthacenes
+C. Download MOLSDFPDBSMILESInChI Similar StructuresStructure for Incyclinide (DB11647)× Close
+D. Incyclinide
+Correct Answer: Naphthacenes
+
+Q: What is the DrugBank Accession Number of Bifenthrin?
+A. InChI=1S/C23H22ClF3O2/c1-14-16(10-7-11-17(14)15-8-5-4-6-9-15)13-29-21(28)20-18(22(20,2)3)12-19(24)23(25,26)27/h4-12,18,20H,13H2,1-3H3/b19-12-/t18-,20-/m0/s1
+B. DB15056
+C. {2-methyl-[1,1'-biphenyl]-3-yl}methyl (1R,3R)-3-[(1Z)-2-chloro-3,3,3-trifluoroprop-1-en-1-yl]-2,2-dimethylcyclopropane-1-carboxylate
+D. Bifenthrin is under investigation in clinical trial NCT01560247 (Percutaneous Recanalization in Ischemic Stroke Management in Europe Observational Registry).
+Correct Answer: DB15056
+
+Q: What is the Groups of Bifenthrin?
+A. CC1=C(C=CC=C1COC(=O)[C@@H]1[C@H](\C=C(/Cl)C(F)(F)F)C1(C)C)C1=CC=CC=C1
+B. Cyclopentane MonoterpenesMonoterpenesSarcoma, Experimental, chemically inducedTerpenes
+C. Not Available
+D. Investigational
+Correct Answer: Investigational
+
+Q: What is the Weight of Bifenthrin?
+A. Not Available
+B. Improve decision support & research outcomesWith structured adverse effects data, including: blackbox warnings, adverse reactions, warning & precautions, & incidence rates.Learn more  Improve decision support & research outcomes with our structured adverse effects data.Learn more
+C. Average: 422.87 Monoisotopic: 422.1260421 
+D. Bifenthrin is under investigation in clinical trial NCT01560247 (Percutaneous Recanalization in Ischemic Stroke Management in Europe Observational Registry).
+Correct Answer: Average: 422.87 Monoisotopic: 422.1260421 
+
+Q: What is the Drug Categories of Bifenthrin?
+A. 82657-04-3
+B. Average: 422.87 Monoisotopic: 422.1260421 
+C. Cyclopentane MonoterpenesMonoterpenesSarcoma, Experimental, chemically inducedTerpenes
+D. 6B66JED0KN
+Correct Answer: Cyclopentane MonoterpenesMonoterpenesSarcoma, Experimental, chemically inducedTerpenes
+
+Q: What is the DrugBank Accession Number of Conatumumab?
+A. DB11646
+B. Protein Based TherapiesMonoclonal antibody (mAb)
+C. Organic Compounds
+D. Not Available
+Correct Answer: DB11646
+
+Q: What is the Groups of Conatumumab?
+A. This information should not be interpreted without the help of a healthcare provider. If you believe you are experiencing an interaction, contact a healthcare provider immediately. The absence of an interaction does not necessarily mean no interactions exist. ApprovedVet approvedNutraceuticalIllicitWithdrawnInvestigationalExperimentalAll DrugsDrugInteractionIntegrate drug-drug interactions in your softwareAbciximabThe risk or severity of adverse effects can be increased when Abciximab is combined with Conatumumab.AdalimumabThe risk or severity of adverse effects can be increased when Adalimumab is combined with Conatumumab.AducanumabThe risk or severity of adverse effects can be increased when Conatumumab is combined with Aducanumab.AlemtuzumabThe risk or severity of adverse effects can be increased when Alemtuzumab is combined with Conatumumab.AlirocumabThe risk or severity of adverse effects can be increased when Alirocumab is combined with Conatumumab.AmivantamabThe risk or severity of adverse effects can be increased when Conatumumab is combined with Amivantamab.AnifrolumabThe risk or severity of adverse effects can be increased when Conatumumab is combined with Anifrolumab.AnsuvimabThe risk or severity of adverse effects can be increased when Conatumumab is combined with Ansuvimab.Anthrax immune globulin humanThe risk or severity of adverse effects can be increased when Anthrax immune globulin human is combined with Conatumumab.Antilymphocyte immunoglobulin (horse)The risk or severity of adverse effects can be increased when Antilymphocyte immunoglobulin (horse) is combined with Conatumumab.Identify potential medication risksEasily compare up to 40 drugs with our drug interaction checker.Get severity rating, description, and management advice. Learn more   
+B. Not Available
+C. PubChem Substance347911222WikipediaConatumumab
+D. Investigational
+Correct Answer: Investigational
+
+Q: What is the Drug Categories of Conatumumab?
+A. Amino Acids, Peptides, and ProteinsAntibodiesAntineoplastic AgentsAntineoplastic Agents, ImmunologicalBlood ProteinsGlobulinsImmunoglobulinsImmunoproteinsProteinsSerum Globulins
+B. This information should not be interpreted without the help of a healthcare provider. If you believe you are experiencing an interaction, contact a healthcare provider immediately. The absence of an interaction does not necessarily mean no interactions exist. ApprovedVet approvedNutraceuticalIllicitWithdrawnInvestigationalExperimentalAll DrugsDrugInteractionIntegrate drug-drug interactions in your softwareAbciximabThe risk or severity of adverse effects can be increased when Abciximab is combined with Conatumumab.AdalimumabThe risk or severity of adverse effects can be increased when Adalimumab is combined with Conatumumab.AducanumabThe risk or severity of adverse effects can be increased when Conatumumab is combined with Aducanumab.AlemtuzumabThe risk or severity of adverse effects can be increased when Alemtuzumab is combined with Conatumumab.AlirocumabThe risk or severity of adverse effects can be increased when Alirocumab is combined with Conatumumab.AmivantamabThe risk or severity of adverse effects can be increased when Conatumumab is combined with Amivantamab.AnifrolumabThe risk or severity of adverse effects can be increased when Conatumumab is combined with Anifrolumab.AnsuvimabThe risk or severity of adverse effects can be increased when Conatumumab is combined with Ansuvimab.Anthrax immune globulin humanThe risk or severity of adverse effects can be increased when Anthrax immune globulin human is combined with Conatumumab.Antilymphocyte immunoglobulin (horse)The risk or severity of adverse effects can be increased when Antilymphocyte immunoglobulin (horse) is combined with Conatumumab.Identify potential medication risksEasily compare up to 40 drugs with our drug interaction checker.Get severity rating, description, and management advice. Learn more   
+C. Not Available
+D. Not Available
+Correct Answer: Amino Acids, Peptides, and ProteinsAntibodiesAntineoplastic AgentsAntineoplastic Agents, ImmunologicalBlood ProteinsGlobulinsImmunoglobulinsImmunoproteinsProteinsSerum Globulins
+
+Q: What is the DrugBank Accession Number of Tozuleristide?
+A. Carboxylic Acids and Derivatives
+B. Not Available
+C. DB15375
+D. Organic Acids
+Correct Answer: DB15375
+
+Q: What is the Groups of Tozuleristide?
+A. Investigational
+B. Not Available
+C. Not Available
+D. Not Available
+Correct Answer: Investigational
+
+Q: What is the Drug Categories of Tozuleristide?
+A. Not Available
+B. Not Available
+C. Not Available
+D. Arthropod VenomsBiological FactorsComplex MixturesCompounds used in a research, industrial, or household settingContrast MediaDiagnostic Uses of ChemicalsHeterocyclic Compounds, Fused-RingIndolesToxins, BiologicalVenoms
+Correct Answer: Arthropod VenomsBiological FactorsComplex MixturesCompounds used in a research, industrial, or household settingContrast MediaDiagnostic Uses of ChemicalsHeterocyclic Compounds, Fused-RingIndolesToxins, BiologicalVenoms
+
+Q: What is the DrugBank Accession Number of Selurampanel?
+A. DB12367
+B. Aromatic heteropolycyclic compound / Azacycle / Azole / Benzenoid / Cumene / Heteroaromatic compound / Hydrazinosulfonyl compound / Hydrocarbon derivative / Lactam / Organic nitrogen compound / Organic oxide / Organic oxygen compound / Organic sulfonic acid or derivatives / Organonitrogen compound / Organooxygen compound / Organosulfonic acid or derivatives / Organosulfur compound / Pyrazole / Pyrimidine / Pyrimidone / Quinazoline / Sulfonohydrazide / Sulfonyl / Vinylogous amide show 14 more
+C. Not Available
+D. This information should not be interpreted without the help of a healthcare provider. If you believe you are experiencing an interaction, contact a healthcare provider immediately. The absence of an interaction does not necessarily mean no interactions exist. Not Available
+Correct Answer: DB12367
+
+Q: What is the Groups of Selurampanel?
+A. Investigational
+B. SpectrumSpectrum TypeSplash KeyPredicted MS/MS Spectrum - 10V, Positive (Annotated)Predicted LC-MS/MSNot AvailablePredicted MS/MS Spectrum - 20V, Positive (Annotated)Predicted LC-MS/MSNot AvailablePredicted MS/MS Spectrum - 40V, Positive (Annotated)Predicted LC-MS/MSNot AvailablePredicted MS/MS Spectrum - 10V, Negative (Annotated)Predicted LC-MS/MSNot AvailablePredicted MS/MS Spectrum - 20V, Negative (Annotated)Predicted LC-MS/MSNot AvailablePredicted MS/MS Spectrum - 40V, Negative (Annotated)Predicted LC-MS/MSNot Available
+C. ZINC000116796247
+D. Not Available
+Correct Answer: Investigational
+
+Q: What is the Weight of Selurampanel?
+A. Average: 377.42 Monoisotopic: 377.115775286 
+B. Not Available
+C. 32698379
+D. Not Available
+Correct Answer: Average: 377.42 Monoisotopic: 377.115775286 
+
+Q: What is the Drug Categories of Selurampanel?
+A. Heterocyclic Compounds, Fused-RingQuinazolines
+B. Avoid life-threatening adverse drug eventsImprove clinical decision support with information on contraindications & blackbox warnings, population restrictions, harmful risks, & more.Learn more  Avoid life-threatening adverse drug events & improve clinical decision support.Learn more
+C. DescriptionThis compound belongs to the class of organic compounds known as quinazolines. These are compounds containing a quinazoline moiety, which is made up of two fused six-member aromatic rings, a benzene ring and a pyrimidine ring.KingdomOrganic compoundsSuper ClassOrganoheterocyclic compoundsClassDiazanaphthalenesSub ClassBenzodiazinesDirect ParentQuinazolinesAlternative ParentsCumenes / Pyrimidones / Sulfonohydrazides / Hydrazinosulfonyl compounds / Vinylogous amides / Pyrazoles / Heteroaromatic compounds / Lactams / Azacyclic compounds / Organooxygen compounds / Organonitrogen compounds / Organic oxides / Hydrocarbon derivatives show 3 moreSubstituentsAromatic heteropolycyclic compound / Azacycle / Azole / Benzenoid / Cumene / Heteroaromatic compound / Hydrazinosulfonyl compound / Hydrocarbon derivative / Lactam / Organic nitrogen compound / Organic oxide / Organic oxygen compound / Organic sulfonic acid or derivatives / Organonitrogen compound / Organooxygen compound / Organosulfonic acid or derivatives / Organosulfur compound / Pyrazole / Pyrimidine / Pyrimidone / Quinazoline / Sulfonohydrazide / Sulfonyl / Vinylogous amide show 14 moreMolecular FrameworkAromatic heteropolycyclic compoundsExternal DescriptorsNot Available
+D. Not AvailableReduce drug development failure ratesBuild, train, & validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, & validate predictive machine-learning models with structured datasets.See how
+Correct Answer: Heterocyclic Compounds, Fused-RingQuinazolines
+
+Q: What is the DrugBank Accession Number of Robatumumab?
+A. Not Available
+B. 347911413
+C. Not Available
+D. DB12976
+Correct Answer: DB12976
+
+Q: What is the Groups of Robatumumab?
+A. Investigational
+B. Carboxylic Acids and Derivatives
+C. Not Available
+D. Organic Acids
+Correct Answer: Investigational
+
+Q: What is the Drug Categories of Robatumumab?
+A. Not Available
+B. Not Available
+C. Amino Acids, Peptides, and ProteinsAntibodiesAntibodies, MonoclonalBlood ProteinsGlobulinsImmunoglobulinsImmunoproteinsProteinsSerum Globulins
+D. Not Available
+Correct Answer: Amino Acids, Peptides, and ProteinsAntibodiesAntibodies, MonoclonalBlood ProteinsGlobulinsImmunoglobulinsImmunoproteinsProteinsSerum Globulins
+
+Q: What is the DrugBank Accession Number of Ontuxizumab?
+A. Not Available
+B. Not Available
+C. DB16270
+D. Not Available
+Correct Answer: DB16270
+
+Q: What is the Groups of Ontuxizumab?
+A. Investigational
+B. Not Available
+C. Biotech
+D. Not Available
+Correct Answer: Investigational
+
+Q: What is the Drug Categories of Ontuxizumab?
+A. MORAb-004
+B. Amino Acids, Peptides, and ProteinsAntibodiesAntibodies, MonoclonalBlood ProteinsGlobulinsImmunoglobulinsImmunoproteinsProteinsSerum Globulins
+C. Not Available
+D. Not Available
+Correct Answer: Amino Acids, Peptides, and ProteinsAntibodiesAntibodies, MonoclonalBlood ProteinsGlobulinsImmunoglobulinsImmunoproteinsProteinsSerum Globulins
+
+Q: What is the DrugBank Accession Number of Racotumomab?
+A. Not Available
+B. DB13045
+C. Not Available
+D. Not Available
+Correct Answer: DB13045
+
+Q: What is the Groups of Racotumomab?
+A. Peptides
+B. Investigational
+C. Not Available
+D. Organic Acids
+Correct Answer: Investigational
+
+Q: What is the Drug Categories of Racotumomab?
+A. Organic Compounds
+B. Amino Acids, Peptides, and Analogues
+C. Amino Acids, Peptides, and ProteinsAntibodiesAntibodies, MonoclonalBlood ProteinsGlobulinsImmunoglobulinsImmunoproteinsProteinsSerum Globulins
+D. Investigational
+Correct Answer: Amino Acids, Peptides, and ProteinsAntibodiesAntibodies, MonoclonalBlood ProteinsGlobulinsImmunoglobulinsImmunoproteinsProteinsSerum Globulins
+
+Q: What is the DrugBank Accession Number of RG-4733?
+A. OJPLJFIFUQPSJR-INIZCTEOSA-N
+B. SpectrumSpectrum TypeSplash KeyPredicted MS/MS Spectrum - 10V, Positive (Annotated)Predicted LC-MS/MSNot AvailablePredicted MS/MS Spectrum - 20V, Positive (Annotated)Predicted LC-MS/MSNot AvailablePredicted MS/MS Spectrum - 40V, Positive (Annotated)Predicted LC-MS/MSNot AvailablePredicted MS/MS Spectrum - 10V, Negative (Annotated)Predicted LC-MS/MSNot AvailablePredicted MS/MS Spectrum - 20V, Negative (Annotated)Predicted LC-MS/MSNot AvailablePredicted MS/MS Spectrum - 40V, Negative (Annotated)Predicted LC-MS/MSNot Available
+C. DB11870
+D. Organic compounds
+Correct Answer: DB11870
+
+Q: What is the Groups of RG-4733?
+A. Investigational
+B. 3DDownload MOLSDF3D-SDFPDBSMILESInChI Similar StructuresStructure for RG-4733 (DB11870)× Close
+C. Not Available
+D. PhaseStatusPurposeConditionsCount2CompletedTreatmentAdenocarcinomas of the Pancreas / Recurrent Pancreatic Cancer / Stage IV Pancreatic Cancer12CompletedTreatmentClear Cell Renal Cell Carcinoma / Renal Cell Carcinoma Recurrent / Stage IV Renal Cell Cancer12CompletedTreatmentMetastatic Colon Cancer / Recurrent Colon Cancer / Recurrent Rectal Cancer / Stage IV Rectal Cancer12CompletedTreatmentNon-squamous Non-small-cell Lung Cancer (NSQ NSCLC)12CompletedTreatmentRecurrent Fallopian Tube Carcinoma / Recurrent Ovarian Carcinoma / Recurrent Primary Peritoneal Carcinoma / Stage IV Fallopian Tube Cancer / Stage IV Ovarian Cancer / Stage IV Primary Peritoneal Cancer12TerminatedTreatmentAcral lentiginous melanoma / Lentigo Maligna Malignant Melanoma / Melanoma (Skin) Stage IV / Nodular Malignant Melanoma / Recurrent Melanoma / Solar Radiation-related Skin Melanoma / Superficial Spreading Malignant Melanoma12TerminatedTreatmentAdenocarcinoma of Prostate / Recurrent Prostate Cancer / Stage IV Prostate Cancer12TerminatedTreatmentAdult Giant Cell Glioblastoma / Brain Tumor, Adult: Glioblastoma / Gliosarcoma, Adult / Recurrent Brain Tumor, Adult12TerminatedTreatmentBreast Cancer Stage IIIc / Breast Cancer, Stage IIIB / Carcinoma Breast Stage IV / Estrogen Receptor Negative Breast Cancer / HER 2 Negative Breast Cancer / Male Breast Cancer / Progesterone Receptor- Negative Breast Cancer / Recurrent Breast Cancer / Stage IIIA Breast Cancer / Triple Negative Breast Cancer12TerminatedTreatmentNon-small Cell Lung Cancer (NSCLC), Recurrent / Stage IIIB Non Small Cell Lung Cancer / Stage IV Non-small Cell Lung Cancer (NSCLC)1
+Correct Answer: Investigational
+
+Q: What is the Weight of RG-4733?
+A. Average: 469.412 Monoisotopic: 469.142482331 
+B. DescriptionThis compound belongs to the class of organic compounds known as dibenzazepines. These are compounds with two benzene rings connected by an azepine ring. Azepine is an unsaturated seven-member heterocycle with one nitrogen atom replacing a carbon atom.KingdomOrganic compoundsSuper ClassOrganoheterocyclic compoundsClassBenzazepinesSub ClassDibenzazepinesDirect ParentDibenzazepinesAlternative ParentsN-acyl-alpha amino acids and derivatives / Azepines / Benzenoids / Secondary carboxylic acid amides / Lactams / Azacyclic compounds / Organopnictogen compounds / Organonitrogen compounds / Organofluorides / Organic oxides / Hydrocarbon derivatives / Carbonyl compounds / Alkyl fluorides show 3 moreSubstituentsAlkyl fluoride / Alkyl halide / Alpha-amino acid or derivatives / Aromatic heteropolycyclic compound / Azacycle / Azepine / Benzenoid / Carbonyl group / Carboxamide group / Carboxylic acid derivative / Dibenzazepine / Hydrocarbon derivative / Lactam / N-acyl-alpha amino acid or derivatives / Organic nitrogen compound / Organic oxide / Organic oxygen compound / Organofluoride / Organohalogen compound / Organonitrogen compound / Organooxygen compound / Organopnictogen compound / Secondary carboxylic acid amide show 13 moreMolecular FrameworkAromatic heteropolycyclic compoundsExternal Descriptorsorganofluorine compound, dicarboxylic acid diamide, lactam, dibenzoazepine (CHEBI:86474) 
+C. 2,2-dimethyl-N'-[(10S)-9-oxo-8-azatricyclo[9.4.0.0^{2,7}]pentadeca-1(15),2,4,6,11,13-hexaen-10-yl]-N-(2,2,3,3,3-pentafluoropropyl)propanediamide
+D. Not Available
+Correct Answer: Average: 469.412 Monoisotopic: 469.142482331 
+
+Q: What is the Drug Categories of RG-4733?
+A. Amyloid Precursor Protein Secretases, antagonists & inhibitorsEnzyme InhibitorsGamma Secretase Inhibitors and ModulatorsHeterocyclic Compounds, Fused-RingHydrocarbons, FluorinatedHydrocarbons, Halogenated
+B. Not Available
+C. Not Available
+D. DescriptionThis compound belongs to the class of organic compounds known as dibenzazepines. These are compounds with two benzene rings connected by an azepine ring. Azepine is an unsaturated seven-member heterocycle with one nitrogen atom replacing a carbon atom.KingdomOrganic compoundsSuper ClassOrganoheterocyclic compoundsClassBenzazepinesSub ClassDibenzazepinesDirect ParentDibenzazepinesAlternative ParentsN-acyl-alpha amino acids and derivatives / Azepines / Benzenoids / Secondary carboxylic acid amides / Lactams / Azacyclic compounds / Organopnictogen compounds / Organonitrogen compounds / Organofluorides / Organic oxides / Hydrocarbon derivatives / Carbonyl compounds / Alkyl fluorides show 3 moreSubstituentsAlkyl fluoride / Alkyl halide / Alpha-amino acid or derivatives / Aromatic heteropolycyclic compound / Azacycle / Azepine / Benzenoid / Carbonyl group / Carboxamide group / Carboxylic acid derivative / Dibenzazepine / Hydrocarbon derivative / Lactam / N-acyl-alpha amino acid or derivatives / Organic nitrogen compound / Organic oxide / Organic oxygen compound / Organofluoride / Organohalogen compound / Organonitrogen compound / Organooxygen compound / Organopnictogen compound / Secondary carboxylic acid amide show 13 moreMolecular FrameworkAromatic heteropolycyclic compoundsExternal Descriptorsorganofluorine compound, dicarboxylic acid diamide, lactam, dibenzoazepine (CHEBI:86474) 
+Correct Answer: Amyloid Precursor Protein Secretases, antagonists & inhibitorsEnzyme InhibitorsGamma Secretase Inhibitors and ModulatorsHeterocyclic Compounds, Fused-RingHydrocarbons, FluorinatedHydrocarbons, Halogenated
+
+Q: What is the DrugBank Accession Number of Valspodar?
+A. Not AvailableReduce drug development failure ratesBuild, train, & validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, & validate predictive machine-learning models with structured datasets.See how
+B. DB11869
+C. 5281884
+D. Q7ZP55KF3X
+Correct Answer: DB11869
+
+Q: What is the Groups of Valspodar?
+A. Q7ZP55KF3X
+B. Investigational
+C. CHEMBL1086218
+D. Peptidomimetics
+Correct Answer: Investigational
+
+Q: What is the Weight of Valspodar?
+A. PropertyValueSourceWater Solubility0.0052 mg/mLALOGPSlogP4.48ALOGPSlogP4.74ChemaxonlogS-5.4ALOGPSpKa (Strongest Acidic)11.78ChemaxonpKa (Strongest Basic)-2.3ChemaxonPhysiological Charge0ChemaxonHydrogen Acceptor Count12ChemaxonHydrogen Donor Count4ChemaxonPolar Surface Area275.64 Å2ChemaxonRotatable Bond Count15ChemaxonRefractivity330.89 m3·mol-1ChemaxonPolarizability134.29 Å3ChemaxonNumber of Rings1ChemaxonBioavailability0ChemaxonRule of FiveNoChemaxonGhose FilterNoChemaxonVeber's RuleNoChemaxonMDDR-like RuleNoChemaxon
+B. Average: 1214.646 Monoisotopic: 1213.841368058 
+C. Organic acids and derivatives
+D. Improve decision support & research outcomesWith structured adverse effects data, including: blackbox warnings, adverse reactions, warning & precautions, & incidence rates.Learn more  Improve decision support & research outcomes with our structured adverse effects data.Learn more
+Correct Answer: Average: 1214.646 Monoisotopic: 1213.841368058 
+
+Q: What is the Drug Categories of Valspodar?
+A. Not Available
+B. Amino Acids, Peptides, and ProteinsATP Binding Cassette Transporter, Subfamily B, Member 1Drug Resistance, MultipleOATP1B1/SLCO1B1 InhibitorsOATP1B3 inhibitorsP-glycoprotein inhibitorsP-glycoprotein substratesPeptidesPeptides, Cyclic
+C. DescriptionThis compound belongs to the class of organic compounds known as cyclosporins. These are cyclic depsipeptides containing the cyclosporin backbone.KingdomOrganic compoundsSuper ClassOrganic acids and derivativesClassPeptidomimeticsSub ClassPeptoid-peptide hybridsDirect ParentCyclosporinsAlternative ParentsOligopeptides / Macrolactams / Alpha amino acids and derivatives / 1,3-dicarbonyl compounds / Tertiary carboxylic acid amides / Secondary carboxylic acid amides / Lactams / Ketones / Azacyclic compounds / Organopnictogen compounds / Organonitrogen compounds / Organic oxides / Hydrocarbon derivatives show 3 moreSubstituents1,3-dicarbonyl compound / Aliphatic heteromonocyclic compound / Alpha-amino acid or derivatives / Alpha-oligopeptide / Azacycle / Carbonyl group / Carboxamide group / Carboxylic acid derivative / Cyclosporin-backbone / Hydrocarbon derivative / Ketone / Lactam / Macrolactam / Organic nitrogen compound / Organic oxide / Organic oxygen compound / Organoheterocyclic compound / Organonitrogen compound / Organooxygen compound / Organopnictogen compound / Secondary carboxylic acid amide / Tertiary carboxylic acid amide show 12 moreMolecular FrameworkAliphatic heteromonocyclic compoundsExternal Descriptorshomodetic cyclic peptide (CHEBI:8985) 
+D. CHEMBL1086218
+Correct Answer: Amino Acids, Peptides, and ProteinsATP Binding Cassette Transporter, Subfamily B, Member 1Drug Resistance, MultipleOATP1B1/SLCO1B1 InhibitorsOATP1B3 inhibitorsP-glycoprotein inhibitorsP-glycoprotein substratesPeptidesPeptides, Cyclic
+
+Q: What is the DrugBank Accession Number of Cilengitide?
+A. DB11890
+B. Oligopeptides
+C. Average: 588.666 Monoisotopic: 588.30199566 
+D. DescriptionThis compound belongs to the class of organic compounds known as oligopeptides. These are organic compounds containing a sequence of between three and ten alpha-amino acids joined by peptide bonds.KingdomOrganic compoundsSuper ClassOrganic acids and derivativesClassCarboxylic acids and derivativesSub ClassAmino acids, peptides, and analoguesDirect ParentOligopeptidesAlternative ParentsMacrolactams / Alpha amino acids and derivatives / Benzene and substituted derivatives / Tertiary carboxylic acid amides / Secondary carboxylic acid amides / Guanidines / Lactams / Propargyl-type 1,3-dipolar organic compounds / Azacyclic compounds / Carboximidamides / Carboxylic acids / Monocarboxylic acids and derivatives / Carbonyl compounds / Organic oxides / Hydrocarbon derivatives / Organopnictogen compounds show 6 moreSubstituentsAlpha-amino acid or derivatives / Alpha-oligopeptide / Aromatic heteromonocyclic compound / Azacycle / Benzenoid / Carbonyl group / Carboxamide group / Carboximidamide / Carboxylic acid / Guanidine / Hydrocarbon derivative / Lactam / Macrolactam / Monocarboxylic acid or derivatives / Monocyclic benzene moiety / Organic 1,3-dipolar compound / Organic nitrogen compound / Organic oxide / Organic oxygen compound / Organoheterocyclic compound / Organonitrogen compound / Organooxygen compound / Organopnictogen compound / Propargyl-type 1,3-dipolar organic compound / Secondary carboxylic acid amide / Tertiary carboxylic acid amide show 16 moreMolecular FrameworkAromatic heteromonocyclic compoundsExternal DescriptorsNot Available
+Correct Answer: DB11890
+
+Q: What is the Groups of Cilengitide?
+A. Not Available
+B. Cilengitide
+C. Investigational
+D. Improve decision support & research outcomesWith structured adverse effects data, including: blackbox warnings, adverse reactions, warning & precautions, & incidence rates.Learn more  Improve decision support & research outcomes with our structured adverse effects data.Learn more
+Correct Answer: Investigational
+
+Q: What is the Weight of Cilengitide?
+A. Not Available
+B. 2-[(2S,5R,8S,11S)-5-benzyl-11-(3-carbamimidamidopropyl)-7-methyl-3,6,9,12,15-pentaoxo-8-(propan-2-yl)-1,4,7,10,13-pentaazacyclopentadecan-2-yl]acetic acid
+C. Average: 588.666 Monoisotopic: 588.30199566 
+D. SpectrumSpectrum TypeSplash KeyPredicted MS/MS Spectrum - 10V, Positive (Annotated)Predicted LC-MS/MSNot AvailablePredicted MS/MS Spectrum - 20V, Positive (Annotated)Predicted LC-MS/MSNot AvailablePredicted MS/MS Spectrum - 40V, Positive (Annotated)Predicted LC-MS/MSNot AvailablePredicted MS/MS Spectrum - 10V, Negative (Annotated)Predicted LC-MS/MSNot AvailablePredicted MS/MS Spectrum - 20V, Negative (Annotated)Predicted LC-MS/MSNot AvailablePredicted MS/MS Spectrum - 40V, Negative (Annotated)Predicted LC-MS/MSNot Available
+Correct Answer: Average: 588.666 Monoisotopic: 588.30199566 
+
+Q: What is the Drug Categories of Cilengitide?
+A. Amino acids, peptides, and analogues
+B. C27H40N8O7
+C. Biological FactorsComplex MixturesToxins, BiologicalVenoms
+D. 347828225
+Correct Answer: Biological FactorsComplex MixturesToxins, BiologicalVenoms
+
+Q: What is the DrugBank Accession Number of Pegamotecan?
+A. DB12842
+B. Not Available
+C. AlcoholsAlkaloidsCompounds used in a research, industrial, or household settingEthylene GlycolsGlycolsMacromolecular SubstancesPegylated agentsPolymers
+D. Not Available
+Correct Answer: DB12842
+
+Q: What is the Groups of Pegamotecan?
+A. Investigational
+B. Not Available
+C. Not Available
+D. Not Available
+Correct Answer: Investigational
+
+Q: What is the Drug Categories of Pegamotecan?
+A. Not Available
+B. Pegamotecan
+C. Small Molecule
+D. AlcoholsAlkaloidsCompounds used in a research, industrial, or household settingEthylene GlycolsGlycolsMacromolecular SubstancesPegylated agentsPolymers
+Correct Answer: AlcoholsAlkaloidsCompounds used in a research, industrial, or household settingEthylene GlycolsGlycolsMacromolecular SubstancesPegylated agentsPolymers
+
+Q: What is the DrugBank Accession Number of Nanoparticle Epirubicin?
+A. Not Available
+B. Not Available
+C. DB16248
+D. DB16248
+Correct Answer: DB16248
+
+Q: What is the Groups of Nanoparticle Epirubicin?
+A. Investigational
+B. K-912NC-6300
+C. Not Available
+D. Improve decision support & research outcomesWith structured adverse effects data, including: blackbox warnings, adverse reactions, warning & precautions, & incidence rates.Learn more  Improve decision support & research outcomes with our structured adverse effects data.Learn more
+Correct Answer: Investigational
+
+Q: What is the Drug Categories of Nanoparticle Epirubicin?
+A. Not Available
+B. DB16248
+C. Amino Acids, Peptides, and ProteinsAminoglycoside AntibacterialsAnthracyclinesAnti-Bacterial AgentsCarbohydratesGlycosidesNaphthacenesPolyethylene Glycols
+D. Not Available
+Correct Answer: Amino Acids, Peptides, and ProteinsAminoglycoside AntibacterialsAnthracyclinesAnti-Bacterial AgentsCarbohydratesGlycosidesNaphthacenesPolyethylene Glycols
+
+Q: What is the DrugBank Accession Number of Exatecan?
+A. Exatecan has been used in trials studying the treatment of Sarcoma, Leukemia, Lymphoma, Lung Cancer, and Liver Cancer, among others.
+B. DB12185
+C. Not Available
+D. DB12185
+Correct Answer: DB12185
+
+Q: What is the Groups of Exatecan?
+A. Investigational
+B. Improve decision support & research outcomesWith structured adverse effects data, including: blackbox warnings, adverse reactions, warning & precautions, & incidence rates.Learn more  Improve decision support & research outcomes with our structured adverse effects data.Learn more
+C. C24H22FN3O4
+D. Not Available
+Correct Answer: Investigational
+
+Q: What is the Weight of Exatecan?
+A. Not AvailableReduce drug development failure ratesBuild, train, & validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, & validate predictive machine-learning models with structured datasets.See how
+B. Not Available
+C. PropertyValueSourceWater Solubility0.221 mg/mLALOGPSlogP1.67ALOGPSlogP1.55ChemaxonlogS-3.3ALOGPSpKa (Strongest Acidic)11.71ChemaxonpKa (Strongest Basic)9.52ChemaxonPhysiological Charge1ChemaxonHydrogen Acceptor Count5ChemaxonHydrogen Donor Count2ChemaxonPolar Surface Area105.75 Å2ChemaxonRotatable Bond Count1ChemaxonRefractivity115.8 m3·mol-1ChemaxonPolarizability45.45 Å3ChemaxonNumber of Rings6ChemaxonBioavailability1ChemaxonRule of FiveYesChemaxonGhose FilterYesChemaxonVeber's RuleNoChemaxonMDDR-like RuleNoChemaxon
+D. Average: 435.455 Monoisotopic: 435.159434363 
+Correct Answer: Average: 435.455 Monoisotopic: 435.159434363 
+
+Q: What is the Drug Categories of Exatecan?
+A. Not Available
+B. (10S,23S)-23-amino-10-ethyl-18-fluoro-10-hydroxy-19-methyl-8-oxa-4,15-diazahexacyclo[14.7.1.0^{2,14}.0^{4,13}.0^{6,11}.0^{20,24}]tetracosa-1(24),2(14),6(11),12,15,17,19-heptaene-5,9-dione
+C. AlkaloidsAntineoplastic AgentsEnzyme InhibitorsTopoisomerase I InhibitorsTopoisomerase Inhibitors
+D. DX-8951DX-8951f
+Correct Answer: AlkaloidsAntineoplastic AgentsEnzyme InhibitorsTopoisomerase I InhibitorsTopoisomerase Inhibitors
+
+Q: What is the DrugBank Accession Number of Soblidotin?
+A. C39H67N5O6
+B. DB12677
+C. Not Available
+D. TZT-1027
+Correct Answer: DB12677
+
+Q: What is the Groups of Soblidotin?
+A. Not Available
+B. Peptidomimetics
+C. Investigational
+D. ZINC000003951627
+Correct Answer: Investigational
+
+Q: What is the Weight of Soblidotin?
+A. Not Available
+B. Not Available
+C. Average: 701.994 Monoisotopic: 701.509134897 
+D. Organic acids and derivatives
+Correct Answer: Average: 701.994 Monoisotopic: 701.509134897 
+
+Q: What is the Drug Categories of Soblidotin?
+A. Amino Acids, Peptides, and ProteinsAntineoplastic AgentsPeptides
+B. CHEMBL3989512
+C. Organic compounds
+D. C39H67N5O6
+Correct Answer: Amino Acids, Peptides, and ProteinsAntineoplastic AgentsPeptides
+
+Q: What is the DrugBank Accession Number of Dolastatin 10?
+A. DB12730
+B. Download MOLSDFPDBSMILESInChI Similar StructuresStructure for Dolastatin 10 (DB12730)× Close
+C. Not Available
+D. (2S)-2-[(2S)-2-(dimethylamino)-3-methylbutanamido]-N-[(3R,4S,5S)-3-methoxy-1-[(2S)-2-[(1R,2R)-1-methoxy-2-methyl-2-{[(1S)-2-phenyl-1-(1,3-thiazol-2-yl)ethyl]carbamoyl}ethyl]pyrrolidin-1-yl]-5-methyl-1-oxoheptan-4-yl]-N,3-dimethylbutanamide
+Correct Answer: DB12730
+
+Q: What is the Groups of Dolastatin 10?
+A. Investigational
+B. Dolastatin 10
+C. This information should not be interpreted without the help of a healthcare provider. If you believe you are experiencing an interaction, contact a healthcare provider immediately. The absence of an interaction does not necessarily mean no interactions exist. ApprovedVet approvedNutraceuticalIllicitWithdrawnInvestigationalExperimentalAll DrugsDrugInteractionIntegrate drug-drug interactions in your softwareArticaineThe risk or severity of methemoglobinemia can be increased when Dolastatin 10 is combined with Articaine.BenzocaineThe risk or severity of methemoglobinemia can be increased when Dolastatin 10 is combined with Benzocaine.Benzyl alcoholThe risk or severity of methemoglobinemia can be increased when Dolastatin 10 is combined with Benzyl alcohol.BupivacaineThe risk or severity of methemoglobinemia can be increased when Dolastatin 10 is combined with Bupivacaine.ButacaineThe risk or severity of methemoglobinemia can be increased when Dolastatin 10 is combined with Butacaine.ButambenThe risk or severity of methemoglobinemia can be increased when Dolastatin 10 is combined with Butamben.CapsaicinThe risk or severity of methemoglobinemia can be increased when Dolastatin 10 is combined with Capsaicin.ChloroprocaineThe risk or severity of methemoglobinemia can be increased when Dolastatin 10 is combined with Chloroprocaine.CinchocaineThe risk or severity of methemoglobinemia can be increased when Dolastatin 10 is combined with Cinchocaine.CocaineThe risk or severity of methemoglobinemia can be increased when Dolastatin 10 is combined with Cocaine.Identify potential medication risksEasily compare up to 40 drugs with our drug interaction checker.Get severity rating, description, and management advice. Learn more   
+D. Not Available
+Correct Answer: Investigational
+
+Q: What is the Weight of Dolastatin 10?
+A. Average: 785.1 Monoisotopic: 784.492105108 
+B. Not Available
+C. Download MOLSDFPDBSMILESInChI Similar StructuresStructure for Dolastatin 10 (DB12730)× Close
+D. 9810929
+Correct Answer: Average: 785.1 Monoisotopic: 784.492105108 
+
+Q: What is the Drug Categories of Dolastatin 10?
+A. 9810929
+B. CC[C@H](C)[C@@H]([C@@H](CC(=O)N1CCC[C@H]1[C@H](OC)[C@@H](C)C(=O)N[C@@H](CC1=CC=CC=C1)C1=NC=CS1)OC)N(C)C(=O)[C@@H](NC(=O)[C@H](C(C)C)N(C)C)C(C)C
+C. DB12730
+D. Amino Acids, Peptides, and ProteinsAntimitotic AgentsAntineoplastic AgentsMitosis ModulatorsPeptidesPeptides, CyclicTubulin Modulators
+Correct Answer: Amino Acids, Peptides, and ProteinsAntimitotic AgentsAntineoplastic AgentsMitosis ModulatorsPeptidesPeptides, CyclicTubulin Modulators
+
+Q: What is the DrugBank Accession Number of Camsirubicin?
+A. Not Available
+B. SpectrumSpectrum TypeSplash KeyPredicted MS/MS Spectrum - 10V, Positive (Annotated)Predicted LC-MS/MSNot AvailablePredicted MS/MS Spectrum - 20V, Positive (Annotated)Predicted LC-MS/MSNot AvailablePredicted MS/MS Spectrum - 40V, Positive (Annotated)Predicted LC-MS/MSNot AvailablePredicted MS/MS Spectrum - 10V, Negative (Annotated)Predicted LC-MS/MSNot AvailablePredicted MS/MS Spectrum - 20V, Negative (Annotated)Predicted LC-MS/MSNot AvailablePredicted MS/MS Spectrum - 40V, Negative (Annotated)Predicted LC-MS/MSNot Available
+C. DB13103
+D. (8S,10S)-10-{[(2R,4S,5S,6S)-4-amino-5-hydroxy-6-methyloxan-2-yl]oxy}-6,8,11-trihydroxy-8-(2-hydroxyacetyl)-12-imino-1-methoxy-5,7,8,9,10,12-hexahydrotetracen-5-one
+Correct Answer: DB13103
+
+Q: What is the Groups of Camsirubicin?
+A. Organic compounds
+B. 32701310
+C. Investigational
+D. Not Available
+Correct Answer: Investigational
+
+Q: What is the Weight of Camsirubicin?
+A. Not Available
+B. Average: 542.541 Monoisotopic: 542.190045174 
+C. Aminoglycosides
+D. Not Available
+Correct Answer: Average: 542.541 Monoisotopic: 542.190045174 
+
+Q: What is the Drug Categories of Camsirubicin?
+A. AnthracyclinesCarbohydratesGlycosidesNaphthacenes
+B. DescriptionThis compound belongs to the class of organic compounds known as aminoglycosides. These are molecules or a portion of a molecule composed of amino-modified sugars.KingdomOrganic compoundsSuper ClassOrganic oxygen compoundsClassOrganooxygen compoundsSub ClassCarbohydrates and carbohydrate conjugatesDirect ParentAminoglycosidesAlternative ParentsAnthracenes / Hexoses / O-glycosyl compounds / Tetralins / Anisoles / Aryl ketones / P-quinonimines / Alkyl aryl ethers / Oxanes / Tertiary alcohols / Alpha-hydroxy ketones / Vinylogous acids / Ketimines / Secondary alcohols / 1,2-aminoalcohols / Oxacyclic compounds / Polyols / Acetals / Monoalkylamines / Hydrocarbon derivatives / Primary alcohols / Organic oxides / Organopnictogen compounds show 13 moreSubstituents1,2-aminoalcohol / Acetal / Alcohol / Alkyl aryl ether / Alpha-hydroxy ketone / Amine / Aminoglycoside core / Anisole / Anthracene / Aromatic heteropolycyclic compound / Aryl ketone / Benzenoid / Carbonyl group / Ether / Glycosyl compound / Hexose monosaccharide / Hydrocarbon derivative / Imine / Ketimine / Ketone / Monosaccharide / O-glycosyl compound / Organic nitrogen compound / Organic oxide / Organoheterocyclic compound / Organonitrogen compound / Organopnictogen compound / Oxacycle / Oxane / P-quinonimine / Polyol / Primary alcohol / Primary aliphatic amine / Primary amine / Quinonimine / Secondary alcohol / Tertiary alcohol / Tetralin / Vinylogous acid show 29 moreMolecular FrameworkAromatic heteropolycyclic compoundsExternal DescriptorsNot Available
+C. Avoid life-threatening adverse drug eventsImprove clinical decision support with information on contraindications & blackbox warnings, population restrictions, harmful risks, & more.Learn more  Avoid life-threatening adverse drug events & improve clinical decision support.Learn more
+D. Organooxygen compounds
+Correct Answer: AnthracyclinesCarbohydratesGlycosidesNaphthacenes
+
+Q: What is the DrugBank Accession Number of Trofosfamide?
+A. ClCCN(CCCl)P1(=O)OCCCN1CCCl
+B. Not Available
+C. Not Available
+D. DB12902
+Correct Answer: DB12902
+
+Q: What is the Groups of Trofosfamide?
+A. Organic compounds
+B. Trofosfamide
+C. Investigational
+D. Avoid life-threatening adverse drug eventsImprove clinical decision support with information on contraindications & blackbox warnings, population restrictions, harmful risks, & more.Learn more  Avoid life-threatening adverse drug events & improve clinical decision support.Learn more
+Correct Answer: Investigational
+
+Q: What is the Weight of Trofosfamide?
+A. Average: 323.58 Monoisotopic: 322.0171479 
+B. Not Available
+C. Not Available
+D. Trofosfamide
+Correct Answer: Average: 323.58 Monoisotopic: 322.0171479 
+
+Q: What is the Drug Categories of Trofosfamide?
+A. Not Available
+B. 135381
+C. 38865
+D. Alkylating DrugsAntineoplastic AgentsAntineoplastic Agents, AlkylatingAntineoplastic and Immunomodulating AgentsHydrocarbons, HalogenatedImmunologic FactorsImmunosuppressive AgentsMustard CompoundsMutagensNitrogen Mustard AnaloguesNitrogen Mustard CompoundsNoxaeOrganophosphorus CompoundsPhosphoramide MustardsPhosphoramidesToxic Actions
+Correct Answer: Alkylating DrugsAntineoplastic AgentsAntineoplastic Agents, AlkylatingAntineoplastic and Immunomodulating AgentsHydrocarbons, HalogenatedImmunologic FactorsImmunosuppressive AgentsMustard CompoundsMutagensNitrogen Mustard AnaloguesNitrogen Mustard CompoundsNoxaeOrganophosphorus CompoundsPhosphoramide MustardsPhosphoramidesToxic Actions
+
+Q: What is the DrugBank Accession Number of Figitumumab?
+A. Figitumumab has been used in trials studying the treatment of Sarcoma, Solid Tumor, Breast Cancer, Lung Neoplasms, and Advanced Cancer, among others.
+B. DB11685
+C. Not Available
+D. 347911227
+Correct Answer: DB11685
+
+Q: What is the Groups of Figitumumab?
+A. This information should not be interpreted without the help of a healthcare provider. If you believe you are experiencing an interaction, contact a healthcare provider immediately. The absence of an interaction does not necessarily mean no interactions exist. ApprovedVet approvedNutraceuticalIllicitWithdrawnInvestigationalExperimentalAll DrugsDrugInteractionIntegrate drug-drug interactions in your softwareAbciximabThe risk or severity of adverse effects can be increased when Abciximab is combined with Figitumumab.AdalimumabThe risk or severity of adverse effects can be increased when Adalimumab is combined with Figitumumab.AducanumabThe risk or severity of adverse effects can be increased when Figitumumab is combined with Aducanumab.AlemtuzumabThe risk or severity of adverse effects can be increased when Alemtuzumab is combined with Figitumumab.AlirocumabThe risk or severity of adverse effects can be increased when Alirocumab is combined with Figitumumab.AmivantamabThe risk or severity of adverse effects can be increased when Figitumumab is combined with Amivantamab.AnifrolumabThe risk or severity of adverse effects can be increased when Figitumumab is combined with Anifrolumab.AnsuvimabThe risk or severity of adverse effects can be increased when Figitumumab is combined with Ansuvimab.Anthrax immune globulin humanThe risk or severity of adverse effects can be increased when Anthrax immune globulin human is combined with Figitumumab.Antilymphocyte immunoglobulin (horse)The risk or severity of adverse effects can be increased when Antilymphocyte immunoglobulin (horse) is combined with Figitumumab.Identify potential medication risksEasily compare up to 40 drugs with our drug interaction checker.Get severity rating, description, and management advice. Learn more   
+B. Not Available
+C. Investigational
+D. Figitumumab has been used in trials studying the treatment of Sarcoma, Solid Tumor, Breast Cancer, Lung Neoplasms, and Advanced Cancer, among others.
+Correct Answer: Investigational
+
+Q: What is the Drug Categories of Figitumumab?
+A. Not Available
+B. Amino Acids, Peptides, and ProteinsAntibodiesBlood ProteinsGlobulinsImmunoglobulinsImmunoproteinsProteinsSerum Globulins
+C. Not Available
+D. Not Available
+Correct Answer: Amino Acids, Peptides, and ProteinsAntibodiesBlood ProteinsGlobulinsImmunoglobulinsImmunoproteinsProteinsSerum Globulins
+
+Q: What is the DrugBank Accession Number of Antineoplaston A10?
+A. DB11702
+B. Aromatic heteromonocyclic compound / Azacycle / Benzenoid / Carbonyl group / Carboxamide group / Carboxylic acid imide / Carboxylic acid imide, n-unsubstituted / Delta-lactam / Dicarboximide / Hydrocarbon derivative / Lactam / Monocyclic benzene moiety / N-acyl-alpha amino acid or derivatives / Organic nitrogen compound / Organic oxide / Organic oxygen compound / Organoheterocyclic compound / Organonitrogen compound / Organooxygen compound / Organopnictogen compound / Phenylacetamide / Piperidine / Piperidinedione / Piperidinone / Secondary carboxylic acid amide show 15 more
+C. Aromatic heteromonocyclic compounds
+D. Not Available
+Correct Answer: DB11702
+
+Q: What is the Groups of Antineoplaston A10?
+A. Investigational
+B. N-[(3S)-2,6-dioxopiperidin-3-yl]-2-phenylacetamide
+C. Carboxylic acids and derivatives
+D. Antineoplaston A10 has been used in trials studying the treatment of Sarcoma, Lymphoma, Lung Cancer, Liver Cancer, and Kidney Cancer, among others.
+Correct Answer: Investigational
+
+Q: What is the Weight of Antineoplaston A10?
+A. Average: 246.266 Monoisotopic: 246.100442319 
+B. OQGRFQCUGLKSAV-JTQLQIEISA-N
+C. O=C(CC1=CC=CC=C1)N[C@H]1CCC(=O)NC1=O
+D. Antineoplaston A 10
+Correct Answer: Average: 246.266 Monoisotopic: 246.100442319 
+
+Q: What is the Drug Categories of Antineoplaston A10?
+A. Not Available
+B. OQGRFQCUGLKSAV-JTQLQIEISA-N
+C. AcetamidesAmidesBenzene DerivativesPiperidines
+D. Avoid life-threatening adverse drug eventsImprove clinical decision support with information on contraindications & blackbox warnings, population restrictions, harmful risks, & more.Learn more  Avoid life-threatening adverse drug events & improve clinical decision support.Learn more
+Correct Answer: AcetamidesAmidesBenzene DerivativesPiperidines
+
+Q: What is the DrugBank Accession Number of Ombrabulin?
+A. Not Available
+B. Improve decision support & research outcomesWith structured adverse effects data, including: blackbox warnings, adverse reactions, warning & precautions, & incidence rates.Learn more  Improve decision support & research outcomes with our structured adverse effects data.Learn more
+C. DB12882
+D. Not Available
+Correct Answer: DB12882
+
+Q: What is the Groups of Ombrabulin?
+A. Investigational
+B. Not Available
+C. C21H26N2O6
+D. Aromatic homomonocyclic compounds
+Correct Answer: Investigational
+
+Q: What is the Weight of Ombrabulin?
+A. Average: 402.447 Monoisotopic: 402.179086565 
+B. Organic compounds
+C. Ombrabulin
+D. Not Available
+Correct Answer: Average: 402.447 Monoisotopic: 402.179086565 
+
+Q: What is the Drug Categories of Ombrabulin?
+A. Not Available
+B. Amino AcidsAmino Acids, NeutralAmino Acids, Peptides, and Proteins
+C. Not Available
+D. DB12882
+Correct Answer: Amino AcidsAmino Acids, NeutralAmino Acids, Peptides, and Proteins
+
+Q: What is the DrugBank Accession Number of Zalypsis?
+A. DB12454
+B. Not AvailableReduce drug development failure ratesBuild, train, & validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, & validate predictive machine-learning models with structured datasets.See how
+C. DescriptionThis compound belongs to the class of organic compounds known as benzazocines. These are organic compounds containing the benzazocine ring system, which consists of a benzene ring bound to an azocine ring.KingdomOrganic compoundsSuper ClassBenzenoidsClassBenzene and substituted derivativesSub ClassBenzazocinesDirect ParentBenzazocinesAlternative ParentsCinnamic acid amides / Trifluoromethylbenzenes / Tetrahydroisoquinolines / Benzodioxoles / Styrenes / Anisoles / 1-hydroxy-4-unsubstituted benzenoids / Alkyl aryl ethers / Aralkylamines / N-methylpiperazines / Trialkylamines / Secondary carboxylic acid amides / Amino acids and derivatives / Carboxylic acid esters / Hemiaminals / Azacyclic compounds / Oxacyclic compounds / Acetals / Monocarboxylic acids and derivatives / Carbonyl compounds / Organofluorides / Organopnictogen compounds / Alkyl fluorides / Organic oxides / Hydrocarbon derivatives show 15 moreSubstituents1,4-diazinane / 1-hydroxy-4-unsubstituted benzenoid / Acetal / Alkanolamine / Alkyl aryl ether / Alkyl fluoride / Alkyl halide / Amine / Amino acid or derivatives / Anisole / Aralkylamine / Aromatic heteropolycyclic compound / Azacycle / Benzazocine / Benzodioxole / Carbonyl group / Carboxamide group / Carboxylic acid derivative / Carboxylic acid ester / Cinnamic acid amide / Cinnamic acid or derivatives / Ether / Hemiaminal / Hydrocarbon derivative / Monocarboxylic acid or derivatives / N-alkylpiperazine / N-methylpiperazine / Organic nitrogen compound / Organic oxide / Organic oxygen compound / Organofluoride / Organohalogen compound / Organoheterocyclic compound / Organonitrogen compound / Organooxygen compound / Organopnictogen compound / Oxacycle / Piperazine / Secondary carboxylic acid amide / Styrene / Tertiary aliphatic amine / Tertiary amine / Tetrahydroisoquinoline / Trifluoromethylbenzene show 34 moreMolecular FrameworkAromatic heteropolycyclic compoundsExternal DescriptorsNot Available
+D. Not Available
+Correct Answer: DB12454
+
+Q: What is the Groups of Zalypsis?
+A. AlkaloidsHeterocyclic Compounds, Fused-RingIsoquinolines
+B. Investigational
+C. 308359-57-1
+D. Not Available
+Correct Answer: Investigational
+
+Q: What is the Weight of Zalypsis?
+A. SpectrumSpectrum TypeSplash KeyPredicted MS/MS Spectrum - 10V, Positive (Annotated)Predicted LC-MS/MSNot AvailablePredicted MS/MS Spectrum - 20V, Positive (Annotated)Predicted LC-MS/MSNot AvailablePredicted MS/MS Spectrum - 40V, Positive (Annotated)Predicted LC-MS/MSNot AvailablePredicted MS/MS Spectrum - 10V, Negative (Annotated)Predicted LC-MS/MSNot AvailablePredicted MS/MS Spectrum - 20V, Negative (Annotated)Predicted LC-MS/MSNot AvailablePredicted MS/MS Spectrum - 40V, Negative (Annotated)Predicted LC-MS/MSNot Available
+B. PropertyValueSourceWater Solubility0.0252 mg/mLALOGPSlogP3.33ALOGPSlogP5.5ChemaxonlogS-4.4ALOGPSpKa (Strongest Acidic)9.35ChemaxonpKa (Strongest Basic)7.15ChemaxonPhysiological Charge1ChemaxonHydrogen Acceptor Count9ChemaxonHydrogen Donor Count3ChemaxonPolar Surface Area130.03 Å2ChemaxonRotatable Bond Count8ChemaxonRefractivity180.8 m3·mol-1ChemaxonPolarizability70.93 Å3ChemaxonNumber of Rings7ChemaxonBioavailability0ChemaxonRule of FiveNoChemaxonGhose FilterNoChemaxonVeber's RuleNoChemaxonMDDR-like RuleYesChemaxon
+C. C21EZR41AY
+D. Average: 709.719 Monoisotopic: 709.261099685 
+Correct Answer: Average: 709.719 Monoisotopic: 709.261099685 
+
+Q: What is the Drug Categories of Zalypsis?
+A. Not Available
+B. Not Available
+C. Not Available
+D. AlkaloidsHeterocyclic Compounds, Fused-RingIsoquinolines
+Correct Answer: AlkaloidsHeterocyclic Compounds, Fused-RingIsoquinolines
+
+Q: What is the DrugBank Accession Number of Ro 24-7429?
+A. DB16062
+B. Not Available
+C. Not Available
+D. BenzazepinesHeterocyclic Compounds, Fused-Ring
+Correct Answer: DB16062
+
+Q: What is the Groups of Ro 24-7429?
+A. Investigational
+B. Not Available
+C. ZINC000000005304
+D. Small Molecule
+Correct Answer: Investigational
+
+Q: What is the Weight of Ro 24-7429?
+A. Not Available
+B. InChI=1S/C14H13ClN4/c1-16-13-8-18-14(12-3-2-6-17-12)10-7-9(15)4-5-11(10)19-13/h2-7,17H,8H2,1H3,(H,16,19)
+C. Not Available
+D. Average: 272.74 Monoisotopic: 272.0828741 
+Correct Answer: Average: 272.74 Monoisotopic: 272.0828741 
+
+Q: What is the Drug Categories of Ro 24-7429?
+A. BenzazepinesHeterocyclic Compounds, Fused-Ring
+B. Ro 24-7429
+C. Not Available
+D. Not Available
+Correct Answer: BenzazepinesHeterocyclic Compounds, Fused-Ring
+
+Q: What is the DrugBank Accession Number of Disaccharide tripeptide glycerol dipalmitoyl?
+A. Not Available
+B. Average: 1317.664 Monoisotopic: 1316.819354779 
+C. DB15423
+D. 130114-83-9
+Correct Answer: DB15423
+
+Q: What is the Groups of Disaccharide tripeptide glycerol dipalmitoyl?
+A. 64854149
+B. Not Available
+C. Investigational
+D. Not Available
+Correct Answer: Investigational
+
+Q: What is the Weight of Disaccharide tripeptide glycerol dipalmitoyl?
+A. Download MOLSDFPDBSMILESInChI Similar StructuresStructure for Disaccharide tripeptide glycerol dipalmitoyl (DB15423)× Close
+B. Small Molecule
+C. 64854149
+D. Average: 1317.664 Monoisotopic: 1316.819354779 
+Correct Answer: Average: 1317.664 Monoisotopic: 1316.819354779 
+
+Q: What is the Drug Categories of Disaccharide tripeptide glycerol dipalmitoyl?
+A. Not Available
+B. Not Available
+C. 6PHSP9EORV
+D. InChI=1S/C65H116N6O21/c1-8-10-12-14-16-18-20-22-24-26-28-30-32-34-54(79)87-41-48(90-55(80)35-33-31-29-27-25-23-21-19-17-15-13-11-9-2)42-88-64(86)44(4)67-53(78)37-36-49(61(66)83)71-62(84)43(3)68-63(85)45(5)89-59(50(38-72)69-46(6)75)60(51(77)39-73)92-65-56(70-47(7)76)58(82)57(81)52(40-74)91-65/h38,43-45,48-52,56-60,65,73-74,77,81-82H,8-37,39-42H2,1-7H3,(H2,66,83)(H,67,78)(H,68,85)(H,69,75)(H,70,76)(H,71,84)/t43-,44-,45+,48+,49+,50-,51+,52+,56+,57+,58+,59+,60+,65-/m0/s1
+Correct Answer: Not Available
+
+Q: What is the DrugBank Accession Number of Palifosfamide?
+A. Aliphatic acyclic compounds
+B. DB05668
+C. Ifosfamide mustardIfosforamide mustardIsophosphamide mustardIsophosphoramide mustardPalifosfamide
+D. Avoid life-threatening adverse drug eventsImprove clinical decision support with information on contraindications & blackbox warnings, population restrictions, harmful risks, & more.Learn more  Avoid life-threatening adverse drug events & improve clinical decision support.Learn more
+Correct Answer: DB05668
+
+Q: What is the Groups of Palifosfamide?
+A. Not Available
+B. Investigational
+C. Ifosfamide mustardIfosforamide mustardIsophosphamide mustardIsophosphoramide mustardPalifosfamide
+D. Palifosfamide (ZIO-201) is a proprietary stabilized metabolite of ifosfamide. Ifosfamide has been shown to be effective in high doses in treating testicular cancer, sarcoma and lymphoma.
+Correct Answer: Investigational
+
+Q: What is the Weight of Palifosfamide?
+A. Average: 221.022 Monoisotopic: 219.993519532 
+B. Not Available
+C. Not Available
+D. OP(=O)(NCCCl)NCCCl
+Correct Answer: Average: 221.022 Monoisotopic: 219.993519532 
+
+Q: What is the Drug Categories of Palifosfamide?
+A. Aliphatic acyclic compound / Alkyl chloride / Alkyl halide / Hydrocarbon derivative / Organic nitrogen compound / Organic oxide / Organic oxygen compound / Organic phosphoric acid diamide / Organochloride / Organohalogen compound
+B. C16559
+C. Alkylating DrugsAmino AcidsAmino Acids, BasicAmino Acids, DiaminoAmino Acids, Peptides, and ProteinsAntineoplastic AgentsAntineoplastic Agents, AlkylatingHydrocarbons, HalogenatedMustard CompoundsNitrogen Mustard CompoundsNoxaeOrganophosphorus CompoundsOxazinesPhosphoramide MustardsPhosphoramidesToxic Actions
+D. Investigational
+Correct Answer: Alkylating DrugsAmino AcidsAmino Acids, BasicAmino Acids, DiaminoAmino Acids, Peptides, and ProteinsAntineoplastic AgentsAntineoplastic Agents, AlkylatingHydrocarbons, HalogenatedMustard CompoundsNitrogen Mustard CompoundsNoxaeOrganophosphorus CompoundsOxazinesPhosphoramide MustardsPhosphoramidesToxic Actions
+
+Q: What is the DrugBank Accession Number of Ridaforolimus?
+A. DB06233
+B. Not Available
+C. C15183
+D. lactam, macrolide (CHEBI:79700) 
+Correct Answer: DB06233
+
+Q: What is the Groups of Ridaforolimus?
+A. Not Available
+B. Investigational
+C. Avoid life-threatening adverse drug eventsImprove clinical decision support with information on contraindications & blackbox warnings, population restrictions, harmful risks, & more.Learn more  Avoid life-threatening adverse drug events & improve clinical decision support.Learn more
+D. Not Available
+Correct Answer: Investigational
+
+Q: What is the Weight of Ridaforolimus?
+A. Not Available
+B. Small Molecule
+C. Alpha amino acid esters / Macrolides and analogues / Piperidines / Oxanes / Tertiary carboxylic acid amides / Secondary alcohols / Carboxylic acid esters / Cyclic ketones / Hemiacetals / Lactams / Lactones / Phosphinic acid esters / Dialkyl ethers / Azacyclic compounds / Monocarboxylic acids and derivatives / Oxacyclic compounds / Hydrocarbon derivatives / Organic oxides / Organonitrogen compounds / Organopnictogen compounds show 10 more
+D. Average: 990.222 Monoisotopic: 989.562943387 
+Correct Answer: Average: 990.222 Monoisotopic: 989.562943387 
+
+Q: What is the Drug Categories of Ridaforolimus?
+A. Ridaforolimus
+B. Anti-Bacterial AgentsAntineoplastic AgentsAntineoplastic and Immunomodulating AgentsCytochrome P-450 CYP3A InhibitorsCytochrome P-450 CYP3A4 InhibitorsCytochrome P-450 CYP3A4 Inhibitors (strength unknown)Cytochrome P-450 Enzyme InhibitorsLactonesMacrolidesMammalian target of rapamycin (mTOR) kinase inhibitorsProtein Kinase Inhibitors
+C. Phenylpropanoids and polyketides
+D. Not Available
+Correct Answer: Anti-Bacterial AgentsAntineoplastic AgentsAntineoplastic and Immunomodulating AgentsCytochrome P-450 CYP3A InhibitorsCytochrome P-450 CYP3A4 InhibitorsCytochrome P-450 CYP3A4 Inhibitors (strength unknown)Cytochrome P-450 Enzyme InhibitorsLactonesMacrolidesMammalian target of rapamycin (mTOR) kinase inhibitorsProtein Kinase Inhibitors
+
