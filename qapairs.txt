@@ -1,0 +1,360 @@
+Q: What is the Background of the Dactinomycin?
+A: A compound composed of a two cyclic peptides attached to a phenoxazine that is derived from streptomyces parvullus. It binds to DNA and inhibits RNA synthesis (transcription), with chain elongation more sensitive than initiation, termination, or release. As a result of impaired mRNA production, protein synthesis also declines after dactinomycin therapy. (From AMA Drug Evaluations Annual, 1993, p2015)
+
+Q: What is the Indication of the Dactinomycin?
+A: For the treatment of Wilms' tumor, childhood rhabdomyosarcoma, Ewing's sarcoma and metastatic, nonseminomatous testicular cancer as part of a combination chemotherapy and/or multi-modality treatment regimenReduce drug development failure ratesBuild, train, & validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, & validate predictive machine-learning models with structured datasets.See how
+
+Q: What is the Mechanism of action of the Dactinomycin?
+A: Good evidence exists that this drug bind strongly, but reversibly, to DNA, interfering with synthesis of RNA (prevention of RNA polymerase elongation) and, consequently, with protein synthesis.TargetActionsOrganismADNAadductHumansUDNA topoisomerase 2inhibitorHumansUDNA topoisomerase 1inhibitorHumans
+
+Q: What is the Background of the Pomalidomide?
+A: Pomalidomide, an analogue of thalidomide, is an immunomodulatory antineoplastic agent. FDA approved on February 8, 2013.
+
+Q: What is the Indication of the Pomalidomide?
+A: Pomalidomide is indicated for patients with multiple myeloma who have received at least two prior therapies including lenalidomide and have demonstrated disease progression on or within 60 days of completion of the last therapy. It is also indicated for the treatment of Kaposi's sarcoma (KS) in AIDS patients who have failed highly active antiretroviral therapy (HAART) and for the treatment of KS in HIV-negative patients.4Reduce drug development failure ratesBuild, train, & validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, & validate predictive machine-learning models with structured datasets.See how
+
+Q: What is the Mechanism of action of the Pomalidomide?
+A: Promalidomide is an immunomodulatory agent with antineoplastic activity. It is shown to inhibit the proliferation and induce apoptosis of various tumour cells. Furthermore, promalidomide enhances T cell and natural killer (NK) cell-mediated immunity and inhibited the production of pro-inflammatory cytokines, like TNF-alpha or IL-6, by monocytes. The primary target of promalidomide is thought to be the protein cereblon. It binds to this target and inhibits ubiquitin ligase activity. It is also a transcriptional inhibitor of COX2. TargetActionsOrganismAProtein cerebloninhibitorHumansATumor necrosis factorinhibitorHumansAProstaglandin G/H synthase 2inhibitorHumans
+
+Q: What is the Background of the Crizotinib?
+A: Crizotinib is a tyrosine kinase receptor inhibitor used for the treatment of anaplastic lymphoma kinase (ALK) or ROS1-positive non-small cell lung cancer (NSCLC) tumors, as well as ALK-positive anaplastic large cell lymphoma (ALCL) and inflammatory myofibroblastic tumor (IMT).4 By targeting the echinoderm microtubule-associated protein-like 4 (EML4)-ALK fusion protein, crizotinib offers robust effectiveness in treating NSCLC in patients with this type of rearrangement.3 Crizotinib was the first-in-class drug used to treat ALK-positive tumors. Second- and third-generation ALK-tyrosine kinase-inhibitors have overcome many of the pharmacodynamic and genetic resistance mechanisms crizotinib is prone to.3 Crizotinib was approved by the FDA in 2011, and its use is accompanied by FDA-approved tests used to detect ALK and ROS1 rearrangements.4
+
+Q: What is the Indication of the Crizotinib?
+A: Crizotinib is a kinase inhibitor indicated for the treatment of patients with metastatic non-small cell lung cancer (NSCLC) whose tumors are anaplastic lymphoma kinase (ALK) or ROS1-positive as detected by an FDA-approved test.4 Crizotinib is also indicated for the treatment of relapsed or refractory, systemic anaplastic large cell lymphoma (ALCL) that is ALK-positive in pediatric patients 1 year of age and older and young adults. The safety and efficacy of crizotinib have not been established in older adults with relapsed or refractory, systemic ALK-positive ALCL.4 Additionally, crizotinib is indicated for the treatment of adult and pediatric patients 1 year of age and older with unresectable, recurrent, or refractory inflammatory myofibroblastic tumor (IMT) that is ALK-positive.4Reduce drug development failure ratesBuild, train, & validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, & validate predictive machine-learning models with structured datasets.See how
+
+Q: What is the Mechanism of action of the Crizotinib?
+A: Crizotinib is a tyrosine kinase receptor inhibitor that targets anaplastic lymphoma kinase (ALK), hepatocyte growth factor receptor (HGFR, c-MET), ROS1 (c-ros), and Recepteur d'Origine Nantais (RON).4 When activated, ALK inhibits apoptosis and promotes cell proliferation, and ALK-gene translocations can lead to the expression of oncogenic fusion proteins. A small portion of non-small cell lung cancer (NSCLC) patients have ALK-positive tumors. Most of these cases are characterized by the fusion of ALK with the chimeric protein echinoderm microtubule-associated protein-like 4 (EML4), resulting in increased kinase activity.1,4 Crizotinib inhibits ALK by inhibiting its phosphorylation and creating an inactive protein conformation.3 This ultimately lowers the proliferation of cells carrying this genetic mutation and tumour survivability.4 In vitro assays on tumor cell lines demonstrated that crizotinib inhibits ALK, ROS1, and c-Met phosphorylation in a concentration-dependent manner. In vivo studies in mice with tumor xenografts that expressed EML4- or nucleophosmin (NPM)-ALK fusion proteins or c-Met showed that crizotinib has antitumor activity.4TargetActionsOrganismAALK tyrosine kinase receptorinhibitorHumansAHepatocyte growth factor receptorinhibitorHumansAProto-oncogene tyrosine-protein kinase ROSinhibitorHumansAMacrophage-stimulating protein receptorinhibitorHumans
+
+Q: What is the Background of the Atezolizumab?
+A: Atezolizumab is a humanized monoclonal antibody used to prevent the interaction of PD-L1 and PD-1, removing inhibition of immune responses seen in some cancers.2,7 This medication is reserved for patients whose tumors express PD-L1, cannot receive platinum-based chemotherapy, or whose tumors do not respond to platinum-based chemotherapy.7 Atezolizumab was granted FDA approval on 18 October 2016.7 In November 2022, the manufacturer (Genentech) voluntarily withdrew the use of atezolizumab for the treatment of urothelial carcinoma, previously approved under the FDA's Accelerated Approval Program. The rest of atezolizumab indications remain unaffected.10
+
+Q: What is the Indication of the Atezolizumab?
+A: Atezolizumab has approved indications for the following conditions:11Non-Small Cell Lung Cancer (NSCLC)as adjuvant treatment following resection and platinum-based chemotherapy for adult patients with Stage II to IIIA NSCLC whose tumours have PD-L1 expression on ≥ 1% of tumour cells, as determined by an FDA-approved test.for the first-line treatment of adult patients with metastatic NSCLC whose tumours have high PD-L1 expression (PD-L1 stained ≥ 50% of tumour cells [TC ≥ 50%] or PD-L1 stained tumour-infiltrating immune cells [IC] covering ≥ 10% of the tumour area [IC ≥ 10%]), as determined by an FDAapproved test, with no EGFR or ALK genomic tumour aberrations.in combination with bevacizumab, paclitaxel, and carboplatin, for the first-line treatment of adult patients with metastatic non-squamous NSCLC with no EGFR or ALK genomic tumour aberrations.in combination with paclitaxel protein-bound and carboplatin for the firstline treatment of adult patients with metastatic non-squamous NSCLC with no EGFR or ALK genomic tumor aberrations.for the treatment of adult patients with metastatic NSCLC who have disease progression during or following platinum-containing chemotherapy. Patients with EGFR or ALK genomic tumour aberrations should have disease progression on FDA-approved therapy for NSCLC harbouring these aberrations prior to receiving atezolizumab.Small Cell Lung Cancer (SCLC)in combination with carboplatin and etoposide, for the first-line treatment of adult patients with extensive-stage small cell lung cancer (ES-SCLC).Hepatocellular Carcinoma (HCC)in combination with bevacizumab for the treatment of patients with unresectable or metastatic HCC who have not received prior systemic therapy.Melanomain combination with cobimetinib and vemurafenib for the treatment of patients with BRAF V600 mutation-positive unresectable or metastatic melanoma.Alveolar Soft Part Sarcoma (ASPS)for the treatment of adult and pediatric patients 2 years of age and older with unresectable or metastatic ASPS.Reduce drug development failure ratesBuild, train, & validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, & validate predictive machine-learning models with structured datasets.See how
+
+Q: What is the Mechanism of action of the Atezolizumab?
+A: Atezolizumab is a humanized IgG antibody that binds PD-L1, preventing its interaction with PD-1 and B7-1.2 Preventing the interaction of PD-L1 and PD-1 removes inhibition of immune responses such as the anti-tumor immune response but not antibody dependent cellular cytotoxicity.7TargetActionsOrganismAProgrammed cell death 1 ligand 1inhibitorantibodyHumansAProgrammed cell death protein 1inhibitorHumans
+
+Q: What is the Background of the Olaratumab?
+A: Olaratumab (IMC-3G3) is a fully human IgG1 monoclonal antibody with antitumor activity that selectively binds the external domain of human platelet-derived growth factor receptor (PDGFR)-α with high affinity and blocks ligand binding. It is composed of two heavy chain molecule fragments and 2 light chain fragments. Studies show that the treatment of olaratumab in combination with doxorubicin resulted in significant reduction of cancer cell proliferation and tumor growth. Olaratumab was granted accelerated approval (as Lartruvo) as initial therapy to treat adults with certain types of soft tissue sarcoma (STS) in October, 2016.
+
+Q: What is the Indication of the Olaratumab?
+A: Olaratumab is indicated, in combination with doxorubicin, for the treatment of adult patients with advanced or mestastatic soft tissue sarcoma (STS) with a histologic subtype for which an anthracycline-containing regimen is appropriate and which is not amenable to curative treatment with radiotherapy or surgery.Reduce drug development failure ratesBuild, train, & validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, & validate predictive machine-learning models with structured datasets.See how
+
+Q: What is the Mechanism of action of the Olaratumab?
+A: Olaratumab blocks ligand-induced tumor cell proliferation, and inhibits receptor autophosphorylation and ligand-induced phosphorylation of the downstream signaling molecules protein kinase B (Akt) and mitogen-activated protein kinase 5. PDGFR signalling is a type of tyrosine kinase-mediated pathway that normally regulates cell growth, chemotaxis, and mesenchymal stem cell differentiation. It also promotes internalization of PDGFR thus alters the surface levels of PDGFR. TargetActionsOrganismAPlatelet-derived growth factor receptor alphaantagonistHumans
+
+Q: What is the Background of the Interferon alfa-2b?
+A: Interferon alpha 2b (human leukocyte clone hif-sn 206 protein moiety reduced). A type I interferon consisting of 165 amino acid residues with arginine in position 23. This protein is produced by recombinant DNA technology and resembles interferon secreted by leukocytes. It is used extensively as an antiviral or antineoplastic agent.
+
+Q: What is the Indication of the Interferon alfa-2b?
+A: For the treatment of hairy cell leukemia, malignant melanoma, and AIDS-related Kaposi's sarcoma.Reduce drug development failure ratesBuild, train, & validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, & validate predictive machine-learning models with structured datasets.See how
+
+Q: What is the Mechanism of action of the Interferon alfa-2b?
+A: Interferon alpha binds to type I interferon receptors (IFNAR1 and IFNAR2c) which upon dimerization activate two Jak (Janus kinase) tyrosine kinases (Jak1 and Tyk2). These transphosphorylate themselves and phosphorylate the receptors. The phosphorylated INFAR receptors then bind to Stat1 and Stat2 (signal transducers and activators of transcription)which dimerize and activate multiple (~100) immunomodulatory and antiviral proteins. Interferon alpha binds less stably to type I interferon receptors than interferon beta.TargetActionsOrganismAInterferon alpha/beta receptor 2binderHumansAInterferon alpha/beta receptor 1binderHumans
+
+Q: What is the Background of the Pazopanib?
+A: Pazopanib is a small molecule inhibitor of multiple protein tyrosine kinases with potential antineoplastic activity. It is developed by GlaxoSmithKline and was FDA approved on October 19, 2009.
+
+Q: What is the Indication of the Pazopanib?
+A: Treatment of advanced renal cell cancer and advanced soft tissue sarcoma (in patients previously treated with chemotherapy) Reduce drug development failure ratesBuild, train, & validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, & validate predictive machine-learning models with structured datasets.See how
+
+Q: What is the Mechanism of action of the Pazopanib?
+A: Pazopanib is a second-generation multitargeted tyrosine kinase inhibitor against vascular endothelial growth factor receptor-1, -2, and -3, platelet-derived growth factor receptor-alpha, platelet-derived growth factor receptor-beta, and c-kit. These receptor targets are part of the angiogenesis pathway that facilitates the formation of tumour blood vessel for tumour survival and growth. TargetActionsOrganismAVascular endothelial growth factor receptor 1inhibitorHumansAVascular endothelial growth factor receptor 2inhibitorHumansAVascular endothelial growth factor receptor 3Not AvailableHumansAPlatelet-derived growth factor receptor alphainhibitorHumansAPlatelet-derived growth factor receptor betainhibitorHumansAMast/stem cell growth factor receptor KitinhibitorHumansUFibroblast growth factor receptor 3inhibitorHumansUTyrosine-protein kinase ITK/TSKinhibitorHumansUFibroblast growth factor 1inhibitorHumansUSH2B adapter protein 3inhibitorHumans
+
+Q: What is the Background of the Bexarotene?
+A: Bexarotene (Targretin) is an antineoplastic agent indicated by the FDA for Cutaneous T cell lymphoma. It has been used off-label for lung cancer, breast cancer, and Kaposi's sarcoma.
+
+Q: What is the Indication of the Bexarotene?
+A: Used orally for the treatment of skin manifestations of cutaneous T-cell lymphoma (CTCL) in patients who are refractory to at least one prior systemic therapy. Also used topically for the treatment of skin lesions in early (stage IA and IB) CTCL in patients who experience refractory or persistent disease with the use of other therapies or are intolerant of other therapies.Reduce drug development failure ratesBuild, train, & validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, & validate predictive machine-learning models with structured datasets.See how
+
+Q: What is the Mechanism of action of the Bexarotene?
+A: Bexarotene selectively binds with and activates retinoid X receptor subtypes. There are three subtypes in total: RXRα, RXRβ, RXRγ. The exact mechanism of action of bexarotene in the treatment of CTCL is unknown but the drug has activity in all clinical stages of CTCL.TargetActionsOrganismARetinoic acid receptor RXR-alphaagonistHumansARetinoic acid receptor RXR-betaagonistHumansARetinoic acid receptor RXR-gammaagonistHumans
+
+Q: What is the Background of the Lurbinectedin?
+A: Lurbinectedin is a DNA alkylating agent that has been investigated in the treatment of a variety of cancers, including mesothelioma,4 chronic lymphocytic leukemia (CLL),5 breast cancer,3 and small-cell lung cancer (SCLC).1 It is a derivative of the marine-derived agent ecteinascidin (trabectedin), an anticancer agent found in extracts of the tunicate Ecteinascidia turbinata, with the primary difference being the substitution of the tetrahydroisoquinoline with a tetrahydro β‐carboline that results in increased antitumour activity of lurbinectedin as compared to its predecessor.6On June 15, 2020, the FDA granted accelerated approval and orphan drug designation to lurbinectedin for the treatment of adult patients with metastatic SCLC who have experienced disease progression despite therapy with platinum-based agents.8 This accelerated approval is based on the rate and duration of therapeutic response observed in ongoing clinical trials and is contingent on the verification of these results in confirmatory trials.
+
+Q: What is the Indication of the Lurbinectedin?
+A: Lurbinectedin is indicated for the treatment of adult patients with metastatic small-cell lung cancer (SCLC) with disease progression on or after platinum-based chemotherapy.7Reduce drug development failure ratesBuild, train, & validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, & validate predictive machine-learning models with structured datasets.See how
+
+Q: What is the Mechanism of action of the Lurbinectedin?
+A: Lurbinectedin is a DNA alkylating agent.7 It covalently binds to guanine residues in the DNA minor groove, forming adducts that bend the DNA helix towards the major groove. This process triggers a cascade of events that affect the activity of transcription factors and impairs DNA repair pathways, ultimately leading to double-strand DNA breaks and eventual cell death.7,1 Additional mechanism(s) of action include inhibition of RNA-polymerase-II activity, inactivation of Ewing Sarcoma Oncoprotein (EWS-FL11) via nuclear redistribution, and the inhibition of human monocyte activity and macrophage infiltration into tumor tissue.7,1TargetActionsOrganismUDNAadductHumans
+
+Q: What is the Background of the Tazemetostat?
+A: Tazemetostat is a methyltransferase inhibitor used to treat metastatic or locally advanced epithelioid sarcoma not eligible for complete resection.6 Tazemetostat was first named in literature as EPZ-6438.5Tazemetaostat was granted FDA approval on 23 January 2020.6
+
+Q: What is the Indication of the Tazemetostat?
+A: Tazemetostat is indicated to treat adult and pediatric patients 16 years and older with metastatic or locally advanced epithelioid sarcoma that is not eligible for complete resection.6 It is also indicated to treat adult patients with relapsed or refractory follicular lymphoma whose tumors are positive for an IZH2 mutation and who have received at least 2 prior systemic therapies.6 Additionally, it is indicated in adult patients with relapsed or refractory follicular lymphoma who have no satisfactory alternative treatment options.6Reduce drug development failure ratesBuild, train, & validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, & validate predictive machine-learning models with structured datasets.See how
+
+Q: What is the Mechanism of action of the Tazemetostat?
+A: EZH2 is a methyltransferase subunit of the polycomb repressive complex 2 (PRC2) which catalyzes multiple methylations of lysine 27 on histone H3 (H3K27).6 Trimethylation of this lysine inhibits the transcription of genes associated with cell cycle arrest.3,6 PRC2 is antagonized by the switch/sucrose non-fermentable (SWI/SNF) multiprotein complex.3 Abnormal activation of EZH2 or loss of function mutations in SWI/SNF lead to hyper-trimethylation of H3K27.3 Hyper-trimethylation of H3K27 leads to cancer cell de-differentiation,1 a gain of cancer stem cell-like properties.2 De-differentiation can allow for cancer cell proliferation.1,2,3,6Tazemetostat inhibits EZH2,6 preventing hyper-trimethylation of H3K27 and an uncontrollable cell cycle.3TargetActionsOrganismAHistone-lysine N-methyltransferase EZH2inhibitorHumansUHistone-lysine N-methyltransferase EZH1inhibitorHumans
+
+Q: What is the Background of the Interferon alfa-2a?
+A: Interferon a (human leukocyte protein moiety reduced). A type I interferon consisting of 165 amino acid residues with lysine in position 23. This protein is produced by recombinant DNA technology and resembles interferon secreted by leukocytes. It is used extensively as an antiviral or antineoplastic agent. An oral form is being developed by Amarillo Biosciences.
+
+Q: What is the Indication of the Interferon alfa-2a?
+A: For the treatment of chronic hepatitis C, hairy cell leukemia, AIDS-related Kaposi's sarcoma, and chronic myelogenous leukemia. Also for the treatment of oral warts arising from HIV infection.Reduce drug development failure ratesBuild, train, & validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, & validate predictive machine-learning models with structured datasets.See how
+
+Q: What is the Mechanism of action of the Interferon alfa-2a?
+A: Interferon alpha binds to type I interferon receptors (IFNAR1 and IFNAR2c) which, upon dimerization, activate two Jak (Janus kinase) tyrosine kinases (Jak1 and Tyk2). These transphosphorylate themselves and phosphorylate the receptors. The phosphorylated INFAR receptors then bind to Stat1 and Stat2 (signal transducers and activators of transcription)which dimerize and activate multiple (~100) immunomodulatory and antiviral proteins. Interferon alpha binds less stably to type I interferon receptors than interferon beta.TargetActionsOrganismAInterferon alpha/beta receptor 1Not AvailableHumansAInterferon alpha/beta receptor 2Not AvailableHumans
+
+Q: What is the Background of the Vincristine?
+A: Vincristine is an antitumor vinca alkaloid isolated from Vinca Rosea. It is marketed under several brand names, many of which have different formulations such as Marqibo (liposomal injection) and Vincasar. Vincristine is indicated for the treatment of acute leukaemia, malignant lymphoma, Hodgkin's disease, acute erythraemia, and acute panmyelosis. vincristine sulfate is often chosen as part of polychemotherapy because of lack of significant bone–marrow suppression (at recommended doses) and of unique clinical toxicity (neuropathy).
+
+Q: What is the Indication of the Vincristine?
+A: Treatment of acute lymphocytic leukemia (ALL), Hodgkin lymphoma, non-Hodgkin lymphomas, Wilms' tumor, neuroblastoma, rhabdomyosarcoma. Liposomal vincristine is indicated for the treatment of relapsed Philadelphia chromosome-negative (Ph-) acute lymphoblastic leukemia (ALL). Reduce drug development failure ratesBuild, train, & validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, & validate predictive machine-learning models with structured datasets.See how
+
+Q: What is the Mechanism of action of the Vincristine?
+A: The antitumor activity of Vincristine is thought to be due primarily to inhibition of mitosis at metaphase through its interaction with tubulin. Like other vinca alkaloids, Vincristine may also interfere with: 1) amino acid, cyclic AMP, and glutathione metabolism, 2) calmodulin-dependent Ca2+-transport ATPase activity, 3) cellular respiration, and 4) nucleic acid and lipid biosynthesis.TargetActionsOrganismATubulin beta chaininhibitorHumansUTubulin alpha-4A chaininhibitorHumans
+
+Q: What is the Background of the Sirolimus?
+A: Sirolimus, also known as rapamycin, is a macrocyclic lactone antibiotic produced by bacteria Streptomyces hygroscopicus, which was isolated from the soil of the Vai Atari region of Rapa Nui (Easter Island).5 It was first isolated and identified as an antifungal agent with potent anticandida activity; however, after its potent antitumor and immunosuppressive activities were later discovered, it was extensively investigated as an immunosuppressive and antitumour agent.3 Its primary mechanism of action is the inhibition of the mammalian target of rapamycin (mTOR), which is a serine/threonine-specific protein kinase that regulates cell growth, proliferation, and survival. mTOR is an important therapeutic target for various diseases, as it was shown to regulate longevity and maintain normal glucose homeostasis.6 Targeting mTOR received more attention especially in cancer, as mTOR signalling pathways are constitutively activated in many types of human cancer.1Sirolimus was first approved by the FDA in 1999 for the prophylaxis of organ rejection in patients aged 13 years and older receiving renal transplants.4 In November 2000, the drug was recognized by the European Agency as an alternative to calcineurin antagonists for maintenance therapy with corticosteroids.5 In May 2015, the FDA approved sirolimus for the treatment of patients with lymphangioleiomyomatosis.10 In November 2021, albumin-bound sirolimus for intravenous injection was approved by the FDA for the treatment of adults with locally advanced unresectable or metastatic malignant perivascular epithelioid cell tumour (PEComa).9 Sirolimus was also investigated in other cancers such as skin cancer, Kaposi’s Sarcoma, cutaneous T-cell lymphomas, and tuberous sclerosis.4 The topical formulation of sirolimus, marketed as HYFTOR, was approved by the FDA in April 2022: this marks the first topical treatment approved in the US for facial angiofibroma associated with tuberous sclerosis complex.15
+
+Q: What is the Indication of the Sirolimus?
+A: Sirolimus is indicated for the prophylaxis of organ rejection in patients aged 13 years or older receiving renal transplants. In patients at low-to moderate-immunologic risk, it is recommended that sirolimus be used initially in a regimen with cyclosporine and corticosteroids; cyclosporine should be withdrawn two to four months after transplantation. In patients at high-immunologic risk (defined as Black recipients and/or repeat renal transplant recipients who lost a previous allograft for immunologic reason and/or patients with high panel-reactive antibodies [PRA; peak PRA level > 80%]), it is recommended that sirolimus be used in combination with cyclosporine and corticosteroids for the first year following transplantation.8It is also used to treat lymphangioleiomyomatosis.8 In the US, albumin-bound sirolimus for intravenous injection is indicated for the treatment of adult patients with locally advanced unresectable or metastatic malignant perivascular epithelioid cell tumour (PEComa).9In Europe, it is recommended that sirolimus for the prophylaxis of organ rejection in renal transplants is used in combination with cyclosporin microemulsion and corticosteroids for two to three months. Sirolimus may be continued as maintenance therapy with corticosteroids only if cyclosporin microemulsion can be progressively discontinued.13Topical sirolimus is indicated for the treatment of facial angiofibroma associated with tuberous sclerosis in adults and pediatric patients six years of age and older.14Reduce drug development failure ratesBuild, train, & validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, & validate predictive machine-learning models with structured datasets.See how
+
+Q: What is the Mechanism of action of the Sirolimus?
+A: Sirolimus works by inhibiting T-lymphocyte activation and proliferation stimulated by antigens and cytokines such as interleukin (IL)-2, IL-4, and IL-15. In target cells, sirolimus binds to the cytoplasmic receptor FK506-binding protein-12 (FKBP12), an immunophilin, to form an immunosuppressive complex. FKBP12-sirolimus complex binds to and inhibits the activation of the mammalian target of rapamycin (mTOR),2,8 which is a serine/threonine-specific protein kinase that regulates cell growth, proliferation, survival, mobility, and angiogenesis.1,2 mTOR regulates the downstream signalling pathways involved in cell survival, such as the phosphatidylinositol-3 kinase (PI3K)/Akt signalling pathway.1 Inhibition of mTOR leads to the suppression of cytokine-driven T-cell proliferation, thus the progression from the G1 to the S phase of the cell cycle is inhibited. Sirolimus also inhibits antibody production. In vitro, sirolimus and other mTOR inhibitors inhibit the production of certain growth factors that may affect angiogenesis, fibroblast proliferation, and vascular permeability.8 Lymphangioleiomyomatosis is a disorder that primarily affects the lungs. It is characterized by lung tissue infiltration, unregulated alveolar smooth muscle proliferation, and cystic destruction of parenchyma. Although infrequent, it occurs as a symptomatic pulmonary complication in tuberous sclerosis complex (TSC), which is an inherited disorder caused by mutations in TSC genes.7 Loss of functional TSC gene leads to the aberrant activation of the mTOR signalling pathway, resulting in cellular proliferation and release of lymphangiogenic growth factors. Sirolimus inhibits the activated mTOR pathway and proliferation of alveolar smooth muscle cell proliferation.8TargetActionsOrganismASerine/threonine-protein kinase mTORinhibitorHumans
+
+Q: What is the Background of the Alitretinoin?
+A: An important regulator of gene expression during growth and development, and in neoplasms. Tretinoin, also known as retinoic acid and derived from maternal vitamin A, is essential for normal growth; and embryonic development. An excess of tretinoin can be teratogenic. It is used in the treatment of psoriasis; acne vulgaris; and several other skin diseases. It has also been approved for use in promyelocytic leukemia (leukemia, promyelocytic, acute).
+
+Q: What is the Indication of the Alitretinoin?
+A: For topical treatment of cutaneous lesions in patients with AIDS-related Kaposi's sarcoma.Reduce drug development failure ratesBuild, train, & validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, & validate predictive machine-learning models with structured datasets.See how
+
+Q: What is the Mechanism of action of the Alitretinoin?
+A: Alitretinoin binds to and activates all known intracellular retinoid receptor subtypes (RARa, RARb, RARg, RXRa, RXRb and RXRg). Once activated these receptors function as transcription factors that regulate the expression of genes that control the process of cellular differentiation and proliferation in both normal and neoplastic cells.TargetActionsOrganismARetinoic acid receptor alphaagonistHumansARetinoic acid receptor RXR-alphaagonistHumansARetinoic acid receptor betaagonistHumansARetinoic acid receptor RXR-betaagonistHumansARetinoic acid receptor gammaagonistHumansARetinoic acid receptor RXR-gammaagonistHumansUInsulin-like growth factor-binding protein 3Not AvailableHumansUPregnancy-specific beta-1-glycoprotein 5Not AvailableHumansUCytochrome P450 26C1Not AvailableHumans
+
+Q: What is the Background of the Interferon alfacon-1?
+A: Interferon alfacon-1 is a recombinant non-naturally occurring type-I interferon. The 166-amino acid sequence of Interferon alfacon-1 was derived by scanning the sequences of several natural interferon alpha subtypes and assigning the most frequently observed amino acid in each corresponding position. Four additional amino acid changes were made to facilitate the molecular construction, and a corresponding synthetic DNA sequence was constructed using chemical synthesis methodology. Interferon alfacon-1 differs from interferon alfa-2b at 20/166 amino acids (88% homology), and comparison with interferon-beta shows identity at over 30% of the amino acid positions. Interferon alfacon-1 is produced in Escherichia coli (E. coli) cells that have been genetically altered by insertion of a synthetically constructed sequence that codes for Interferon alfacon-1. Prior to final purification, Interferon alfacon-1 is allowed to oxidize to its native state, and its final purity is achieved by sequential passage over a series of chromatography columns. This protein has a molecular weight of 19,434 daltons.
+
+Q: What is the Mechanism of action of the Interferon alfacon-1?
+A: Interferon alpha binds to type I interferon receptors (IFNAR1 and IFNAR2c) which, upon dimerization, activate two Jak (Janus kinase) tyrosine kinases (Jak1 and Tyk2). These transphosphorylate themselves and phosphorylate the receptors. The phosphorylated INFAR receptors then bind to Stat1 and Stat2 (signal transducers and activators of transcription) which dimerize and activate multiple (~100) immunomodulatory and antiviral proteins. Interferon alpha binds less stably to type I interferon receptors than interferon beta. The resulting actions include gene transcription, inhibition of cellular growth, alteration of the state of cellular differentiation, interference with oncogene expression, alteration of cell surface antigen expression, increasing phagocytic activity of macrophages, and augmentation of the cytotoxicity of lymphocytes for target cells.TargetActionsOrganismAInterferon alpha/beta receptor 1binderHumansAInterferon alpha/beta receptor 2binderHumans
+
+Q: What is the Background of the Vinblastine?
+A: Antitumor alkaloid isolated from Vinca rosea. (Merck, 11th ed.)
+
+Q: What is the Indication of the Vinblastine?
+A: For treatment of breast cancer, testicular cancer, lymphomas, neuroblastoma, Hodgkin's and non-Hodgkin's lymphomas, mycosis fungoides, histiocytosis, and Kaposi's sarcoma.Reduce drug development failure ratesBuild, train, & validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, & validate predictive machine-learning models with structured datasets.See how
+
+Q: What is the Mechanism of action of the Vinblastine?
+A: The antitumor activity of vinblastine is thought to be due primarily to inhibition of mitosis at metaphase through its interaction with tubulin. Vinblastine binds to the microtubular proteins of the mitotic spindle, leading to crystallization of the microtubule and mitotic arrest or cell death.TargetActionsOrganismATubulin alpha-1A chainbinderHumansATubulin beta chainbinderHumansATubulin delta chainbinderHumansATubulin gamma-1 chainbinderHumansATubulin epsilon chainbinderHumansNTranscription factor AP-1other/unknownHumans
+
+Q: What is the Background of the Trabectedin?
+A: Trabectedin, also referred as ET-743 during its development, is a marine-derived antitumor agent discovered in the Carribean tunicate Ecteinascidia turbinata and now produced synthetically. Trabectedin has a unique mechanism of action. It binds to the minor groove of DNA interfering with cell division and genetic transcription processes and DNA repair machinery. It is approved for use in Europe, Russia and South Korea for the treatment of advanced soft tissue sarcoma. It is currently under evaluation for the treatment of breast cancer, prostate cancer, in addition to pediatric sarcomas. Both the European Commission and the U.S. Food and Drug Administration (FDA) have approved trabectedin as an orphan drug in soft tissue sarcomas and ovarian cancer. On October 23, 2015, the FDA approved trabectedin, (as Yondelis), for the treatment of specific soft tissue sarcomas.
+
+Q: What is the Indication of the Trabectedin?
+A: Indicated for treatment of advanced soft tissue sarcoma in patients refractory to or unsuitable to receive anthracycline or ifosfamide chemotherapy in Europe, Russia and South Korea. Approved for orphan drug status by the U.S. FDA for treatment of soft tissue sarcomas and ovarian cancer. Investigated for use/treatment in cancer/tumors (unspecified), gastric cancer, ovarian cancer, pediatric indications, sarcoma, and solid tumors.Reduce drug development failure ratesBuild, train, & validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, & validate predictive machine-learning models with structured datasets.See how
+
+Q: What is the Mechanism of action of the Trabectedin?
+A: Trabectedin interacts with the minor groove of DNA and alkylates guanine at the N2 position, which bends towards the major groove. In this manner, it is thought that the drug affects various transcription factors involved in cell proliferation, particularly via the transcription-coupled nucleotide excision repair system. Trabectedin blocks the cell cycle at the G2 phase, while cells at the G1 phase are most sensitive to the drug. It also inhibits overexpression of the multidrug resistance-1 gene (MDR-1) coding for the P-glycoprotein that is a major factor responsible for cells developing resistance to cancer drugs. The agent is also thought to interfere with the nucleotide excision repair pathways of cancer cells, suggesting that it could be effective in the treatment of many cancer types including melanoma and sarcoma, as well as lung, breast, ovarian, endometrial and prostate cancers; clinical evaluations are underway in these indications.TargetActionsOrganismADNAbinderHumans
+
+Q: What is the Background of the Tasonermin?
+A: Tasonermin is recombinant soluble form tumor necrosis factor α produced via Escherichia coli cell culture. It was approved for use by the European Medicines Agency in April of 1999 for use as an adjunt to surgery for the subsequent removal of the tumor and in palliative care for irresectable soft tissue sarcoma of the limbs as the product Beromun. It is administered with Melphalan via mild hyperthermic isolated limb perfusion.
+
+Q: What is the Indication of the Tasonermin?
+A: For use in adults as an adjunct to surgery for subsequent removal of the tumour so as to prevent or delay amputation, or in palliative care, for irresectable soft tissue sarcoma of the limbs Label. Used in combination with melphalan via mild hyperthermic isolated limb perfusion.Reduce drug development failure ratesBuild, train, & validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, & validate predictive machine-learning models with structured datasets.See how
+
+Q: What is the Mechanism of action of the Tasonermin?
+A: Since tasonermin is recombinant TNF-α, it functions exactly as endogenous TNF-α does. The direct cytotoxic effect of TNF-α is mediated by TNF-α receptor 1 2. The bound receptor activates the well-reviewed death receptor pathway involving the activation of initiator caspases 8 and 9 then ultimately ending in the activation of effector caspase 3 which begins the process of apoptosis.The effect on tumor vasculature is mediated by the inflammatory signalling pathway of TNF-α, the NFκB pathway 2. This pathway is also activated by TNFR1 when bound to TNFα. The NFκB transcription factor increases expression of proteins in vascular endothelial cells. These proteins include cell adhesion molecules, inflammatory mediators like prostaglandins and interleukins, and growth factors 4. TNF-&alpha also increases the expression of inducible nitric oxide synthase via this pathway which contributes to the generation of reactive nitrogen species 3. These species are able to damage cells in the tumor and microvasculature.The cytokines produced from NFκB activation and TNF-&aplha; itself serve to activate the cells of the immune system which further damage tumor cells with respiratory bursts, phagocytosis and subsequent breakdown of the cell, and release of cytotoxic enzymes. The antigen presenting cells which phagocytose the tumor cells are able to activate lymphocytes and allow the adaptive immune system to further damage the tumor tissue 5.TargetActionsOrganismATumor necrosis factor receptor superfamily member 1AagonistHumansUTumor necrosis factor receptor superfamily member 1BagonistHumans
+
+Q: What is the Background of the Paclitaxel?
+A: Paclitaxel is a chemotherapeutic agent marketed under the brand name Taxol among others. Used as a treatment for various cancers, paclitaxel is a mitotic inhibitor that was first isolated in 1971 from the bark of the Pacific yew tree which contains endophytic fungi that synthesize paclitaxel. It is available as an intravenous solution for injection and the newer formulation contains albumin-bound paclitaxel marketed under the brand name Abraxane.
+
+Q: What is the Indication of the Paclitaxel?
+A: Used in the treatment of Kaposi's sarcoma and cancer of the lung, ovarian, and breast. Abraxane® is specfically indicated for the treatment of metastatic breast cancer and locally advanced or metastatic non-small cell lung cancer.Reduce drug development failure ratesBuild, train, & validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, & validate predictive machine-learning models with structured datasets.See how
+
+Q: What is the Mechanism of action of the Paclitaxel?
+A: Paclitaxel interferes with the normal function of microtubule growth. Whereas drugs like colchicine cause the depolymerization of microtubules in vivo, paclitaxel arrests their function by having the opposite effect; it hyper-stabilizes their structure. This destroys the cell's ability to use its cytoskeleton in a flexible manner. Specifically, paclitaxel binds to the β subunit of tubulin. Tubulin is the "building block" of mictotubules, and the binding of paclitaxel locks these building blocks in place. The resulting microtubule/paclitaxel complex does not have the ability to disassemble. This adversely affects cell function because the shortening and lengthening of microtubules (termed dynamic instability) is necessary for their function as a transportation highway for the cell. Chromosomes, for example, rely upon this property of microtubules during mitosis. Further research has indicated that paclitaxel induces programmed cell death (apoptosis) in cancer cells by binding to an apoptosis stopping protein called Bcl-2 (B-cell leukemia 2) and thus arresting its function.TargetActionsOrganismATubulin beta-1 chaininhibitorHumansAApoptosis regulator Bcl-2inhibitorHumansAMicrotubule-associated protein 4Not AvailableHumansAMicrotubule-associated protein 2Not AvailableHumansAMicrotubule-associated protein tauNot AvailableHumansUNuclear receptor subfamily 1 group I member 2inducerHumans
+
+Q: What is the Background of the Tibolone?
+A: Tibolone is a synthetic steroid hormone drug, which is mainly non-selective in its binding profile, acting as an agonist primarily at estrogen receptors (ER), with a preference for ER alpha 11.Tibolone (Livial, Org OD 14), produced by Organon (West Orange, NJ), is a synthetic steroid that possesses estrogenic, androgenic and progestogenic properties. It has been used in Europe for almost 2 decades, primarily for the prevention of postmenopausal osteoporosis and the treatment of post-menopausal symptoms 4. Tibolone is approved in 90 countries to manage menopausal symptoms and in 45 countries to prevent the development of osteoporosis 12.In June 2006, Organon Pharmaceuticals announced the receipt of a Not Approvable Letter from the U.S. Food and Drug Administration (FDA), advising the company that the New Drug Application (NDA) for tibolone had not been approved 5.Interestingly, the use of tibolone in the treatment cardiovascular disease has been studied with inconclusive results 2. Tibolone has been to have anti-resorptive effects on bone 11.
+
+Q: What is the Indication of the Tibolone?
+A: For the relief of post-menopausal symptoms and for the prevention of osteoporosis 7.Reduce drug development failure ratesBuild, train, & validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, & validate predictive machine-learning models with structured datasets.See how
+
+Q: What is the Mechanism of action of the Tibolone?
+A: This drug's effects are owed to the activity of its metabolites in various tissues 4.Upon ingestion, tibolone is quickly converted into three major metabolites: 3 alpha- and 3 beta-hydroxy-tibolone, which have oestrogenic effects, and the Delta(4)-isomer, which has progestogenic and androgenic effects. The specific tissue-selective effects of tibolone occur due to the metabolism, regulation of enzymes and receptor activation that varies in different tissues of the body.The bone-conserving effects occur due to estradiol receptor activation, while the progesterone and androgen receptors are not involved in this process. Breast tissue of monkeys is not found to be stimulated after tibolone administration, as occurs with estrogen plus progesterone used in combination. This is explained by the fact that tibolone and its metabolites inhibit sulphatase and 17 beta-hydroxysteroid dehydrogenase (HSD) type I and stimulate sulphotransferase and 17 beta-HSD type II. The combined effects of this process prevent the conversion to active estrogens.In the uterus, the progestogenic activity of the Delta(4)-metabolite and the effect on estrogen-inactivating enzymes prevent estrogenic stimulation. The mammary gland is not stimulated in currently used animal models. Tibolone has been shown to regulate estrogenic activity in several tissue types by influencing the availability of estrogenic compounds for the estradiol receptor in a selective manner 2.Additionally, tibolone modulates cellular homeostasis in the breast by preventing breast tissue proliferation and stimulating cell apoptosis. Tibolone does not stimulate the endometrium because of the action of its highly stable progestogenic metabolite (Delta(4)-isomer) in combination with an effect on the sulfatase (inhibition)-sulfotransferase (stimulation) system. The estrogenic metabolites of tibolone have direct, favorable effects on the cardiovascular system and, in animal models, this drug has shown no adverse consequences. The tissue-selective effects of tibolone are the result of metabolism, enzyme regulation and receptor activation that vary in different tissues. The bone-preserving effects of tibolone are the result of estradiol receptor activation, while other steroid receptors, mainly the progesterone and androgen receptors, are not involved in this process. In a study of monkeys, breast tissue was not stimulated, which occurs with estrogen and progesterone, because tibolone and its metabolites inhibit sulfatase and 17 beta-hydroxysteroid _dehydrogenase (HSD) type I and stimulate _sulfotransferase and 17 beta-HSD type II. The simultaneous effects of this process halt conversion to active estrogens. Additionally, tibolone affects cellular homeostasis in the breast by preventing proliferation and stimulating apoptosis. Tibolone does not stimulate the endometrium due to the action of the highly stable progestogenic metabolite (Delta(4)-isomer) in combination with an effect on the sulphatase (inhibition)-sulphotransferase (stimulation) pathway 1.The levels of tibolone metabolites and the alteration of hormonal activities vary according to the tissue type. In endometrial tissue the Δ4-isomer functions as a progestagen, however, in the brain and liver, it shows androgenic effects. In breast tissue, the primary actions of tibolone are strong inhibition of sulfatase activity and weak inhibition of 17β-hydroxysteroid dehydrogenase activity, which leads to blocking the conversion estrone sulfate to E2 4.TargetActionsOrganismAEstrogen receptor alphaantagonistagonistHumans
+
+Q: What is the Background of the Palbociclib?
+A: Palbociclib is a piperazine pyridopyrimidine3 that acts in the cell cycle machinery. It is a second generation cyclin-dependent kinase inhibitor4 selected from a group of pyridopyrimidine compounds due to its favorable physical and pharmaceutical properties.5Palbociclib was developed by Pfizer Inc after the discovery that identified the cyclin-dependent kinases as key regulators of cell growth.8 It was originally FDA approved on March 2015 for the treatment of HR-positive, HER2-negative advanced or metastatic breast cancer and its indications were updated in April 2019 to include male patients based on findings from postmarketing reports and electronic health records demonstrating safety and clinical efficacy.7
+
+Q: What is the Indication of the Palbociclib?
+A: Palbociclib is indicated in combination with letrozole as initial endocrine-based therapy for the treatment of human epidermal growth factor receptor type 2 (HER2)-negative and hormone receptor(HR)-positive tumors in adult patients with advanced/metastatic breast cancer. It is as well approved in combination with fulvestrant in patients with disease progression with prior endocrine therapy.1In the official labeling, the use of palbociclib should be accompanied with either an aromatase inhibition, no restricted to letrozole, as initial endocrine-based therapy in postmenopausal women or in man.LabelThe breast cancer starts as a group of cancer cells that grow into and destroy the nearby breast tissue. This growth can spread into other parts of the body which is called metastasis. According to the location of the cancer cells, it can be categorized in ductal carcinoma and lobular carcinoma. However, other types of breast cancer include inflammatory breast cancer, Paget disease of the breast, triple negative breast cancer non-Hodgkin lymphoma and soft tissue sarcoma.9 In males, breast cancer is usually treated as the cases of postmenopausal women and almost all the cases are ductal carcinoma.10Reduce drug development failure ratesBuild, train, & validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, & validate predictive machine-learning models with structured datasets.See how
+
+Q: What is the Mechanism of action of the Palbociclib?
+A: Palbociclib is a cyclin-dependent kinase 4/6 (CDK4/6) inhibitor1 that acts by binding to the ATP pocket with an IC50 in the range of 9-15 nmol/L. It is important to consider that it presents low to absent activity against other kinases.4 The CDK4/6 kinase is involved, with coregulatory partner cyclin D, in the G1-S transition. Hence, inhibition of this step prevents cell cycle progression in cells in whose this pathway is functioning. This step includes the pathways of the phosphorylation of retinoblastoma protein and the E2F family of transcription factors.4TargetActionsOrganismACyclin-dependent kinase 4inhibitorHumansACyclin-dependent kinase 6inhibitorHumans
+
+Q: What is the Background of the Vesnarinone?
+A: Vesnarinone has been used in trials studying the treatment of HIV Infections and Sarcoma, Kaposi.
+
+Q: What is the Mechanism of action of the Vesnarinone?
+A: Not Available
+
+Q: What is the Background of the TNP-470?
+A: O-(chloroacetylcarbamoyl)fumagillol (TNP-470) has been used in trials studying the treatment of HIV Infections, Sarcoma, Kaposi, and Pancreatic Neoplasms.
+
+Q: What is the Mechanism of action of the TNP-470?
+A: TargetActionsOrganismUMethionine aminopeptidase 2Not AvailableHumans
+
+Q: What is the Background of the Binetrakin?
+A: Binetrakin has been used in trials studying the treatment of HIV Infections, Sarcoma, Kaposi, Non-Hodgkin's Lymphoma (NHL), Myelodysplastic Syndrome (MDS), and Leukemia, Acute Myelogenous (AML), among others.
+
+Q: What is the Mechanism of action of the Binetrakin?
+A: Not Available
+
+Q: What is the Background of the Incyclinide?
+A: Incyclinide has been used in trials studying the treatment of HIV Infection, AIDS-related Kaposi Sarcoma, Brain and Central Nervous System Tumors, and Unspecified Adult Solid Tumor, Protocol Specific.
+
+Q: What is the Mechanism of action of the Incyclinide?
+A: Not Available
+
+Q: What is the Background of the Bifenthrin?
+A: Bifenthrin is under investigation in clinical trial NCT01560247 (Percutaneous Recanalization in Ischemic Stroke Management in Europe Observational Registry).
+
+Q: What is the Mechanism of action of the Bifenthrin?
+A: Not Available
+
+Q: What is the Background of the Conatumumab?
+A: Conatumumab has been used in trials studying the treatment of Sarcoma, Lymphoma, Oncology, Colon Cancer, and Rectal Cancer, among others.
+
+Q: What is the Mechanism of action of the Conatumumab?
+A: Not Available
+
+Q: What is the Background of the Tozuleristide?
+A: Tozuleristide is under investigation in clinical trial NCT02464332 (Safety Study of BLZ-100 in Adult Subjects With Sarcoma Undergoing Surgery).
+
+Q: What is the Mechanism of action of the Tozuleristide?
+A: Not Available
+
+Q: What is the Background of the Selurampanel?
+A: Selurampanel has been investigated in Adrenocortical Adenoma and Sarcoma, Endometrial Stromal.
+
+Q: What is the Mechanism of action of the Selurampanel?
+A: Not Available
+
+Q: What is the Background of the Robatumumab?
+A: Robatumumab has been used in trials studying the treatment of Osteosarcoma, Sarcoma, Ewing's, and Peripheral Neuroectodermal Tumor.
+
+Q: What is the Mechanism of action of the Robatumumab?
+A: Not Available
+
+Q: What is the Background of the Ontuxizumab?
+A: Ontuxizumab is a humanized monoclonal antibody that targets endosialin or tumour endothelial marker 1 (TEM-1). It is under investigation in clinical trial NCT01574716 (Sarcoma Study of Morab-004 Utilization: Research and Clinical Evaluation).
+
+Q: What is the Mechanism of action of the Ontuxizumab?
+A: Not Available
+
+Q: What is the Background of the Racotumomab?
+A: Racotumomab has been used in trials studying the treatment of Glioma, Wilm's Tumor, Neuroblastoma, Retinoblastoma, and Ewing's Sarcoma.
+
+Q: What is the Mechanism of action of the Racotumomab?
+A: Not Available
+
+Q: What is the Background of the RG-4733?
+A: Ro4929097 has been used in trials studying the treatment of Sarcoma, LYMPHOMA, Neoplasms, Wilm's Tumor, and OSTEOSARCOMA, among others.
+
+Q: What is the Mechanism of action of the RG-4733?
+A: Not Available
+
+Q: What is the Background of the Valspodar?
+A: Valspodar has been used in trials studying the treatment of Cancer, Sarcoma, Leukemia, Lymphoma, and Breast Cancer, among others.
+
+Q: What is the Mechanism of action of the Valspodar?
+A: Not Available
+
+Q: What is the Background of the Cilengitide?
+A: Cilengitide has been used in trials studying the treatment of Sarcoma, Gliomas, Lymphoma, Leukemia, and Lung Cancer, among others.
+
+Q: What is the Mechanism of action of the Cilengitide?
+A: Not Available
+
+Q: What is the Background of the Pegamotecan?
+A: Pegamotecan has been used in trials studying the treatment of Cancer of Stomach, Sarcoma, Soft Tissue, and Gastroesophageal Cancer.
+
+Q: What is the Mechanism of action of the Pegamotecan?
+A: Not Available
+
+Q: What is the Background of the Nanoparticle Epirubicin?
+A: Nanoparticle Epirubicin is under investigation in clinical trial NCT03168061 (Dose-escalation and Expansion Trial of NC-6300 in Patients With Advanced Solid Tumors or Soft Tissue Sarcoma). It is a novel epirubicin drug-conjugated polymeric micelle.
+
+Q: What is the Mechanism of action of the Nanoparticle Epirubicin?
+A: Not Available
+
+Q: What is the Background of the Exatecan?
+A: Exatecan has been used in trials studying the treatment of Sarcoma, Leukemia, Lymphoma, Lung Cancer, and Liver Cancer, among others.
+
+Q: What is the Mechanism of action of the Exatecan?
+A: Not Available
+
+Q: What is the Background of the Soblidotin?
+A: Soblidotin has been used in trials studying the treatment of Sarcoma, Lung Cancer, and Unspecified Adult Solid Tumor, Protocol Specific.
+
+Q: What is the Mechanism of action of the Soblidotin?
+A: Not Available
+
+Q: What is the Background of the Dolastatin 10?
+A: Dolastatin 10 has been used in trials studying the treatment of Sarcoma, Leukemia, Lymphoma, Liver Cancer, and Kidney Cancer, among others.
+
+Q: What is the Mechanism of action of the Dolastatin 10?
+A: Not Available
+
+Q: What is the Background of the Camsirubicin?
+A: GPX-150 has been used in trials studying the treatment of Soft Tissue Sarcoma and Advanced Solid Tumors - Phase 1 Population.
+
+Q: What is the Mechanism of action of the Camsirubicin?
+A: Not Available
+
+Q: What is the Background of the Trofosfamide?
+A: Trofosfamide has been used in trials studying the treatment of Ependymomas, Medulloblastomas, Sarcoma, Soft Tissue, Supratentorial PNETs, and Recurrent Brain Tumors.
+
+Q: What is the Mechanism of action of the Trofosfamide?
+A: Not Available
+
+Q: What is the Background of the Figitumumab?
+A: Figitumumab has been used in trials studying the treatment of Sarcoma, Solid Tumor, Breast Cancer, Lung Neoplasms, and Advanced Cancer, among others.
+
+Q: What is the Mechanism of action of the Figitumumab?
+A: Not Available
+
+Q: What is the Background of the Antineoplaston A10?
+A: Antineoplaston A10 has been used in trials studying the treatment of Sarcoma, Lymphoma, Lung Cancer, Liver Cancer, and Kidney Cancer, among others.
+
+Q: What is the Mechanism of action of the Antineoplaston A10?
+A: Not Available
+
+Q: What is the Background of the Ombrabulin?
+A: Ombrabulin has been used in trials studying the treatment of Sarcoma, Neoplasms, Solid Tumor, Neoplasms, Malignant, and Advanced Solid Tumors, among others.
+
+Q: What is the Mechanism of action of the Ombrabulin?
+A: Not Available
+
+Q: What is the Background of the Zalypsis?
+A: Zalypsis has been used in trials studying the treatment of Lymphoma, Solid Tumors, Ewing's Sarcoma, Endometrial Cancer, and Uterine Cervical Cancer, among others.
+
+Q: What is the Mechanism of action of the Zalypsis?
+A: Not Available
+
+Q: What is the Background of the Ro 24-7429?
+A: Ro 24-7429 is under investigation in clinical trial NCT00002314 (A Study of Ro 24-7429 in Patients With Hiv-related Kaposi's Sarcoma).
+
+Q: What is the Mechanism of action of the Ro 24-7429?
+A: Not Available
+
+Q: What is the Background of the Disaccharide tripeptide glycerol dipalmitoyl?
+A: Disaccharide tripeptide glycerol dipalmitoyl is under investigation in clinical trial NCT00003667 (Combination Chemotherapy and Biological Therapy in Treating Patients With High-Risk Ewing's Sarcoma).
+
+Q: What is the Mechanism of action of the Disaccharide tripeptide glycerol dipalmitoyl?
+A: Not Available
+
+Q: What is the Background of the Palifosfamide?
+A: Palifosfamide (ZIO-201) is a proprietary stabilized metabolite of ifosfamide. Ifosfamide has been shown to be effective in high doses in treating testicular cancer, sarcoma and lymphoma.
+
+Q: What is the Mechanism of action of the Palifosfamide?
+A: After metabolic activation, palifosfamide alkylates or binds with many intracellular molecular structures, including nucleic acids. The cytotoxic action is primarily due to cross-linking of strands of DNA and RNA, as well as inhibition of protein synthesis.TargetActionsOrganismUDNA (cytosine-5)-methyltransferase 1Not AvailableHumans
+
+Q: What is the Background of the Ridaforolimus?
+A: Not Available
+
+Q: What is the Mechanism of action of the Ridaforolimus?
+A: Deforolimus inhibits the mammalian target of rapamycin (mTOR), a serine kinase of the phosphatidylinositol-3-kinase (PI3K) family that regulates protein synthesis, affecting cell growth and proliferation. mTOR is a downstream effector of the phosphatidylinositol 3-kinase/Akt and nutrient-sensing pathways which cancer cells need to proliferate.TargetActionsOrganismASerine/threonine-protein kinase mTORinhibitorHumans
+
